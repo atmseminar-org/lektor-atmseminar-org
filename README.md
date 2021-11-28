@@ -26,3 +26,10 @@ Clone this repository, and at the project root use the command `lektor plugins r
 
 You can now use `lektor server` to host a [local version of the site](http://localhost:5000/) defaulting to localhost at port 5000.
 
+## Updates
+
+Site updates can come either as pull requests to this repository, or if you have push permissions to the [Github Pages repository](https://github.com/atmseminar-org/atmseminar-org.github.io) then you can execute the lektor command
+
+`lektor deploy ghpages --key-file [YOUR_PUBLIC_SSH_KEY_FILE]`
+
+Where `[YOUR_PUBLIC_SSH_KEY_FILE]` is the ssh key file associated with your github account.
