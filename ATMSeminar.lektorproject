@@ -2,4 +2,4 @@
 name = ATMSeminar
 
 [servers.ghpages]
-target = ghpages://git@ghpages:atmseminar-org/atmseminar-org.github.io.git
+target = ghpages://atmseminar-org/atmseminar-org.github.io?cname=www.atmseminar.org
