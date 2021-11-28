@@ -1,0 +1,5 @@
+/seminarContent
+/build
+*.pyc
+*.egg-info/
+dist/

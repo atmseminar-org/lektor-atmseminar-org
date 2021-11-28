@@ -1,0 +1,65 @@
+,id,title,authors,paper,presentation,best,theme
+0,91,Reducing the Impact of Noise Abatement Strategies on Airport Capacity by Forecasting Noise,"     Robert D. Sharman, Art Shantz",/seminarContent/seminar3/papers/p_003_AGOADM.pdf,,,"Airport, Ground Operations, Arrival and Departure Management"
+1,92,IPv6 and Internet Technology for the Aeronautical Telecommunication Network. A New Networking Approach,"     Phil Smith, Laurent Crouzard, Gilles Gawinowski, Ollivier Robert ",/seminarContent/seminar3/papers/p_005_ASA.pdf,,,Airborne Separation Assurance
+2,93,Air Traffic Complexity : towards Intrinsic Metrics,"     Daniel Delahaye, Stphane Puechmorel",/seminarContent/seminar3/papers/p_012_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+3,94,A Human Factors Evaluation of Active Final Approach Spacing Tool Concepts,"     Cheryl Quinn, John E. Robinson",/seminarContent/seminar3/papers/p_013_HFIHMI.pdf,,,"Human Factor Issues, Human-Machine Interfaces"
+4,95,"An Airspace Planning Model for Selecting Flight-Plans under Workload, Safety and Equity Considerations","     Hanif D. Sherali, J. Cole Smith, Antonio A.Trani",/seminarContent/seminar3/papers/p_014_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+5,96,Collaborative Optimization of Airport Arrival and Departure Traffic Flow Management Strategies for CDM,"     Eugene Gilbo, Kenneth W. Howard",/seminarContent/seminar3/papers/p_018_DSTCDM.pdf,,,Decision Support Tools and Collaborative Decision Making
+6,97,The Effect of Shared Information on Pilot/Controller and Controller/ Controller Interactions,"     R. John Hansman, Hayley J. Davison",/seminarContent/seminar3/papers/p_019_HFIHMI.pdf,,,"Human Factor Issues, Human-Machine Interfaces"
+7,98,Assessing the Benefits of Collaborative Decision Making in Air Traffic Management,"     Michael O. Ball, Robert L. Hoffman, Dave Knorr, James Wetherly, Mike Wambsganss",/seminarContent/seminar3/papers/p_020_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+8,99,Pricing Policies for Air Traffic Assignment,"     Jean-Loup Farges, Karine Deschinkel, Daniel Delahaye",/seminarContent/seminar3/papers/p_021_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+9,100,Managing Criticality of ASAS Applications,"     Batrice Bonnemaison, Andrew Zeitlin",/seminarContent/seminar3/papers/p_022_SSS.pdf,,,Safety and Separation Standards
+10,101,Co-operative Optimal Conflict Avoidance in Free Flight Airspace,"     Miguel A. Vilaplana, Colin Goodchild, Stefano Elefante",/seminarContent/seminar3/papers/p_023_ASA.pdf,,,Airborne Separation Assurance
+11,102,Human Factors in ATC Alarms and Notifications Design: an Experimental Evaluation,"     Sylvie Athenes, Stphane Chatty, Alexandre Bustico",/seminarContent/seminar3/papers/p_026_HFIHMI.pdf,,,"Human Factor Issues, Human-Machine Interfaces"
+12,103,"Restriction Relaxation Experiments Enabled by URET, a Strategic Planning Tool","     Michael Burski, Joseph Celio",/seminarContent/seminar3/papers/p_027_DSTCDM.pdf,,,Decision Support Tools and Collaborative Decision Making
+13,104,FACET: Future ATM Concepts Evaluation Tool,"     Karl Bilimoria, Banavar Sridhar, Gano Chatterji, Kapil Sheth, Shon Grabbe",/seminarContent/seminar3/papers/p_028_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+14,105,Reliability Analysis of Air Traffic Control,     Sven Ternov,/seminarContent/seminar3/papers/p_029_SSS.pdf,,,Safety and Separation Standards
+15,106,En route Spacing Tool: Efficient Conflict-free Spacing to Flow-Restricted Airspace,     Steve Green,/seminarContent/seminar3/papers/p_030_DSTCDM.pdf,,,Decision Support Tools and Collaborative Decision Making
+16,107,"Modeling ATM Automation, Metering Conformance Benefits","     Steve Green, Tara J. Weidner",/seminarContent/seminar3/papers/p_031_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+17,108,UNITED STATES and EUROPEAN Airport Capacity Assessment using the GMU Macroscopic Capacity Model (MCM),"     George Donohue, William D. Laska",/seminarContent/seminar3/papers/p_033_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+18,109,Building and Evaluating a Minimal Regulation Scheme,"     Jean-Baptiste Gotteland, P. Kerlirzin, Serge Manchon, C. Plusquellec",/seminarContent/seminar3/papers/p_035_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+19,110,"Interactions: Advanced Controller Displays, an ATM essential","     Ernst Kesseler, Ed Knapen",/seminarContent/seminar3/papers/p_036_HFIHMI.pdf,,,"Human Factor Issues, Human-Machine Interfaces"
+20,111,Free Flight in a Crowded Airspace?,"     Jacco Hoekstra, R.C.J. Ruigrok, R.N.H.W. van Gent",/seminarContent/seminar3/papers/p_037_ASA.pdf,,,Airborne Separation Assurance
+21,112,Advanced Decision Aids for Air Traffic Controllers: Understanding Different Working Methods from a Cognitive Point of View,"     Marie Christine Bressolle, R. Benhacene, N. Boudes, R. Parise",/seminarContent/seminar3/papers/p_039_DSTCDM.pdf,,,Decision Support Tools and Collaborative Decision Making
+22,113,Airspace Design and Arrival/Departure Planning For Brussels National Airport,"     Satish C. Mohleji, Ferdinand Jacobs",/seminarContent/seminar3/papers/p_044_AGOADM.pdf,,,"Airport, Ground Operations, Arrival and Departure Management"
+23,114,Analytical Identification of Airport and Airspace Capacity Constraints,"     Joe Hoffman, William Voss",/seminarContent/seminar3/papers/p_045_AMSMP.pdf,,,"Airspace Management, System Metrics and Policy"
+24,115,Predicting Congestion in the Northeast U.S.: A Search for Indicators,"     E. Beaton, John Brennan, James De Armon, Jeffrey Formosa, Kerry Levin, Shane Miller, Craig Wanke",/seminarContent/seminar3/papers/p_048_AMSMP.pdf,,,Safety
+25,116,RNAV Near-Term Terminal Procedures Development,"     Tom Becher, Jeffrey Formosa",/seminarContent/seminar3/papers/p_049_AGOADM.pdf,,,Safety
+26,117,Preliminary Observations about Providing Problem Resolution Advisories to Air Traffic Controllers,"     Dan B. Kirk, Winfield S. Heagy, Alvin L. McFarland, Michael J. Yablonski",/seminarContent/seminar3/papers/p_050_DSTCDM.pdf,,,Safety
+27,118,Operational Efficiency of Maneuver Coordination Rules for an Airborne Separation Assurance System,"     Raoul Schild, J.K Kuchar",/seminarContent/seminar3/papers/p_051ASA.pdf,,,Safety
+28,119,A Methodology for the Design of a Route Network,     Karim Mehadhebi,/seminarContent/seminar3/papers/p_053_AMSMP.pdf,,,Safety
+29,120,DADI - Datalinking of Aircraft-Derived Information,     Tony Hughes,/seminarContent/seminar3/papers/p_054_DSTCDM.pdf,,,Safety
+30,121,ATM Support Tools in PHARE - The Importance of Matching the Concepts of Management or Control,     Ian Wilson,/seminarContent/seminar3/papers/p_055_DSTCDM.pdf,,,Safety
+31,122,Probabilistic Wake Vortex Iinduced Accident Risk Assessment,"     J. Kos, H.A.P. Blom, L.J.P. Speijker, M.B. Klompstra, G.J. Bakker ",/seminarContent/seminar3/papers/p_056_SSS.pdf,,,Safety
+32,123,Geometric and Probabilistic Approaches towards Conflict Prediction,"     H.A.P Blom, Harmen Kremer, Bert Bakker ",/seminarContent/seminar3/papers/p_060_ASA.pdf,,,Safety
+33,124,"An outline about the RDT CNS/ATM integrated Programme ""Mediterranean Free Flight"" of the Italian Agency for Air Navigation Services",     Giancarlo Ferrara,/seminarContent/seminar3/papers/p_064_ASA.pdf,,,Safety
+34,125,Training Evaluation Approach of a new ATC Tool,"     Sonia Abdesslem, Marcel Leroux",/seminarContent/seminar3/papers/p_065HFIHMI.pdf,,,Human Factors
+35,126,Investigating the Validity of Performance and Objective Workload Evaluation Research (POWER),"     Carol Manning, Scott Mills, Cynthia Fox, Elaine Pfleiderer, Henry Mogilka",/seminarContent/seminar3/papers/p_066_HFIHMI.pdf,,,Human Factors
+36,127,Controller Roles - Time to change,"     Isabelle Pichancourt, Bob Graham, Alan Marsden, Frank Dowling",/seminarContent/seminar3/papers/p_067_HFIHMI.pdf,,,Human Factors
+37,128,A Conceptual Design of a Departure Planner Decision Aid,"     John-Paul Clarke, Ioannis Anagnostakis, Husni Idris, Eric Feron, R. John Hansman, Amadeo R. Odoni, William D.Hall",/seminarContent/seminar3/papers/p_068_AGOADM.pdf,,,Safety
+38,129,Modeling Distributed Human Decision-Making in Traffic Flow Management Operations,"     Leonard A. Wojcik, Keith C. Campbell, Wayne W. Cooper, Daniel P. Greennbaum",/seminarContent/seminar3/papers/p_071_DSTCDM.pdf,,,Safety
+39,130,SafeFlight 21: The 1999 Operational Evaluation of ADS-B Applications,"     Jim Cieplak, Edward Hahn, Baltazar O. Olmos",/seminarContent/seminar3/papers/p_072_ASA.pdf,,,Safety
+40,131,The Effects of Schedule Disruptions on the Economics of Airline Operations,     Zalman A.Shavell,/seminarContent/seminar3/papers/p_073_AMSMP.pdf,,,Safety
+41,132,Integrating the Cockpit with Air Traffic Management: the Concept of Path Objects,     John Barrer,/seminarContent/seminar3/papers/p_074_DSTCDM.pdf,,,Safety
+42,133,Closed Loop Forecasting of Air Traffic Demand and Delay,"     Jesse Johnson, Peter Kostiuk, David Lee, Dou Long",/seminarContent/seminar3/papers/p_080_AMSMP.pdf,,,Safety
+43,134,Trajectory Orientation: A Technology-Enabled Concept Requiring a Shift in Controller Roles and Responsibilities,"     Ken Leiden, Steve Green",/seminarContent/seminar3/papers/p_081_DSTCDM.pdf,,,Safety
+44,135,Free Flight and the Context of Control: Experiments and Modeling to determine the impact of distributed air-ground air traffic management on safety and procedures,"     Kevin Corker, Brian Gore, Kenneth Fleming, John Lane",/seminarContent/seminar3/papers/p_082_HFIHMI.pdf,,,Human Factors
+45,136,Flight Test Results: CTAS and FMS Cruise/Descent Trajectory Prediction Accuracy,"     Steve Green, Michael P. Grace, David H. Williams",/seminarContent/seminar3/papers/p_084_AGOADM.pdf,,,Safety
+46,137,The Operational Assessment of Free Flight Phase 1 ATM Capabilities,"     David Knorr,, Joseph Post,, Jeff Biros, Michelle Blucher",/seminarContent/seminar3/papers/p_088_ASA.pdf,,,Safety
+47,138,Lessons learnt from CENA-PHARE experiment and requirements for future evaluation of novel concepts in ATC,     Didier Pavet,/seminarContent/seminar3/papers/p_089_DSTCDM.pdf,,,Safety
+48,139,Trajectory Prediction Concepts for Next Generation Air Traffic Management,     Tony Warren,/seminarContent/seminar3/papers/p_091_AGOADM.pdf,,,Safety
+49,140,Human cognition modelling in ATM safety assessment,"     Henk Blom, Jasper Daams, Herman .B. Nijhuuis",/seminarContent/seminar3/papers/p_092_SSS.pdf,,,Safety
+50,141,Striving for Adequacy: The Importance of Rich HMI Requirements,"     Alistair Jackson, Sacha Dorbes, Isabelle Pichancourt",/seminarContent/seminar3/papers/p_094_HFIHMI.pdf,,,Human Factors
+51,142,The Computerized Analysis of ATC Tracking Data for an Operational Evaluation of CDTI/ADS-B Technology,     Scott Mills,/seminarContent/seminar3/papers/p_100_ASA.pdf,,,Safety
+52,143,Performance Measures for Future Architecture,"     Steve Bradford, Diana Liang, David Knorr",/seminarContent/seminar3/papers/p_102_AMSMP.pdf,,,Safety
+53,144,The Balance of Aviation Activities and Environmental Mitigation Strategies,"     Diana Liang, Steve Bradford, Fran Melone",/seminarContent/seminar3/papers/p_103_AMSMP.pdf,,,Safety
+54,145,Analysis of Separation Minima using a surveillance state vector approach,"     R. John Hansman, Tom G. Reynolds",/seminarContent/seminar3/papers/p_105_SSS.pdf,,,Safety
+55,146,Pushing the limits of ATC user interface design beyond SM interaction: the DigiStrips experience,"     Christophe Mertz, Stphane Chatty, Jean-Luc Vinot",/seminarContent/seminar3/papers/p_106_HFIHMI.pdf,,,Human Factors
+56,147,The influence of ATC in approach noise abatement,"     Andy D. Kershaw, Darren P. Rhodes, N.A. Smith",/seminarContent/seminar3/papers/p_107_AGOADM.pdf,,,Safety
+57,148,Wind prediction accuracy for ATM decision support tools,"     Steve Green, Rod Cole, Matt Jardin, Barry E. Schwartz, Stanley G. Benjamin",/seminarContent/seminar3/papers/p_110_DSTCDM.pdf,,,Safety
+58,149,Analysis and Modeling of Ground Operations at Hub Airports,"     Eric Feron, Kari Anderson, Francis Carr, William D. Hall",/seminarContent/seminar3/papers/p_111_AGOADM.pdf,,,Safety
+59,150,Comparison of US and European Airports and Airspace to Support Concept Validation,"     William Marnane, Jonathan Green, Diana Liang, Steve Bradford",/seminarContent/seminar3/papers/p_112_AMSMP.pdf,,,Safety
+60,151,The impact of human factors on ASAS,     Daniel Ferro,/seminarContent/seminar3/papers/p_116_HFIHMI.pdf,,,Human Factors
+61,152,Is limited delegation of separation assurance promising?,"     Eric Hoffman, Karim Zeghal, Anne Cloerec, Isabelle Grimaud, Jean-Pierre Nicolaon",/seminarContent/seminar3/papers/p_118_HFIHMI.pdf,,,Human Factors
+62,153,PD/3 - A Contribution to the Future of ATM,     Wim Post,/seminarContent/seminar3/papers/p_125_DSTCDM.pdf,,,Safety
+63,154,Put in Operation a Complex System is not only a Technical Challenge - Transition to a newly Automated Environment,"     Paola Amaldi, Nadio Di Rienzo, Giancarlo Barale",/seminarContent/seminar3/papers/p_127_HFIHMI.pdf,,,Human Factors

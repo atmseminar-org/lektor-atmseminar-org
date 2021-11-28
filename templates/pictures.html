@@ -1,0 +1,31 @@
+{% extends "generic_page.html" %}
+{% block body %}
+<div class="row">
+    <div class="col-sm-10">
+    
+        <h2>{{this.title}}</h2>
+    
+        {{this.body}}
+	{% set images = this.attachments.images.all() %}
+	{% if images %}
+	  <div class="columns is-multiline is-tablet">
+            {% for image in images|reverse %}
+              <div class="column is-one-third">
+		      <p><img src="{{ image|url }}" alt="Photo of {{ this.title }}" hspace="20"></p>
+              </div>
+	      <br/>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {%block addcontent %}{% endblock %}
+        
+
+        <p align="center">
+            <br/>
+
+        {{self.sponsors()}}
+        </p>
+    </div>
+</div>
+{% endblock %}

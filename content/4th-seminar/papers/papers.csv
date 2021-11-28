@@ -1,0 +1,69 @@
+,id,title,authors,paper,presentation,best,theme
+0,155,Context-Sensitive Speech Recognition in the Air Traffic Control Simulation,     Dirk Schaefer,/seminarContent/seminar4/papers/p_003_HF.pdf,,,Human Factors
+1,156,A Review of Civil Aviation Accidents Air Traffic Management Related Accidents:1980-1999,     Gerard W.H. van Es,/seminarContent/seminar4/papers/p_005_S.pdf,,,Safety
+2,157,Simulation of CTAS/FMS Air Traffic Management,"     Todd Callantine, Thomas Prevt, Nancy Smith, Everett Palmer",/seminarContent/seminar4/papers/p_008_AGC.pdf,,,Safety
+3,158,An Operational Assessment of Terminal and En Route Free Flight Capabilities,"     David Knorr, Joseph Post, Marilyn Walker, Daniel Howell",/seminarContent/seminar4/papers/p_009_DSTCDM.pdf,,,Safety
+4,159,Traffic Flow Management (TFM) weather Rerouting,"     Joseph E. Sherry, C.G. Ball, S.M. Zobell",/seminarContent/seminar4/papers/p_011_ITFODM.pdf,,,Safety
+5,160,Safety Assessments of ADS-B and ASAS,     Andrew Zeitlin,/seminarContent/seminar4/papers/p_013_S.pdf,,,Safety
+6,161,Development and Validation of the controller acceptance rating scale (CARS): Results of Empirical Research,"     Katharine K. Lee, Karol Kerns, Randall Bone, Monicarol Nickelson",/seminarContent/seminar4/papers/p_014_HF.pdf,,,Human Factors
+7,162,Determination of Minimum Push-Back and Taxi-Out Time Predictability Needed For Near-Term Departure Scheduling using DEPARTS,"     Wayne W. Cooper, Satish C. Mohleji, Carl D. Burke, J. Glenn Foster, Michael J. Mills",/seminarContent/seminar4/papers/p_015_DSTCDM.pdf,,,Safety
+8,163,Controller and Pilot Error in Surface Operations,     Kim Cardosi,/seminarContent/seminar4/papers/p_016_S.pdf,,,Safety
+9,164,Flight Deck Simulations of Station Keeping,"     Michael Agelii, Christian Olausson",/seminarContent/seminar4/papers/p_017_AGC.pdf,,,Safety
+10,165,Analytical and Empirical Analysis of the Impacts of Restricting Airspace,"     John M. Falker, James K. Kuchar",/seminarContent/seminar4/papers/p_018_ITFODM.pdf,,,Safety
+11,166,The Effect of Aircraft Wake Vortex Separation on Air Transportation Capacity,"     George Donohue, David K. Rutishauser",/seminarContent/seminar4/papers/p_022_S.pdf,,,Safety
+12,167,Estimation of Airport Capacity through the Determination of the Tower Controller Time Load,"     Francisco Montoto, Nicolas Suarez",/seminarContent/seminar4/papers/p_024_HF.pdf,,,Human Factors
+13,168,A Strategic and Tactical Tool for ATFM Planning based on Statistics and Probability Theory,"     Colin Goodchild, Miguel A. Vilaplana, Stefano Elefante",/seminarContent/seminar4/papers/p_035_ITFODM.pdf,,,Safety
+14,169,Required Total System Performance and Results of a Short Term Conflict Alert Simulation Study,"     Arek Shakarian, Aslaug Haraldsdottir",/seminarContent/seminar4/papers/p_038_S.pdf,,,Safety
+15,170,A System Dynamics Tool for Economic Performance Assessment in Air Traffic Management,"     Jean-Claude Hustache, Marco Gibellini, Paula Leal De Matos",/seminarContent/seminar4/papers/p_039_ITFODM.pdf,,,Safety
+16,171,Airborne Use of Traffic Intent Information in a Distributed Air-Ground Traffic Management Concept: Experiment Design and Preliminary Results,"     David J. Wing, Richard J. Adams, Bryan E. Barmore, Donald Moses",/seminarContent/seminar4/papers/p_048_AGC.pdf,,,Safety
+17,172,Shared-Separation: Empirical Results and Theoretical Implications,"     Karen DiMeo, Parimal Kopardekar, Rose Ashford, Sandy Lozito, Margaret-Anne Mackintosh",/seminarContent/seminar4/papers/p_050_AGC.pdf,,,Safety
+18,173,Airspace Fractal Dimensions and Applications,"     Stephane Mondoloni, Diana Liang",/seminarContent/seminar4/papers/p_054_MWE.pdf,,,Safety
+19,174,Accident Risk Assessment of Simultaneous Converging Instrument Approaches,"     Henk A.P. Blom, Margriet Klompstra, Bert Bakker",/seminarContent/seminar4/papers/p_060_S.pdf,,,Safety
+20,175,Transitions between Free Flight and Managed Airspace : a Controllers Perspective,"     Collin Beers, Hans Huisman",/seminarContent/seminar4/papers/p_066_AGC.pdf,,,Safety
+21,176,Noise-contour model validation through the use of full 4-D flight trajectories and an advanced thrust model,"     Laurent Cavadini, Peter Hullah",/seminarContent/seminar4/papers/p_072_MWE.pdf,,,Safety
+22,177,Cockpit Avionics And their perception by Air Traffic Controllers,     Ralane Benhacene,/seminarContent/seminar4/papers/p_074_HF.pdf,,,Human Factors
+23,178,Transition Airspace Controller Tool (TACT) Vizualization Aids for Radar Controllers,"     Christopher T. DeSenti, Celesta G. Ball, Dennis W. Rowe, Gretchen J. Jacobs",/seminarContent/seminar4/papers/p_075_DSTCDM.pdf,,,Safety
+24,179,Analysis of an Approach Spacing Application,"     Jonathan Hammer, Ganghuai Wang",/seminarContent/seminar4/papers/p_078_AGC.pdf,,,Safety
+25,180,Use of paper strips by Tower Air Traffic Controllers and promises offered by new design techniques on user interface,     Didier Pavet,/seminarContent/seminar4/papers/p_087_HF.pdf,,,Human Factors
+26,181,"Problem Analysis, Resolution and Ranking (PARR) Development and Assessment","     Daniel B. Kirk, Karen C. Bowen, Winfield S. Heagy, Karen J. Viets",/seminarContent/seminar4/papers/p_093_DSTCDM.pdf,,,Safety
+27,182,Assessing NAS Performance: Normalizing for the Effects of Weather,"     Michael B. Callaham, James S. DeArmon, Arlene Cooper, Jason H.Goodfriend",/seminarContent/seminar4/papers/p_094_MWE.pdf,,,Safety
+28,183,A Generic Sampling Technique for Measuring Aircraft Trajectory Prediction Accuracy,"     Mary Lee Cale, Shurong Liu, Robert D. Oaks, Mike Paglione, Hollis F. Ryan, Scott Summerill",/seminarContent/seminar4/papers/p_103_DSTCDM.pdf,,,Safety
+29,184,Operational Evaluation of the Direct-To Controller Tool,"     David McNally, Shawn Engelland, Ralph Bach, William Chan, Heinz Erzberger, Connie Brasil, Chester Gong, John Frey, Danny Vincent",/seminarContent/seminar4/papers/p_107_DSTCDM.pdf,,,Safety
+30,185,Introducing Structural Considerations into Complexity Metrics,"     Jonathan M. Histon, Guillaume Aigoin, Daniel Delahaye, R.J. Hansman, Stephane Puechmorel",/seminarContent/seminar4/papers/p_108_MWE.pdf,,,Safety
+31,186,Real-Time Data Link of Aircraft Parameters to the Center-TRACON Automation System (CTAS),"     Rich Coppenbarger, Gerd Kanning, Rey Salcido",/seminarContent/seminar4/papers/p_109_DSTCDM.pdf,,,Safety
+32,187,Collaborative Decision Making: Results of Experiments to Identify Limitations of Information Exchanges in Stand and Gate Operations,"     Peter Martin, Olivier Delain, Fadi Fakhoury",/seminarContent/seminar4/papers/p_114_DSTCDM.pdf,,,Safety
+33,188,Evaluation of Advanced Conflict Modelling in the Highly Interactive Problem Solver,"     Bas van Doorn, Bert Bakker, Colin Meckiff",/seminarContent/seminar4/papers/p_117_DSTCDM.pdf,,,Safety
+34,189,A statistical analysis of the influence of vertical and ground speed errors on conflict probe,"     Jean-Marc Alliot, Nicolas Durand, Graud Granger",/seminarContent/seminar4/papers/p_118_DSTCDM.pdf,,,Safety
+35,190,Slot Allocation with Constraint Programming: Models and Results,"     Nicolas Barnier, Pascal Brisset, Thomas Rivire",/seminarContent/seminar4/papers/p_119_ITFODM.pdf,,,Safety
+36,191,The Potential of Demand Management as a Short-Term Means of Relieving Airport Congestion,"     Terence P. Fan, Amedeo R. Odoni",/seminarContent/seminar4/papers/p_122_ITFODM.pdf,,,Safety
+37,192,Optimal Resolution of En Route Conflicts,"     Graud Granger, Nicolas Durand, Jean-Marc Alliot",/seminarContent/seminar4/papers/p_127_DSTCDM.pdf,,,Safety
+38,193,Aircraft Ground Traffic Optimization,"     Jean-Baptiste Gotteland, Nicolas Durand, Jean-Marc Alliot, Erwan Page",/seminarContent/seminar4/papers/p_128_DSTCDM.pdf,,,Safety
+39,194,Analysis of Demand Uncertainty Effects in Ground Delay Programs,"     Michael Ball, Thomas Vossen, Robert Hoffman",/seminarContent/seminar4/papers/p_130_ITFODM.pdf,,,Safety
+40,195,SOP: a decision-aid tool for Global Air Traffic Management System Optimisation,"     Thierry Champougny, Alain Duchene, Antoine Joubert, James Lambert, M. Minoux",/seminarContent/seminar4/papers/p_132_ITFODM.pdf,,,Safety
+41,196,Normalization of Airport and Terminal Area Operational Performance: A Case Study of Los Angeles International Airport,"     Mark Hansen, Tatjana Bolic",/seminarContent/seminar4/papers/p_133_MWE.pdf,,,Safety
+42,197,Identification of Controller Conflict Resolution Strategies for the CORA2 (Conflict Resolution Assistant) Project,"     Barry Kirwan, Mary Flynn",/seminarContent/seminar4/papers/p_134_HF.pdf,,,Human Factors
+43,198,Reducing Traffic bunching through a more Flexible Air Traffic Flow Management,"     Stphanie Stoltz, Patrick Ky",/seminarContent/seminar4/papers/p_135_ITFODM.pdf,,,Safety
+44,199,A Geometrical Approach to Conflict Probability Estimation,     Richard Irvine,/seminarContent/seminar4/papers/p_137_DSTCDM.pdf,,,Safety
+45,200,The Common ATM Information State Space - A unified data management system for the entire NAS resources based on an indexing system,"     Ian Crook, Zak Tibichte, Diana Liang",/seminarContent/seminar4/papers/p_138_DSTCDM.pdf,,,Safety
+46,201,Evaluating safety and usability of ATM systems,"     Francesco Pucci, Patrizia Marti, Paola Lanzi",/seminarContent/seminar4/papers/p_139_S.pdf,,,Safety
+47,202,Tactical Conflict Detection and Resolution in a 3-D Airspace,"     Gilles Dowek, Alfons Geser, Csar Muoz",/seminarContent/seminar4/papers/p_141_AGC.pdf,,,Safety
+48,203,Three Principles of Decision-Making Interactions in Traffic Flow Management Operations,     Leonard A. Wojcik,/seminarContent/seminar4/papers/p_145_ITFODM.pdf,,,Safety
+49,204,Analysis of Delay Causality at Newark International Airport,"     Shawn Allan, J.A. Beesley, Jim Evans, Steve Gaddy",/seminarContent/seminar4/papers/p_147_MWE.pdf,,,Safety
+50,205,Tactical Decision Support To ComplementStrategicTraffic Flow Management for Convective Weather,     James E. Evans,/seminarContent/seminar4/papers/p_148_MWE.pdf,,,Safety
+51,206,Development of an FAA - EUROCONTROL Approach to the Analysis of Human Error in ATM,"     Anne Isaac, Julia Pounds",/seminarContent/seminar4/papers/p_149_S.pdf,,,Safety
+52,207,Optimization of opening schemes,"     Celine Verlhac, Serge Manchon",/seminarContent/seminar4/papers/p_150_ITFODM.pdf,,,Safety
+53,208,Air Traffic Controller and Management Attitudes Towards Automation: An Empirical Investigation,"     Brian Hilburn, Mary Flynn",/seminarContent/seminar4/papers/p_152_HF.pdf,,,Human Factors
+54,209,A Safety- and Human-Centered Approach to Developing New Air Traffic Management Tools,"     Nancy Leveson, Maxime de Villepin, Jayakanth Srinivasan, Mirna Daouk..., Nadine Pilon, Geraldine Flynn",/seminarContent/seminar4/papers/p_153_S.pdf,,,Safety
+55,210,Sector-Less Air Traffic Management,"     Vu Duong, Gilles Gawinowski, Jean-Pierre Nicolaon, Darren Smith",/seminarContent/seminar4/papers/p_158_NC.pdf,,,Safety
+56,211,The Automated Airspace Concept,     Heinz Erzberger,/seminarContent/seminar4/papers/p_160_NC.pdf,,,Safety
+57,212,The Relationship between Air Traffic Control Communication Events and Measures of Controller Taskload and Workload,"     Carol Manning, Scott Mills, Cynthia Fox, Elaine Pfleiderer, Henry Mogilka",/seminarContent/seminar4/papers/p_161_HF.pdf,,,Human Factors
+58,213,Delegating upstreamMapping where it happens,"     Isabelle Grimaud, Eric Hoffman, Laurence Rognin, Karim Zeghal",/seminarContent/seminar4/papers/p_165_AGC.pdf,,,Safety
+59,214,Real-Time Assessment of Situation Awareness of Air Traffic Control Specialists On Operational Host Computer System and Display System Replacement Hardware,"     Ben F. Willems, Michele Heiney",/seminarContent/seminar4/papers/p_167_HF.pdf,,,Human Factors
+60,215,Assessing the Capacity of Novel ATM Systems,"     Alison J. Hudgell, R M Gingell",/seminarContent/seminar4/papers/p_171_MWE.pdf,,,Safety
+61,216,Two Studies of Paired Approaches,"     Amy Pritchett, Steve Landry",/seminarContent/seminar4/papers/p_178_AGC.pdf,,,Safety
+62,217,An Assessment of Flight Crew Experiences with FANS-1 Controller-Pilot Data Link Communication in the South Pacific,"     Nancy Smith, Peter Polson, John A. Brown, John Moses",/seminarContent/seminar4/papers/p_181_S.pdf,,,Safety
+63,218,Trajectory-based Air Traffic Management (TB-ATM) under Weather Uncertainty,"     Arnab Nilim, Laurent El Ghaoui, Vu Duong, Mark Hansen",/seminarContent/seminar4/papers/p_182_MWE.pdf,,,Safety
+64,219,Demand Management Versus Capacity Enhancement: Which Direction for Air Transportation?,     Peter F. Kostiuk,/seminarContent/seminar4/papers/p_183_ITFODM.pdf,,,Safety
+65,220,System Performance Characteristics of Centralized and Decentralized Air Traffic Separation Strategies,"     Jimmy Krozel, Mark Peters, Karl D. Bilimoria, Changkil Lee, Joseph S.B. Mitchell",/seminarContent/seminar4/papers/p_185_AGC.pdf,,,Safety
+66,221,Estimating Airport System Delay Performance,"     Jerry D. Welch, Richard T. Lloyd",/seminarContent/seminar4/papers/p_186_MWE.pdf,,,Safety
+67,222,Fuel Burn and Emission Forecasting for Europe,"     Ayce Celikel, Frank Jelinek",/seminarContent/seminar4/papers/p_187_MWE.pdf,,,Safety

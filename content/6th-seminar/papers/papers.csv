@@ -1,0 +1,71 @@
+,id,title,authors,paper,presentation,best,theme
+0,303,An Efficient Method For Airspace Analysis And Partitioning Based On Equalized Traffic Mass,     Alexander Klein,/seminarContent/seminar6/papers/p_001_AEM.pdf,,,Safety
+1,304,An Analysis of Potential Capacity Enhancements Through Wind Dependent Wake Turbulence Procedures,     Steven Lang,/seminarContent/seminar6/papers/p_002_AM.pdf,,,Safety
+2,305,Safety Analysis Methodology For Unmanned Aerial Vehicle (Uav) Collision Avoidance Systems,     James Kuchar,/seminarContent/seminar6/papers/p_005_S.pdf,,,Safety
+3,306,Improving Flight Efficiency Through Terminal Area Rnav,"     Kevin Sprong, Brennan Haltli",/seminarContent/seminar6/papers/p_007_AM.pdf,,,Safety>
+4,307,Probabilistic Congestion Management,"     Craig Wanke, Lixia Song",/seminarContent/seminar6/papers/p_008_TFO.pdf,,,Safety
+5,308,Statistical Performance Evaluation Between Linear And Nonlinear Designs For Aircraft Relative Guidance,"     Thierry MIQUEL, Jean Marc LOSCOS",/seminarContent/seminar6/papers/p_010_IAC.pdf,,,Innovative ATM concepts
+6,309,Route Charging Policy For A Functional Block Of Airspace (Ceats),"     Lorenzo Castelli, Walter Ukovich",/seminarContent/seminar6/papers/p_011_IAC.pdf,,,Innovative ATM concepts
+7,310,Advance Planning Through Schedule Analysis,"     Michelle Somerday, Andre Merling",/seminarContent/seminar6/papers/p_016_TFO.pdf,,,Safety
+8,311,Air And Ground Simulation Of Terminal-Area Fms Arrivals With Airborne Spacing And Merging,"     Todd Callantine, Paul Lee",/seminarContent/seminar6/papers/p_017_U.pdf,,,Safety
+9,312,Assessment Of The 3D-Separation Of Air Traffic Flows,"     David Gianazza, Nicolas Durand",/seminarContent/seminar6/papers/p_019_AEM.pdf,,,Safety
+10,313,Economic Contribution And Productivity Of Atm,"     Paula Leal de Matos, Amedeo Odoni",/seminarContent/seminar6/papers/p_026_MPM.pdf,,,Safety
+11,314,Improvement On The Acceptance Of A Conflict Resolution System By Air Traffic Controllers,"     Rainer Flicker, Manfred Fricke",/seminarContent/seminar6/papers/p_027_DS.pdf,,,Safety
+12,315,Airline Operational Benefits Of Surface Surveillance,"     Dan Howell, Steve Ritchey",/seminarContent/seminar6/papers/p_028_AM.pdf,,,Safety
+13,316,Pilot Perspective Of Asas Self-Separation In Challenging Environments,"     Rob Ruigrok, Nico de Gelder",/seminarContent/seminar6/papers/p_031_AGC.pdf,,,Safety
+14,317,Analysis Of Excess Flying Time In The National Airspace System,"     James DeArmon, George Solomos",/seminarContent/seminar6/papers/p_032_AEM.pdf,,,Safety
+15,318,Simulated Free Routing Operations In The Marseille Uir: Results And Issues From A Human Factors Perspective,"     Thomas Kircher, Philippe Trouslard",/seminarContent/seminar6/papers/p_033_HF.pdf,,,Human Factors
+16,319,Outbound Punctuality Sequencing By Collaborative Departure Planning,"     Hugo Jonge, de, Eugene Tuinstra",/seminarContent/seminar6/papers/p_034_AM.pdf,,,Safety
+17,320,On The Feasibility Of Traffic Synchronization In Central European Upper Airspace,     Lenka Dravecka,/seminarContent/seminar6/papers/p_035_TFO.pdf,,,Safety
+18,321,Design Of An Airborne Spacing Director To Minimise Pilot Speed Actions,"     Dan Ivanescu, Chris Shaw",/seminarContent/seminar6/papers/p_036_AGC.pdf,,,Safety
+19,322,Interactive And Immersive 3D Visualization For Atc,"     marc bourgois, matthew cooper",/seminarContent/seminar6/papers/p_040_IAC.pdf,,,Innovative ATM concepts
+20,323,Preliminary Results From A European Safety R&D Program,     Barry Kirwan,/seminarContent/seminar6/papers/p_042_S.pdf,,,Safety
+21,324,Airline Operations Managers: An Introduction To The Third Leg Of The National Air Transportation System,"     Karen Feigh, Amy Pritchett",/seminarContent/seminar6/papers/p_043_TFO.pdf,,,Safety
+22,325,"Organizational Issues And Safety Culture In Atm, Part 1: Stability Analysis","     Esa Ek, Roland Akselsson",/seminarContent/seminar6/papers/p_044_HF.pdf,,,Human Factors
+23,326,The Feasibility Of Measuring Capacity In A Real-Time Atm Simulation Independent Of Subjective Controller Workload Measurement,"     Kevin Corker, Rod Gingell",/seminarContent/seminar6/papers/p_046_MPM.pdf,,,Safety
+24,327,Variability Of Contrail Formation Conditions And The Implications For Policies To Reduce The Climate Impacts Of Aviation,"     Victoria Williams, Robert Noland",/seminarContent/seminar6/papers/p_047_EIM.pdf,,,Safety
+25,328,Environmental Tradeoffs Assessment Around Airports,"     Jean-Claude HUSTACHE, Alan MELROSE",/seminarContent/seminar6/papers/p_053_EIM.pdf,,,Safety
+26,329,Flight Efficiency Studies In Europe And The United States,"     Tarja Kettunen, Jean-Claude Hustache",/seminarContent/seminar6/papers/p_055_MPM.pdf,,,Safety
+27,330,Quantitatively Estimating Wake Vortex Safety Using P2P Model,"     Yue Xie, John Shortle",/seminarContent/seminar6/papers/p_057_S.pdf,,,Safety
+28,331,Design For Innovation In Atm,"     Patrizia Marti, Margherita Bacigalupo ",/seminarContent/seminar6/papers/p_059_IAC.pdf,,,Innovative ATM concepts
+29,332,Spacing Instructions In Approach: Benefits And Limits From An Air Traffic Controller Perspective,"     Karim Zeghal, Isabelle Grimaud",/seminarContent/seminar6/papers/p_060_AGC.pdf,,,Safety
+30,333,"Impact Of Factors, Conditions And Metrics On Trajectory Prediction Accuracy","     Stephane Mondoloni, Ibrahim Bayraktutar",/seminarContent/seminar6/papers/p_062_DS.pdf,,,Safety
+31,334,Expanding The Use Of Time-Based Metering: Multi-Center Traffic Management Advisor,"     Steven Landry, Ty Hoang",/seminarContent/seminar6/papers/p_066_TFO.pdf,,,Safety
+32,335,Relationship Of The Aircraft Mix Index With Performance And Objective Workload Evaluation Research (Power) Measures And Complexity Ratings,     Elaine Pfleiderer,/seminarContent/seminar6/papers/p_067_HF.pdf,,,Human Factors
+33,336,Dynamic Stochastic Optimization Model For Air Traffic Flow Management With En Route And Airport Capacity Constraints,"     Avijit Mukherjee, Mark Hansen",/seminarContent/seminar6/papers/p_068_TFO.pdf,,,Safety
+34,337,Extent And Impact Of Future Nas Capacity Shortfalls In The United States: A Socio-Economic Demand Study,"     Earl Wingrove, David Ballard",/seminarContent/seminar6/papers/p_069_U.pdf,,,Safety
+35,338,Estimation Of Delay Propagation In Aviation System Using Bayesian Network,"     Ning Xu, George Donohue",/seminarContent/seminar6/papers/p_073_IAC.pdf,,,Innovative ATM concepts
+36,339,Airborne Precision Spacing In Merging Terminal Arrival Routes: A Fast-Time Simulation Study,"     Karthik Krishnamurthy, Bryan Barmore",/seminarContent/seminar6/papers/p_076_AGC.pdf,,,Safety
+37,340,Human Factors Implications Of Continuous Descent Approach Procedures For Noise Abatement In Air Traffic Control,"     Hayley Davison Reynolds, Tom Reynolds",/seminarContent/seminar6/papers/p_078_EIM.pdf,,,Safety
+38,341,Air Ground Communications Miami Controller Pilot Data Link Communications Summary And Assessment,"     John Gonda, William Saumsiegle",/seminarContent/seminar6/papers/p_080_DS.pdf,,,Safety
+39,342,Applying Qualitative Hazard Analysis To Support Quantitative Safety Analysis For Proposed Reduced Wake Separation Conops,"     John Shortle, Michael Allocco",/seminarContent/seminar6/papers/p_082_S.pdf,,,Safety
+40,343,Joint Nasa Ames/Langley Experimental Evaluation Of Integrated Air/Ground Operations For En Route Free Maneuvering,"     Richard Barhydt, Parimal Kopardekar",/seminarContent/seminar6/papers/p_084_AGC.pdf,,,Safety
+41,344,Emergence And Impact Of Secondary Airports In The United States,"     Philippe Bonnefoy, R. John Hansman",/seminarContent/seminar6/papers/p_088_AEM.pdf,,,Safety
+42,345,Ground-Side Perspective On Mixed Operations With Self-Separating And Controller-Managed Aircraft,"     Paul Lee, Thomas Prevot",/seminarContent/seminar6/papers/p_089_AGC.pdf,,,Safety
+43,346,Controller-Pilot Radio Channel Utilization And Cognitive Issues,"     Jasenka Rakas, Tatjana Bolic",/seminarContent/seminar6/papers/p_090_HF.pdf,,,Human Factors
+44,347,A Preliminary Analysis Of The Impact Of Miles-In-Trail Restrictions On Nas Flight Operations,"     Mark Klopfenstein, Jon Mintzer",/seminarContent/seminar6/papers/p_091_MPM.pdf,,,Safety
+45,348,The Link Between Operational Performance And Operational Errors In The National Airspace System,"     Mark Hansen, Yu Zhang",/seminarContent/seminar6/papers/p_094_S.pdf,,,Safety
+46,349,On The Integration Of Human Performance And Collision Risk Simulation Models Of Runway Operation,"     Kevin Corker, Henk Blom",/seminarContent/seminar6/papers/p_098_HF.pdf,,,Human Factors
+47,350,A Method For Rating The Severity Of Runway Incursions,"     Kim Cardosi, Daniel Hannon",/seminarContent/seminar6/papers/p_099_S.pdf,,,Safety
+48,351,User Request Evaluation Tool (Uret) Adoption And Adaptation  Three Center Case Study,"     Tatjana Bolic, Mark Hansen",/seminarContent/seminar6/papers/p_100_HF.pdf,,,Human Factors
+49,352,Managing Sector Congestion Using Airspace Restriction Planner,"     Parimal Kopardekar, Steve Green",/seminarContent/seminar6/papers/p_102_DS.pdf,,,Safety
+50,353,Conflict Perception By Atcs Admits Doubt But Not Inconsistency,     Philippe Averty,/seminarContent/seminar6/papers/p_105_HF.pdf,,,Human Factors
+51,354,Quantifying Convective Delay Reduction Benefits For Weather/Atm Systems,"     James Evans, Michael Robinson",/seminarContent/seminar6/papers/p_108_DS.pdf,,,Safety
+52,355,Evaluating En Route Congestion Management Through Iinteractive Simulation,"     Michael Brennan, Christopher Ermatinger",/seminarContent/seminar6/papers/p_109_TFO.pdf,,,Safety
+53,356,Estimation Of Arrival Capacity And Utilization At Major Airports,"     Antony Evans, Husni Idris",/seminarContent/seminar6/papers/p_113_MPM.pdf,,,Safety
+54,357,Modeling Delays And Cancellation Probabilities To Support Strategic Simulations,"     David Lovell, Avijit Mukherjee",/seminarContent/seminar6/papers/p_114_MPM.pdf,,,Safety
+55,358,Co-Operative Air Traffic Management: A Technology Enabled Concept For The Next Generation Air Transportation System,"     Thomas Prevot, Joey Mercer",/seminarContent/seminar6/papers/p_115_IAC.pdf,,,Innovative ATM concepts
+56,359,Response Mechanisms For Dynamic Air Traffic Flow Management,"     Michael Ball, Robert Hoffman",/seminarContent/seminar6/papers/p_116_TFO.pdf,,,Safety
+57,360,An Analysis Of Potential Capacity Enhancements Through Wind Dependent Wake Turbulence Procedures,"     Jeff Tittsworth, Clark Lunsford",/seminarContent/seminar6/papers/p_118_AM.pdf,,,Safety
+58,361,The Factors Affecting Airspace Capacity In Europe: A Framework Methodology Based On Cross Sectional Time-Series Analysis Using Simulated Controller Wo,"     Arnab Majumdar, Washington Ochieng",/seminarContent/seminar6/papers/p_119_U.pdf,,,Safety
+59,362,Safety Analysis For Advanced Separation Concepts,     John Andrews,/seminarContent/seminar6/papers/p_120_S.pdf,,,Safety
+60,363,Cockpit Display Of Traffic Information (Cdti) Assisted Visual Separation (Cavs): Pilot Acceptability Of A Spacing Task During A Visual Approach,     Randall Bone,/seminarContent/seminar6/papers/p_122_AGC.pdf,,,Safety
+61,364,Integration Of Downlink Aircraft Parameters In A French En Route Atc Hmi,     Vincent Kapp,/seminarContent/seminar6/papers/p_123_DS.pdf,,,Safety
+62,365,Sourdine Ii Assessment Aspects Of Noise Abatement Procedures,     Ruud den Boer,/seminarContent/seminar6/papers/p_124_EIM.pdf,,,Safety
+63,366,Benefits Obtained From The Estimation And Distribution Of Realistic Taxi Times,"     Jose Miguel de Pablo Guerrero, Patricia Pina Calafi",/seminarContent/seminar6/papers/p_125_AM.pdf,,,Safety
+64,367,Analyzing Air Traffic Management Systems Using Agent-Based Modeling And Simulation,     Amy Pritchett,/seminarContent/seminar6/papers/p_129_IAC.pdf,,,Innovative ATM concepts
+65,368,Tactical Departure Management With The Eurocontrol / Dlr Dman,     Dietmar Bohme,/seminarContent/seminar6/papers/p_130_AM.pdf,,,Safety
+66,369,Shifting The Atm Paradigm: From The Use Of System Resources To The Management Of Objectives,"     Laurent Guichard, Sandrine Guibert",/seminarContent/seminar6/papers/p_131_IAC.pdf,,,Innovative ATM concepts
+67,370,"Linking Existing On Ground, Arrival And Departure Operations","     Jose Miguel de Pablo Guerrero, Patricia Pina",/seminarContent/seminar6/papers/p_132_AM.pdf,,,Safety
+68,371,"As Rapid As Paper Strips? Evaluation Of Vertidigi, A New Control Tool For Terminal Sectors","     Railane Benhacene, Anthony Marion",/seminarContent/seminar6/papers/p_133_HF.pdf,,,Human Factors
+69,372,Verification And Validation Results From The Operational A-Smgcs Field Trials Of The Project Beta,     Christoph Meier,/seminarContent/seminar6/papers/p_134_AM.pdf,,,Safety

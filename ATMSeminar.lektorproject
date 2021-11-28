@@ -1,0 +1,5 @@
+[project]
+name = ATMSeminar
+
+[servers.ghpages]
+target = ghpages://git@ghpages:atmseminar-org/atmseminar-org.github.io.git

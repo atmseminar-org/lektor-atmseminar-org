@@ -1,0 +1,67 @@
+,id,title,authors,paper,presentation,best,theme
+0,373,THE COMPUTATION OF COMMUNICATION COMPLEXITY IN AIR TRAFFIC CONTROL MESSAGES,"     O, Veronika 'Roni' Prinzo",/seminarContent/seminar7/papers/p_001_HF.pdf,,,Human Factors
+1,374,Prediction of Operational Failure States at Airports by Means of Stochastic Transition Matrices,     Daniel Schaad,/seminarContent/seminar7/papers/p_011_IAM.pdf,,,Safety
+2,375,AEDT GLOBAL NOX DEMONSTRATION,"     Theodore Thrasher, Alex Nguyen, Clifford Hall, Gregg Fleming, Christopher Roof, Sathya Balasubramanian, Fabio Grandi, Scott Usdrowski, Eric Dinges, Carl Burleson, Lourdes Maurice, Ralph Iovinelli",/seminarContent/seminar7/papers/p_016_EC.pdf,,,Environmental Considerations in ATM System Design
+3,376,Determining the Environmental Benefits of Implementing Continuous Descent Approach Procedures,     Eric Dinges,/seminarContent/seminar7/papers/p_017_EC.pdf,,,Environmental Considerations in ATM System Design
+4,377,A Quantitative Model for En Route Error Rate Analysis,"     Gerald Shapiro, Daniel Murphy",/seminarContent/seminar7/papers/p_020_S.pdf,,,Safety
+5,378,Air-Traffic Complexity Resolution in Multi-Sector Planning Using Constraint Programming,     Pierre Flener,/seminarContent/seminar7/papers/p_023_IAC.pdf,,,Innovative ATM concepts
+6,379,Weather Index With Queuing Component For National Airspace System Performance Assessment ,"     Alexander Klein, Richard Jehlen, Diana Liang",/seminarContent/seminar7/papers/p_024_AAPM.pdf,,,Safety
+7,380,"DEVELOPMENT OF AN ALGORITHM TO MODEL THE LANDING OPERATIONS, BASED ON STATISTICAL ANALYSIS OF ACTUAL DATA SURVEY (PROESTOP)","     Carlos Barbas, Javier Vázquez, Pablo López",/seminarContent/seminar7/papers/p_027_AAPM.pdf,,,Safety
+8,381,"Incremental, Probabilistic Decision Making for En Route Traffic Management","     Craig Wanke, Daniel Greenbaum",/seminarContent/seminar7/papers/p_035_NTFO.pdf,,,Safety
+9,382,Macroscopic Workload Model for Estimating En Route Sector Capacity,     Jerry Welch,/seminarContent/seminar7/papers/p_037_NTFO.pdf,,,Safety
+10,383,Predicting Sector Capacity for TFM,     Lixia Song,/seminarContent/seminar7/papers/p_038_DAM.pdf,,,Dynamic Airspace Management
+11,384,So it’s Reliable but is it Safe? A more Balanced Approach to ATM Safety Assessment,     Derek Fowler,/seminarContent/seminar7/papers/p_041_S.pdf,,,Safety
+12,385,Air navigation service charges in Europe,"     Lorenzo Castelli, Andrea Ranieri",/seminarContent/seminar7/papers/p_047_FDII.pdf,,,Safety
+13,386,Safety risk analysis of runway incursion alert systems in the tower and cockpit by multi-agent systemic accident modelling ,"     Sybert Stroeve, Bert Bakker, Henk Blom",/seminarContent/seminar7/papers/p_051_S.pdf,,,Safety
+14,387,Airspace Complexity Measurement: An Air Traffic Control Simulation Analysis,     Parimal Kopardekar,/seminarContent/seminar7/papers/p_052_AAPM.pdf,,,Safety
+15,388,Algorithms for Managing Sector Congestion Using The Airspace Restriction Planner,     Parimal Kopardekar,/seminarContent/seminar7/papers/p_053_NTFO.pdf,,,Safety
+16,389,A-SMGCS VERIFICATION AND VALIDATION RESULTS FROM THE PROJECT EMMA (LEVEL 1&2),"     Jörn Jakobi, Jürgen Teutsch",/seminarContent/seminar7/papers/p_055_IAM.pdf,,,Safety
+17,390,"A PSYCHOSOCIAL APPROACH TO UNDERSTANDING PILOT AND CONTROLLER ACCEPTANCE OF CHANGE IN ATM, BASED ON THREE CDA CASE STUDIES","     Andrew Cook, Graham Tanner",/seminarContent/seminar7/papers/p_056_IAC.pdf,,,Innovative ATM concepts
+18,391,Safety Analysis Methodology for ADS-B Based Surveillance Applications,"     Jonathan Hammer, Gilbert Calgaris, Marta Llobet",/seminarContent/seminar7/papers/p_058_S.pdf,,,Safety
+19,392,Validation of Required Surveillance Performance (RSP) Accuracy,     John Andrews,/seminarContent/seminar7/papers/p_061_AAPM.pdf,,,Safety
+20,393,Estimating Capacity Requirements For Air Transportation Design,"     Shannon Zelinski, Tom Romer",/seminarContent/seminar7/papers/p_062_AAPM.pdf,,,Safety
+21,394,Identification and Analysis of Proximate Events in High Density Enroute Airspaces,"     Eduardo Jose Garcia, Francisco Javier Saez, Maria Isabel Izquierdo ",/seminarContent/seminar7/papers/p_063_S.pdf,,,Safety
+22,395,Air Traffic Complexity: Input-output Airspace,"     KEUMJIN LEE, Amy Pritchett, Eric Feron",/seminarContent/seminar7/papers/p_064_NTFO.pdf,,,Safety
+23,396,"QUANTIFYING THE RELATIONSHIP BETWEEN AIR TRAFFIC MANAGEMENT INEFFICIENCY, FUEL BURN AND AIR POLLUTANT EMISSIONS","     Melissa Ohsfeldt, Theodore Thrasher, Ian Waitz, Christopher Sequeira, Gayle Ratliff, Terry Thompson, Michael Graham, Rebecca Cointin, Warren Gillette, Mohan Gupta",/seminarContent/seminar7/papers/p_065_EC.pdf,,,Environmental Considerations in ATM System Design
+24,397,Efficient and Equitable Departure Scheduling in Real-Time: New Approaches to Old Problems,"     Hamsa Balakrishnan, Bala Chandran ",/seminarContent/seminar7/papers/p_066_IAC.pdf,,,Innovative ATM concepts
+25,398,Benefits of Collaborative Flow Management During Convective Weather Disruptions,"     Matthew Berge, Aslaug Haraldsdottir, Michael Carter, Bruno Repetto ",/seminarContent/seminar7/papers/p_069_NTFO.pdf,,,Safety
+26,399,Validation Results of Airport Total Operations Planner Prototype CLOU,     Andreas Pick ,/seminarContent/seminar7/papers/p_075_IAM.pdf,,,Safety
+27,400,A Pre-Tactical Generalised Air Traffic Flow Managment Problem,     Karl Nachtigall ,/seminarContent/seminar7/papers/p_077_NTFO.pdf,,,Safety
+28,401,OPERATIONAL IMPACT OF RA DOWNLINK: RESULTS OF A REAL-TIME SIMULATION,     Stanislaw Drozdowski ,/seminarContent/seminar7/papers/p_084_S.pdf,,,Safety
+29,402,Unmanned Aircraft Collision Avoidance - Technology Assessment and Evaluation Methods,"     David Maroney, Andrew Lacher, Andrew Zeitlin ",/seminarContent/seminar7/papers/p_089_IAC.pdf,,,Innovative ATM concepts
+30,403,NEW PROCESS FOR “CLEAN SHEET” AIRSPACE DESIGN AND EVALUATION,"     Brian Simmons, Debra Moch-Mooney, Robert Conker, William Niedringhaus ",/seminarContent/seminar7/papers/p_091_DAM.pdf,,,Dynamic Airspace Management
+31,404,FIVE YEARS EXPERIENCE IN ATM COST BENCHMARKING,     Sebastien Portet ,/seminarContent/seminar7/papers/p_094_AAPM.pdf,,,Safety
+32,405,Environmental impact of ATFM delays,     Ivan de Lepinay ,/seminarContent/seminar7/papers/p_101_EC.pdf,,,Environmental Considerations in ATM System Design
+33,406,COORDINATED ARRIVAL DEPARTURE MANAGEMENT,     Dietmar Böhme ,/seminarContent/seminar7/papers/p_102_IAC.pdf,,,Innovative ATM concepts
+34,407,    Propagation of airborne spacing errors in merging traffic streams,"     Dan Ivanescu, Chris Shaw, Karim Zeghal, Eric Hoffman ",/seminarContent/seminar7/papers/p_105_AGI.pdf,,,Air Ground Integration
+35,408,Operational Risk Assessment For Airspace Planning,     Karim Mehadhebi ,/seminarContent/seminar7/papers/p_107_S.pdf,,,Safety
+36,409,Airspace configuration using air traffic complexity metrics,     David Gianazza ,/seminarContent/seminar7/papers/p_108_DAM.pdf,,,Dynamic Airspace Management
+37,410,Preventing Selfish Behaviour in Distributed Tactical Airport Planning,     Geert Jonker,/seminarContent/seminar7/papers/p_109_IAM.pdf,,,Safety
+38,411,Tackling the problem of flight integration,     Railane Benhacene ,/seminarContent/seminar7/papers/p_110_HF.pdf,,,Human Factors
+39,412,Examining the Temporal Evolution of Propagated Delays at Individual Airports: Case Studies,"     Andrew Churchill, David Lovell, Michael Ball ",/seminarContent/seminar7/papers/p_111_AAPM.pdf,,,Safety
+40,413,Merging Arrival Flows Without Heading Instructions,     Karim Zeghal ,/seminarContent/seminar7/papers/p_112_AGI.pdf,,,Air Ground Integration
+41,414,SYSTEMATIC AIR TRAFFIC MANAGEMENT IN A REGULAR LATTICE,"     Richard Irvine, Horst Hering ",/seminarContent/seminar7/papers/p_115_IAC.pdf,,,Innovative ATM concepts
+42,415,Performance Based Air Traffic Management,"     Joseph Celio, Elida Smith ",/seminarContent/seminar7/papers/p_116_AGI.pdf,,,Air Ground Integration
+43,416,The Dynamics of Air Transportation System Transition,     Aleksadnra Mozdzanowska ,/seminarContent/seminar7/papers/p_118_FDII.pdf,,,Safety
+44,417,"ADVANCED NOISE ABATEMENT APPROACH ACTIVITIES AT NOTTINGHAM EAST MIDLANDS AIRPORT, UK","     Tom Reynolds, Liling Ren, John-Paul Clarke ",/seminarContent/seminar7/papers/p_119_EC.pdf,,,Environmental Considerations in ATM System Design
+45,418,Calibrating Aggregate Models of Flight Delays and Cancellation Probabilities at Individual Airports,"     David Lovell, Andrew Churchill, Amedeo Odoni, Avijit Mukherjee, Michael Ball ",/seminarContent/seminar7/papers/p_121_AAPM.pdf,,,Safety
+46,419,RATION-BY-DISTANCE WITH EQUITY GUARANTEES: A NEW APPROACH TO GROUND DELAY PROGRAM PLANNING AND CONTROL,"     Robert Hoffman, Michael Ball, Avijit Mukherjee ",/seminarContent/seminar7/papers/p_122_NTFO.pdf,,,Safety
+47,420,Application of Key Performance Indicators for Trajectory Prediction Accuracy,     Stephane Mondoloni ,/seminarContent/seminar7/papers/p_127_AGI.pdf,,,Air Ground Integration
+48,421,IMPROVING ATC EFFICIENCY THROUGH AN IMPLEMENTATION OF A MULTI SECTOR PLANNER POSITION,"     Almira Williams, Mark Rodgers, Stephane Mondoloni, Diana Liang ",/seminarContent/seminar7/papers/p_130_IAC.pdf,,,Innovative ATM concepts
+49,422,AN ANALYSIS OF OPERATIONAL ERRORS AND THE INTERACTION WITH TCAS RAS,"     José Luis Garcia-Chico, Kevin Corker ",/seminarContent/seminar7/papers/p_131_S.pdf,,,Safety
+50,423,MODELLING AND ESTIMATION OF SEPARATION CRITERIA FOR AIRBORNE TIME-BASED SPACING OPERATION,"     Italo De Oliveira, Paulo Cugnasca, Henk Blom, Bert Bakker ",/seminarContent/seminar7/papers/p_137_S.pdf,,,Safety
+51,424,EVALUATING THE PERFORMANCE OF NEXTGEN USING THE ADVANCED CONCEPTS EVALUATION SYSTEM,     Frederick Wieland ,/seminarContent/seminar7/papers/p_145_AAPM.pdf,,,Safety
+52,425,Arrival Management with Required Navigation Performance and 3D Paths,"     Aslaug Haraldsdottir, Julien Scharl, Matthew Berge, Ewald Schoemig, Michael Coats ",/seminarContent/seminar7/papers/p_147_AGI.pdf,,,Air Ground Integration
+53,426,Evaluation of a Flight Deck-Based Merging and Spacing Concept on En-Route Air Traffic Control Operations,     Randy Bone ,/seminarContent/seminar7/papers/p_153_AGI.pdf,,,Air Ground Integration
+54,427,SCENARIO-FREE SEQUENTIAL DECISION MODEL FOR THE SINGLE AIRPORT GROUND HOLDING PROBLEM,"     Barry Liu, Mark Hansen ",/seminarContent/seminar7/papers/p_154_NTFO.pdf,,,Safety
+55,428,AIR/GROUND SIMULATION OF TRAJECTORY-ORIENTED OPERATIONS WITH LIMITED DELEGATION,"     Thomas Prevot, Todd Callantine, Paul Lee, Joey Mercer, Nancy Smith, Everett Palmer, Jeff Homola ",/seminarContent/seminar7/papers/p_158_AGI.pdf,,,Air Ground Integration
+56,429,"Throughput, Risk, and Economic Optimality of Runway Landing Operations",     Babak Jeddi ,/seminarContent/seminar7/papers/p_162_IAC.pdf,,,Innovative ATM concepts
+57,430,WEATHER NORMALIZATION FOR EVALUATING NATIONAL AIRSPACE SYSTEM (NAS) PERFORMANCE,"     Mark Hansen, Jing Xiong ",/seminarContent/seminar7/papers/p_163_AAPM.pdf,,,Safety
+58,431,Could Erasmus Speed Adjustments be Identifiable by Air Traffic Controllers ?,     Philippe Averty ,/seminarContent/seminar7/papers/p_164_IAC.pdf,,,Innovative ATM concepts
+59,432,A SYSTEMIC MODEL OF ATM SAFETY: THE INTEGRATED RISK PICTURE,     Eric PERRIN ,/seminarContent/seminar7/papers/p_167_S.pdf,,,Safety
+60,433,A tool to design Functional Airspace Blocks,"     Charles-Edmond Bichot, Nicolas Durand ",/seminarContent/seminar7/papers/p_169_DAM.pdf,,,Dynamic Airspace Management
+61,434,NEW AIR TRAFFIC MANAGEMENT CONCEPTS ANALYSIS METHODOLOGY: APPLICATION TO A MULTI-SECTOR PLANNER IN US AIRSPACE,     Kevin Corker ,/seminarContent/seminar7/papers/p_170_IAC.pdf,,,Innovative ATM concepts
+62,435,Fast-Time Simulation Evaluation of a Conflict Resolution Algorithm Under High Air Traffic Demand,"     Todd Farley, Heinz Erzberger ",/seminarContent/seminar7/papers/p_173_AGI.pdf,,,Air Ground Integration
+63,436,ANALYSIS OF MULTIPLE OPEN TRANSACTIONS AND CONTROLLER-PILOT MISCOMMUNICATIONS ,     Jasenka Rakas ,/seminarContent/seminar7/papers/p_174_HF.pdf,,,Human Factors
+64,437,EVALUATING TRANSFORMATIONS OF THE AIR TRANSPORTATION SYSTEM THROUGH AGENT-BASED MODELING AND SIMULATION,"     Amy Pritchett, Seung Man Lee, Kevin M. Corker ",/seminarContent/seminar7/papers/p_175_HF.pdf,,,Human Factors
+65,438,FLIGHT DEMONSTRATION OF THE SEPARATION ANALYSIS METHODOLOGY FOR CONTINUOUS DESCENT ARRIVAL,"     John-Paul Clarke, Liling Ren ",/seminarContent/seminar7/papers/p_178_EC.pdf,,,Environmental Considerations in ATM System Design

@@ -1,0 +1,39 @@
+,id,title,authors,paper,presentation,best,theme
+0,1,URET Conflict Probe - Performanceand Benefits Assessment,         Daniel Brudnicki ,/seminarContent/seminar1/papers/p_001_CDR.pdf,,,Conflict Detection and Resolution
+1,2,Optimal Conflict Resolution: Theoryand Application,         Nicolas Durand,/seminarContent/seminar1/papers/p_002_CDR.pdf,,,Conflict Detection and Resolution
+2,3,Conflict Probing and Resolution inthe Presence of Errors,         Heinz Erzberger,/seminarContent/seminar1/papers/p_003_CDR.pdf,,,Conflict Detection and Resolution
+3,4,Conflict Detection andResolution,         Ingrid Gerdes Mrs,/seminarContent/seminar1/papers/p_004_CDR.pdf,,,Conflict Detection and Resolution
+4,5,Harmonisation of HMI - the IntuitiveApproach,         Graham Robert,/seminarContent/seminar1/papers/p_005_CDR.pdf,,,Conflict Detection and Resolution
+5,6,HMI for ATM Automation: a EuropeanStrategy Towards Technology and Human Factors Validation,         Jorna Peter,/seminarContent/seminar1/papers/p_006_CDR.pdf,,,Conflict Detection and Resolution
+6,7,Human Factors in the ATM System DesignLife Cycle,         Kirwan Barry,/seminarContent/seminar1/papers/p_007_CDR.pdf,,,Conflict Detection and Resolution
+7,8,Probabilistic versus GeometricConflict Probing,"         Kremer H., Bakker ",/seminarContent/seminar1/papers/p_008_CDR.pdf,,,Conflict Detection and Resolution
+8,9,ERATO: Cooperative Tools Based onCognitive Engineering,         Leroux Marcel,/seminarContent/seminar1/papers/p_009_CDR.pdf,,,Conflict Detection and Resolution
+9,10,Surface movement advisor,         Dennis R. Lawson Mr,/seminarContent/seminar1/papers/p_010_CDR.pdf,,,Conflict Detection and Resolution
+10,11,Decision Support Tools OceanicHIPS,"         Price Andy, Meckiff Colin",/seminarContent/seminar1/papers/p_011_CDR.pdf,,,Conflict Detection and Resolution
+11,12,Design and FieldEvaluation of the Traffic Management Advisor,         Swenson Harry,/seminarContent/seminar1/papers/p_012_CDR.pdf,,,Conflict Detection and Resolution
+12,13,MTCD/Conflict Probe,"         Vink Alex, Beers Jos",/seminarContent/seminar1/papers/p_013_CDR.pdf,,,Conflict Detection and Resolution
+13,14,Using Air Ground Data Linkand Operator-Provided Planning Data to Improve ATM Decision Support SystemPerformance,         Wanke Craig,/seminarContent/seminar1/papers/p_014_CDR.pdf,,,Conflict Detection and Resolution
+14,15,A Methodology and Initial ResultsSpecifying Requirements for Free Flight Transitions,         Warren Anthony,/seminarContent/seminar1/papers/p_015_CDR.pdf,,,Conflict Detection and Resolution
+15,16,Operational Use ofASAS,         Casaux Francis,/seminarContent/seminar1/papers/p_016_ASSP.pdf,,,Airborne Separation Systems and Procedures
+16,17,Human Factors in anAdvanced ATM System and Simulation Studies,         M.Corker Kevin,/seminarContent/seminar1/papers/p_017_ASSP.pdf,,,Airborne Separation Systems and Procedures
+17,18,Initial Results of Investigation intoAutonomous Aircraft Concept (FREER-1),         Duong Vu,/seminarContent/seminar1/papers/p_018_ASSP.pdf,,,Airborne Separation Systems and Procedures
+18,19,"Situation Awareness, FreeFlight Automation",         Endsley Mica,/seminarContent/seminar1/papers/p_019_ASSP.pdf,,,Airborne Separation Systems and Procedures
+19,20,Integrated Human Centeredsystems Approach to the Development of Advanced Air Traffic ManagementSystem,         Endsley Mica,/seminarContent/seminar1/papers/p_020_ASSP.pdf,,,Airborne Separation Systems and Procedures
+20,21,CDTI - ADS/BExperiments,         Lindberg Lars,/seminarContent/seminar1/papers/p_021_ASSP.pdf,,,Airborne Separation Systems and Procedures
+21,22,Free Flight and SelfSeparation from the Flight Deck Perspective,         Lozito Sandra,/seminarContent/seminar1/papers/p_022_ASSP.pdf,,,Airborne Separation Systems and Procedures
+22,23,Potential ADS-B/CDTICapabilities for Near Term Deployment,         Mundra Anand,/seminarContent/seminar1/papers/p_023_ASSP.pdf,,,Airborne Separation Systems and Procedures
+23,24,The Cockpit Assistant System CASSY asan On-Board Player in the ATM Environment Univ. der Bundeswehr - M,         Reiner Onken Dr.-Ing.,/seminarContent/seminar1/papers/p_024_ASSP.pdf,,,Airborne Separation Systems and Procedures
+24,25,Hybrid Control Issues inAir traffic Management Systems,         Sastry Shankar,/seminarContent/seminar1/papers/p_025_ASSP.pdf,,,Airborne Separation Systems and Procedures
+25,26,Operational Requirements of ASASfrom an Airline Perspective,"         Juenemann Karlheinz, Wigger Burkard",/seminarContent/seminar1/papers/p_026_ASSP.pdf,,,Airborne Separation Systems and Procedures
+26,27,Workload Implications of Free FlightConcepts,"         Andrews John, Welch Jerry",/seminarContent/seminar1/papers/p_027_API.pdf,,,ATM Performance Indicators
+27,28,Modelling the other Half of the Flow,         Steve Bradford Mr,/seminarContent/seminar1/papers/p_028_API.pdf,,,ATM Performance Indicators
+28,29,An Experimental Study of ATMCapacity,         Bosc Jean-FranÃ§ois,/seminarContent/seminar1/papers/p_029_API.pdf,,,ATM Performance Indicators
+29,30,CNS/ATM Focus TeamResults:A Global Review of ATM System ModernizationOptions,         Haraldsdottir Aslaug,/seminarContent/seminar1/papers/p_030_API.pdf,,,ATM Performance Indicators
+30,31,ATC Economics,         Hustache Jean-Claude ,/seminarContent/seminar1/papers/p_031_API.pdf,,,ATM Performance Indicators
+31,32,Modeling the Capacity andEconomic Effects of ATM Technology,         Kostiuk Peter,/seminarContent/seminar1/papers/p_032_API.pdf,,,ATM Performance Indicators
+32,33,Evaluating the Cost of ASM/ATFMMeasures,         Manchon Serge,/seminarContent/seminar1/papers/p_033_API.pdf,,,ATM Performance Indicators
+33,34,Airport TrafficModelling,         Polak Frits,/seminarContent/seminar1/papers/p_034_API.pdf,,,ATM Performance Indicators
+34,35,ATM PerformanceIndicators,"         Pomeret J-Marc., Mahlich Sonke",/seminarContent/seminar1/papers/p_035_API.pdf,,,ATM Performance Indicators
+35,36,Some Models Algorithms forEn-Route Air Traffic Flow Management Faculty Transport,         Tosic Vojin,/seminarContent/seminar1/papers/p_036_API.pdf,,,ATM Performance Indicators
+36,37,Overview of the ASC System PerformanceMeasurement Project,"         Voss William, Hoffman Jonathan",/seminarContent/seminar1/papers/p_037_API.pdf,,,ATM Performance Indicators
+37,38,Limits to NAS Growth:DPATResults,         Wieland Frederick,/seminarContent/seminar1/papers/p_038_API.pdf,,,ATM Performance Indicators
