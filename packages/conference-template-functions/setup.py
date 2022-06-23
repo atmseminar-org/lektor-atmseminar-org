@@ -6,7 +6,7 @@ setup(
     author='Nelson Brown',
     author_email='nelson.brown@faa.gov',
     url='http://atmseminar.org/',
-    version='0.1.3',
+    version='0.1.5',
     license='public domain',
     py_modules=['conference_template_functions'],
     entry_points={

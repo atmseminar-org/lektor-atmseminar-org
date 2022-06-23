@@ -63,6 +63,27 @@ class PapersTable:
     def __init__(self, table_title, table_data):
         self.table_title = table_title
         self.table_data = table_data
+        self.is_organized = False
+
+class PapersTopicData(PapersTable):
+
+    def __init__(self, table_title, table_data):
+        super().__init__(table_title, table_data)
+        self.table_data = self.get_data_by_topic()
+        self.is_organized = True
+
+    def get_data_by_topic(self):
+        organized_data = defaultdict(list)
+        for row in self.table_data:
+            category = None
+            if 'theme' in row:
+                category = 'theme'
+            if 'track' in row:
+                category = 'track'
+            if category:
+                organized_data[row[category]].append(row)
+        return organized_data
+
 
 class ConferenceTemplatePlugin(Plugin):
     name = 'FAA Human Factors Jinja Template Functions'
@@ -71,11 +92,35 @@ class ConferenceTemplatePlugin(Plugin):
     def on_markdown_config(self, config, **extra):
         config.renderer_mixins.append(LinkMixin)
 
-    def paper_csv(self, paper_attachments):
+    def sponsors_csv(self, year=None):
+        sponsor_attachments = site_proxy.get('/sponsors/').attachments
+        sponsor_data = None
+        for attach in sponsor_attachments:
+            if 'sponsors.csv' in attach.attachment_filename:
+                sponsor_data = self._parse_csv(attach.attachment_filename)
+        if sponsor_data is None:
+            return []
+
+        if year:
+            return [d for d in sponsor_data if 'year' in d and d['year'].strip() == year]
+
+        return sponsor_data
+
+    def parse_csv(self, attachments, attachment_name):
+        for attach in attachments:
+            if attachment_name in attach.attachment_filename:
+                return self._parse_csv(attach.attachment_filename)
+        return None
+
+    def paper_csv(self, paper_attachments, organized=False):
         relevant_attachments = []
         for attach in paper_attachments:
             if 'papers.csv' in attach.attachment_filename:
-                pt = PapersTable("Accepted Papers", self._parse_csv(attach.attachment_filename))
+                table_data = self._parse_csv(attach.attachment_filename)
+                if organized and self.has_themes(table_data):
+                    pt = PapersTopicData("Accepted Papers", table_data)
+                else:
+                    pt = PapersTable("Accepted Papers", table_data)
                 relevant_attachments.append((3,pt))
             elif 'tutorials.csv' in attach.attachment_filename:
                 pt = PapersTable("Tutorials", self._parse_csv(attach.attachment_filename))
@@ -113,10 +158,48 @@ class ConferenceTemplatePlugin(Plugin):
         return any(['best' in row and row['best'] for row in papers_attachment])
 
     def has_themes(self, papers_attachment):
-        return any(['theme' in row and row['theme'] for row in papers_attachment])
+        return any([(('track' in row and row['track']) or 
+                     ('theme' in row and row['theme'])) for row in papers_attachment])
+
+    def filter_breadcrumbs(self, pages):
+        combined = []
+        for page in pages:
+            if 'skip_breadcrumbs' in page and page['skip_breadcrumbs']:
+                break
+            else:
+                combined.append(page)
+        return combined
     
+    def page_reverse_order(self, page):
+        if page is None:
+            return []
+        
+        path = [page]
+        root = page
+        for i in range(1, 100):
+            root = root.parent
+            if root:
+                path.append(root)
+            else:
+                break
+        
+        return reversed(path)
+
+    def get_attr_funct(self, attr):
+        return lambda x: getattr(x, attr)
+
+    def make_color(self, color_num, num_colors):
+        # defaults to one color - avoid divide by zero
+        return color_num * (360 / num_colors) % 360;
+
+    def get_unique_colors(self, num_colors = 20):
+        if num_colors <= 1:
+            num_colors = 1
+        return ['hsl({}, 50%, 50%)'.format(self.make_color(i, num_colors)) for i in range(1, num_colors+1)]
+
     def on_setup_env(self, **extra):
         self.env.jinja_env.globals.update(paper_csv=self.paper_csv,
+                                          sponsors_csv=self.sponsors_csv,
                                           has_abstracts_file=self.has_abstracts_file,
                                           has_presentations=self.has_presentations,
                                           has_papers=self.has_papers,
@@ -125,10 +208,17 @@ class ConferenceTemplatePlugin(Plugin):
                                           has_themes=self.has_themes,
                                           get_drive_url=get_drive_url,
                                           unicode=unicode,
+                                          get_unique_colors=self.get_unique_colors,
+                                          page_reverse_order=self.page_reverse_order,
+                                          filter_breadcrumbs=self.filter_breadcrumbs,
+                                          parse_csv=self.parse_csv,
                                           enumerate=enumerate,
                                           set=set,
                                           list=list,
                                           reversed=reversed,
+                                          get_attr_funct=self.get_attr_funct,
+                                          len=len,
+                                          dir=dir,
                                           sorted=sorted)
         self.env.jinja_env.filters['drive'] = get_drive_url
         self.env.jinja_env.add_extension('jinja2.ext.loopcontrols')

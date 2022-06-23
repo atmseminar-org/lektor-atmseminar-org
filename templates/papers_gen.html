@@ -107,6 +107,7 @@ $(document).ready(function(){
         {{row['authors']}} &nbsp;
          </em><br />
     
+        {% if 'abstract' in row and row['abstract'] %}
         <h2 class="trigger"><a href="#">abstract</a></h2>
         <div class="toggle_container">
             <div class="block">
@@ -114,6 +115,7 @@ $(document).ready(function(){
                {{row['abstract']}}
             </div>
         </div>
+        {% endif %}
     
     </td>
     
