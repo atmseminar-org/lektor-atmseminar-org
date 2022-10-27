@@ -1,0 +1,18 @@
+_model: page
+---
+title: Upcoming Seminar
+---
+body:
+
+#### The ATM Seminar 2021 was held as a virtual event in September 2021.
+<div class="col-xs-6 pull-right">
+<img class="img-responsive" style="float: right;"  src="background.png">
+</div>
+
+* [Papers](./papers-and-presentations/)
+* [ATM Seminar Full Programme](./full_programme_atm_2021.pdf)
+* [Programme Committee](./programme-committee/)
+* [Call for Papers](./call-for-papers/)
+* [Seminar Themes](./theme-information/)
+
+<br/><br/><br/>
