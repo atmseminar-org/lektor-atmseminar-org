@@ -1,0 +1,18 @@
+_template: layout.html --- _model: page
+---
+title: Session Reports
+---
+body:
+
+[**Short and Mid-Term Improvements to ATM Operations Rapporteur**](/2nd-seminar/session-reports/trk1sum.pdf)
+<br/>
+Plenary session report by: Diane Boone, Nicolas Dubois
+
+[**Future Operational Concepts Rapporteur**](/2nd-seminar/session-reports/trk2sum.pdf)
+<br/>
+Plenary session report by: Kevin Corker, Bernard Miaillier
+
+[**Performance Metrics, Measurement, Modelling Rapporteur**](/2nd-seminar/session-reports/trk3sum.pdf)
+<br/>
+Plenary session report by: Amedeo Odoni, Job Bruggen
+

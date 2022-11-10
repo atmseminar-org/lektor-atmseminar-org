@@ -1,0 +1,65 @@
+
+<!-- Footer -->
+<footer class="footer dark-mode bg-info pt-5 pb-4 pb-lg-5">
+    <!-- we don't include sponsors on landing page -->
+    {% if this._path != '/' %} {% include "sponsors.html" %} {% endif %}
+    <div class="container text-center pt-lg-3">
+        <!-- do we want to do small sponsor logos on the bottom? -->
+        <!--div class="d-flex align-items-center justify-content-center mb-3">
+            <div class="navbar-brand text-dark mx-4">
+                <img src="{{'/static/img/header-globe.png' | url}}" class="me-2" width="60" alt="ICRAT">
+                <span class="fs-4">ICRAT</span>
+            </div>
+            <div class="mx-4">
+                <img src="{{'/static/img/ec-mono-white.png' | url}}" width="60" alt="EUROCONTROL">
+            </div>
+            <div class="mx-4">
+                <img src="{{'/static/img/faa.png' | url}}" width="60" alt="FAA">
+            </div>
+        </div -->
+        <ul class="nav justify-content-center pt-3 pb-4 pb-lg-5">
+            <li class="nav-item"><a href="{{'/#top'|url}}" class="nav-link" data-scroll>Home</a></li>
+            <li class="nav-item"><a href="{{'/upcoming-conference/'|url}}" class="nav-link" data-scroll>Upcoming conference</a></li>
+            <li class="nav-item"><a href="{{'/#about'|url}}" class="nav-link" data-scroll>About</a></li>
+            <li class="nav-item"><a href="{{'/#schedule'|url}}" class="nav-link" data-scroll>Schedule</a></li>
+            <li class="nav-item"><a href="{{'/#committee'|url}}" class="nav-link" data-scroll>Committee</a></li>
+            <li class="nav-item"><a href="{{'/#venue'|url}}" class="nav-link" data-scroll>Venue</a></li>
+        </ul>
+        <p class="fs-sm text-center pt-4 mt-lg-4 mb-0">
+            <span class="text-light opacity-50">&copy; All rights reserved. ICRAT 2022</span>
+        </p>
+    </div>
+</footer>
+
+
+<!-- Back to top button -->
+<a href="#top" class="btn-scroll-top" data-scroll>
+    <span class="btn-scroll-top-tooltip text-muted fs-sm me-2">Top</span>
+    <i class="btn-scroll-top-icon bx bx-chevron-up"></i>
+</a>
+
+
+<!-- Vendor Scripts -->
+<!--script src="{{'/static/vendor/bootstrap/dist/js/bootstrap.bundle.min.js' | url}}"></script -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/16.1.3/smooth-scroll.min.js" integrity="sha512-HYG9E+RmbXS7oy529Nk8byKFw5jqM3R1zzvoV2JnltsIGkK/AhZSzciYCNxDMOXEbYO9w6MJ6SpuYgm5PJPpeQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!--script src="{{'/static/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js' | url}}"></script-->
+
+<!--script src="{{'/static/vendor/swiper/swiper-bundle.min.js' | url}}"></script-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.2.4/swiper-bundle.min.js" integrity="sha512-Hvn3pvXhhG39kmZ8ue3K8hw8obT4rfLXHE5n+IWNCMkR6oV3cfkQNUQqVvX3fNJO/JtFeo/MfLmqp5bqAT+8qg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="{{'/static/vendor/lightgallery/lightgallery.min.js' | url}}"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.5.0/lightgallery.min.js" integrity="sha512-FDbnUqS6P7md6VfBoH57otIQB3rwZKvvs/kQ080nmpK876/q4rycGB0KZ/yzlNIDuNc+ybpu0HV3ePdUYfT5cA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script-->
+
+<script src="{{'/static/vendor/lightgallery/plugins/zoom/lg-zoom.min.js' | url}}"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/lg-zoom/1.3.0/lg-zoom.min.js" referrerpolicy="no-referrer"></script-->
+
+<script src="{{'/static/vendor/lightgallery/plugins/fullscreen/lg-fullscreen.min.js' | url}}"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/lg-fullscreen/1.2.1/lg-fullscreen.min.js" integrity="sha512-GvMYZx1AUxtd+OYSc33H9DYX9qeT/OY90+O8kJ65cLXvSelNSgeytaxDV8bY58TeoZxz1HiqgAfpchczH7S8qA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script-->
+
+<script src="{{'/static/vendor/lightgallery/plugins/video/lg-video.min.js' | url}}"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/lg-video/1.4.0/lg-video.min.js" referrerpolicy="no-referrer"></script-->
+
+<!-- Main Theme Script -->
+<script src="{{'/static/js/theme.min.js' | url}}"></script>

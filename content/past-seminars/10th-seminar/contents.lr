@@ -1,0 +1,24 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2013-06-13
+---
+start_date: 2013-06-10
+---
+title:  10th Seminar- Chicago, Illinois USA
+---
+body:
+
+The 10th ATM Seminar took place in Chicago, IL, USA June 10-13, 2013.
+<img src="chicago.jpg" style="float: right;  margin-left: 10px;" />
+
+## Essential Information
+
+* [Program Committee](./program-committee "programme committee") 
+* [Awards](./best_paper_awards.pdf "Awards") 
+* [Papers and Presentations](./papers/)
+* [Call For Papers ](./atm2013_cfp.pdf "Call for Papers") 
+* [Program](./atm2013_program.pdf "Program") 
+* [Plenary Reports](./plenary-sessions/ "Plenary Reports") 
+

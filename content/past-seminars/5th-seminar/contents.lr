@@ -1,0 +1,25 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2003-06-27
+---
+start_date: 2003-06-23
+---
+title:  5th Seminar- Budapest, Hungary
+---
+body:
+
+The 5th ATM Seminar took place in Budapest, Hungary June 23 - 27 2003.
+<img src="budapest.jpg" style="float: right;  margin-left: 10px;" />
+
+##Essential Information
+
+* [Programme Committee](./programme-committee/)
+* [Introductory and Closing Speeches](./introductory-and-closing-speeches/)
+* [Programme](./programme.pdf)
+* [Session Reports](./session-reports/)
+* [Papers](./papers/)
+* Presentations Not Available
+
+

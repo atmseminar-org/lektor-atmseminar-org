@@ -1,0 +1,26 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2007-07-05
+---
+start_date: 2007-07-02
+---
+title:  7th Seminar - Barcelona, Spain
+---
+body:
+
+The 7th ATM Seminar took place in Barcelona, Spain 02 - 05 July 2007.
+<img src="barcelona.jpg" style="float: right;  margin-left: 10px;" />
+
+##Essential Information
+
+
+* [Programme Committee](./programme-committee)
+* [Introductory and Closing Speeches](./introductory-and-closing-speeches)
+* [Programme](./programme.pdf)
+* [Session Reports](./session-reports)
+* [Call For Papers](./cfp.pdf)
+* [Papers and Presentations](./papers/)
+
+

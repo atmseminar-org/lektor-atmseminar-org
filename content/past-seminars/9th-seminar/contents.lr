@@ -1,0 +1,25 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2011-06-17
+---
+start_date: 2011-06-14
+---
+title:  9th Seminar- Berlin, Germany
+---
+body:
+
+The 9th ATM Seminar took place in Berlin, Germany June 14 to 17, 2011.
+<img src="berlin.jpg" style="float: right;  margin-left: 10px;" />
+
+##Essential Information
+
+
+* [Programme Committee](./programme-committee)
+* [Awards](./best_papers.pdf)
+* [Papers and Presentations](./papers/)
+* [Call For Papers](./cfp.pdf)
+* [Programme](./programme.pdf)
+* [Session Reports](./session-reports/)
+

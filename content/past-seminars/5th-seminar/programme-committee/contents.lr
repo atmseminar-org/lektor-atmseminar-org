@@ -1,0 +1,39 @@
+_template: layout.html --- _model: page
+---
+title: Programme Committee
+---
+body:
+
+####USA####
+
+* Sabrina Saunders-Hodge, FAA/AAR-200 (Seminar Chair & Organization)
+* John Andrews, MIT Lincoln Lab
+* Steve Bradford, FAA/ASD-105
+* Diana Liang (Alternate)
+ *Kevin Corker, San Jose State University
+* George Donohue, George Mason University
+* Paul Drouilhet , MIT Lincoln Laboratory
+* Tom Edwards, NASA Ames
+* Aslaug Haraldsdottir, Boeing
+* Sandy Lozito, NASA Ames
+* Mark Rodgers, FAA/AAR-100
+* Paul Krois, FAA/AAR-100 (Alternate)
+ *Gene Wilhelm
+* Dres Zellweger, Embry-Riddle Aeronautical University
+
+####Europe####
+
+* Christian Pusch, EEC (Seminar Co-Chair & Organization)
+* Catherine Lachiver, EEC (Website & Organization)
+* Vu Duong, (Students), EEC
+* Volkmar Adam, DLR
+* Nicolas Durand, ENAC
+* Hartmut Fricke, TU Dresden
+* Alison Hudgell, QinetiQ
+* Colin Meckiff, EEC
+* Jean-Marc Pomeret, CENA
+* Wim Post, EUROCONTROL HQ
+* Juan Revuelta, ISDEFE
+* Anthony Smoker, NATS
+* Jan Terlouw, NLR
+ *Heinz Winter

@@ -1,0 +1,25 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2009-07-02
+---
+start_date: 2009-06-29
+---
+title:  8th Seminar- Napa, California USA
+---
+body:
+
+The 8th ATM Seminar took place in Napa, California USA June 29 - July 2, 2009.
+<img src="napa.jpg" style="float: right;  margin-left: 10px;" />
+
+##Essential Information
+
+
+* [Programme Committee](./programme-committee/)
+* [Introductory and Closing Speeches](./introductory-and-closing-speeches/)
+* [Papers](./papers/)
+* [Call For Papers](./cfp.pdf)
+* [Programme](./programme.pdf)
+* [Session Reports](./session-reports/)
+

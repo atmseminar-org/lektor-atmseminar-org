@@ -1,0 +1,17 @@
+_template: layout.html --- _model: page
+---
+title: Session Reports
+---
+body:
+
+[**Conflict Detection & Resolution Decision Support Tools Rapporteur**](/1st-seminar/session-reports/concls1.pdf)
+<br/>
+Plenary session report by: Daniel Delaye, Jim Dieudonne
+
+[**Airborne Separation Systems and Procedures Rapporteur**](/1st-seminar/session-reports/concls2.pdf)
+<br/>
+Plenary session report by: Job Bruggen, Paul Drouilhet
+
+[**ATM Performance Indicators Rapporteur**](/1st-seminar/session-reports/concls3.pdf)
+<br/>
+Plenary session report by: Dominique Colin de Verdiere, Amadeo Odoni

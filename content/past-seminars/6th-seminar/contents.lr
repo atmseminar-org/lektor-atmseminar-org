@@ -1,0 +1,27 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2005-06-27
+---
+start_date: 2005-06-30
+---
+title: 6th Seminar- Baltimore, Maryland USA
+---
+body:
+
+The 6th ATM Seminar took place in Baltimore, Maryland, USA  27-30 June 2005.
+<img src="baltimore.jpg" style="float: right;  margin-left: 10px;" />
+
+##Essential Information
+
+
+* [Programme Committee](./programme-committee/)
+* [Introductory and Closing Speeches](./introductory-and-closing-speeches/)
+* [Programme](./programme.pdf)
+* [Session Reports](./session-reports/)
+* [Call For Papers](./cfp.pdf)
+* [Papers](./papers/)
+* (Presentations not available)
+
+

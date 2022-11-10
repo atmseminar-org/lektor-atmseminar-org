@@ -1,0 +1,39 @@
+_template: layout.html --- _model: page
+---
+title: Programme Committee
+---
+body:
+
+####USA####
+
+* Sabrina Saunders-Hodge, FAA/AAR-200, Seminar Chair (& Org)
+* Gloria Dunderman, FAA/AAR-200 (Org)
+* John Andrews, MIT
+* Steve Bradford, FAA/ASD-105
+* Diana Liang (alternate)
+* Kevin Corker, San Jose State University
+* George Donohue, George Mason University
+* Paul Drouilhet , MIT Lincoln Laboratory
+* Tom Edwards, NASA Ames
+* Aslaug Haraldsdottir, Boeing
+* Frank Petroski, MITRE CAASD
+* Mark Rodgers, FAA/AAR-100
+* Paul Krois, FAA/AAR-100 (alternate)
+* Ved Sud, MITRE CAASD
+* Dres Zellweger, Embry-Riddle AeronauticalÂ  University
+
+####Europe####
+
+* Christian Pusch, EEC, Seminar Co-Chair (& Org)
+* Catherine Lachiver, EEC (Org)
+* Volkmar Adam, DLR
+* Jean-Marc Alliot, CENA
+* Cesare.Bernabei, European Commission DG TREN
+* Job Bruggen, NLR
+* Stephane Chatty, CENA
+* Adrian Magill, DERA
+* Colin Meckiff, EEC
+* Bernard Miaillier, EHQ
+* Bo Redeborn, LFV
+* Juan Revuelta, ISDEFE Spain
+* Anthony Smoker, NATS

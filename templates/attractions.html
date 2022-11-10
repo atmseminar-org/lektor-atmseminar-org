@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+
+{% include 'navigation.html' %}
+
+<main class="page-wrapper">
+
+{% include "breadcrumb.html" %}
+
+<h1 class="container pb-3 pb-lg-4 text-center">{{this.title}}</h1>
+
+{% set attractions = parse_csv(this.attachments, 'attractions.csv') %}
+
+{% for idx, attraction in enumerate(attractions) %}
+<section class="container mb-md-3 mb-lg-5 pb-5">
+<div class="row">
+{% for i in range(2) %}
+{% if ((idx+i) % 2)==1 %}
+    <div class="col-md-6 pb-2 pb-md-0 mb-4 mb-md-0">
+        <div class="pe-lg-5">
+            <img src="{{('/static/' + attraction['image']) | url}}" class="rounded-3" alt="Image">
+        </div>
+    </div>
+{% else %}
+    <div class="col-md-6">
+        <h2 class="h3 mb-sm-4">{{attraction['name']}}</h2>
+        <p>{{attraction['description']}}</p>
+        {% if attraction['address'] %}<p class="text-muted"><i class="bx bx-map text-primary"></i> {{attraction['address']}}{%endif%}</p>
+        {% if attraction['link'] %}
+        <div class="d-flex flex-column flex-sm-row">
+            <a href="{{attraction['link']}}" class="btn btn-primary mb-3 mb-sm-0 me-sm-3">More information</a>
+        </div>
+        {%endif%}
+    </div>
+{% endif %}
+{% endfor %}
+</div>
+</section>
+
+{% endfor %}
+
+</main>
+
+{% endblock %}

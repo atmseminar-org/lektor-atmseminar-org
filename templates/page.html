@@ -1,20 +1,20 @@
-{% extends "generic_page.html" %}
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-<div class="row">
-    <div class="col-sm-10">
-    
-        <h2>{{this.title}}</h2>
-    
-        {{this.body}}
-        
-        {%block addcontent %}{% endblock %}
-        
-        <p align="center">
-            <br/>
-            
-        {{self.sponsors()}}
-          <!--  <img src="{{ '/static/images/Logo_NAV_150.jpg'|url }}" /> -->
-        </p>
-    </div>
-</div>
+
+{% include 'navigation.html' %}
+
+<main class="page-wrapper">
+
+{% include "breadcrumb.html" %}
+
+<section class="container">
+    <h1 class="text-center">{{this.title}}</h1>
+
+  {{ this.body }}
+  
+</section>
+
+</main>
+
 {% endblock %}

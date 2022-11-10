@@ -1,0 +1,449 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+
+<main class="page-wrapper">
+
+    {% include "navigation.html" %}
+
+    <!-- Video + Title split section -->
+    <section class="container-fluid position-relative px-0 pt-5 mt-3 mt-lg-4">
+        <div class="row g-0">
+            <div class="col-xl-7 col-lg-6 pe-lg-5">
+                <div class="d-flex h-100 pe-xl-4">
+                    <img src="{{'/static/img/banner-optimised-operational-performance.jpg' | url}}" style="object-fit: cover; filter: brightness(80%)" alt="welcome banner">
+                    {#
+                    <!-- <video class="w-100" autoplay muted loop style="object-fit: cover;">
+                        <source src="{{'/static/assets/img/landing/conference/hero-video.mp4' | url}}" type="video/mp4">
+                    </video> -->
+                    #}
+                </div>
+            </div>
+            <div class="col-xl-5 col-lg-6 position-relative py-5">
+               <div class="position-relative zindex-5 text-center text-lg-start px-3 px-lg-0 py-xl-4 py-xxl-5 mt-lg-3 mx-auto mx-lg-0" style="max-width: 530px;">
+                   <h2 class="h3 text-primary">{{this.next_date}}</h2>
+                    <h1 class="display-2 pb-lg-3 mb-3">{{this.title}}</h1>
+                    <div class="d-flex justify-content-center justify-content-lg-start text-start mb-2">
+                        <i class="bx bx-map fs-4 text-primary me-2"></i>
+                        <div class="fs-xl">{{this.next_location}}</div>
+                    </div>
+                    {#
+                    <div class="alert alert-secondary" role="alert">
+                        <a class="alert-link" href="{{'./#schedule' | url}}">ICRAT 2022 Schedule now available! &raquo;</a><br/>
+                    <a class="alert-link" href="{{'./upcoming-conference' | url}}">ICRAT 2022 Book of Abstracts (PDF) now available! &raquo;</a>
+                    </div>
+                    #}
+                    <div class="d-flex flex-column justify-content-center justify-content-lg-start py-4 py-lg-5">
+                        <a href="{{'/upcoming-conference/' | url}}" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Upcoming Conference Information</a>
+                        {# <!--a href="https://easychair.org/conferences/?conf=icrat2022" class="btn btn-outline-primary btn-lg me-sm-3 me-xl-4 mb-3">Easychair Page</a--> #}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="position-absolute d-none d-lg-block bottom-0 start-0 w-100 zindex-5 pb-xxl-5">
+            <div class="container pb-4 mb-3 mb-xxl-0">
+                <a href="#upcoming" class="d-table text-light opacity-80 text-decoration-none w-auto py-4" data-scroll data-scroll-offset="70">
+              <span class="d-flex align-items-center">
+                Scroll for more
+                <i class="bx bx-down-arrow-circle fs-3 ms-2"></i>
+              </span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sponsors -->
+    <section class="bg-info py-5">
+    {% include "sponsors.html" %}
+    </section>
+
+    <!-- Upcoming conference -->
+    <section class="container pb-5 my-2 my-md-4 my-lg-5" id="upcoming">
+        <div class="row">
+            <div class="col-lg">
+                <h2>{{this.title}}</h2>
+                {{ this.body }}
+            </div>
+
+            <div class="col-lg-3 pt-4 mt-4">
+                <h3 class="text-center h4">Further read</h3>
+                <div class="btn-group-vertical d-flex shadow-primary">
+                    <a class="btn btn-lg btn-outline-primary" href="#venue"><i class="bx bx-chevron-right"></i> Venue</a>
+                    {% set upcoming_conference_children = site.get('/upcoming-conference/').children %}
+                    {% for upcoming_child in upcoming_conference_children %}
+                    <a class="btn btn-lg btn-outline-primary" href="{{ upcoming_child| url }}"><i class="bx bx-chevron-right"></i>{{upcoming_child.title}}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center mt-4">
+            <div class="col col-lg-9">
+                <h3 class="text-center">ICRAT Core Topics</h3>
+                <div class="border rounded-3 border-primary mb-4 mb-lg-5 mx-3 shadow-primary">
+                    <div class="row row-cols-1 row-cols-md-2 g-0">
+                        <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
+                            <i class="bx bx-math d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Advanced modeling and design methodologies</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-bottom p-2 border-primary">
+                            <i class="bx bx-globe d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Airline operations and quality of service</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
+                            <i class="bx bxs-plane-take-off d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Airport &amp; Heliport design, management and operations</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-bottom p-2 border-primary">
+                            <i class="bx bxs-institution d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Air transportation governance, economics and policy</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
+                            <i class="bx bx-line-chart d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Air transportation system performance measurement and management</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-bottom p-2 border-primary">
+                            <i class="bx bx-code-block d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Automation strategies and their application</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
+                            <i class="bx bx-sitemap d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Decision support systems and human-machine collaboration</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-bottom p-2 border-primary">
+                            <i class="bx bxs-tree d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Environment and energy efficiency, climate change and impact</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
+                            <i class="bx bx-navigation d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Information management, enhanced communication, surveillance and navigation</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-bottom p-2 border-primary">
+                            <i class="bx bxs-rocket d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Integration of high altitude and commercial space activities into air traffic management</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
+                            <i class="bx bx-radar d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Network management, traffic flow optimization, system resilience and crisis management</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-bottom p-2 border-primary">
+                            <i class="bx bxs-city d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Drones and highly automated air vehicle integration</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
+                            <i class="bx bx-error d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Safety, human performance and security</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-bottom p-2 border-primary">
+                            <i class="bx bx-bar-chart d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Socio-technical complexity and applications of data science in aviation</h3>
+                            </div>
+                        </div>
+                        <div class="col d-flex align-items-center border-end-sm p-2 border-primary">
+                            <i class="bx bxs-plane-alt d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Trajectory optimization, trajectory and separation management</h3>
+                            </div>
+                        </div>
+                        <hr class="d-sm-none">
+                        <div class="col d-flex align-items-center p-2 border-primary">
+                            <i class="bx bx-receipt d-block text-primary" style="font-size: 2.5rem;"></i>
+                            <div class="ps-2 ms-1">
+                                <h3 class="h6 mb-0">Standards development and regulation</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- todo: bring back in important dates? -->
+
+        {#
+        <div class="row mt-4 mt-xl-5">
+            <div class="accordion m-auto" id="accordionDefault" style="max-width: 950px;">
+                {% set gen_info_items = site.query('/info-tabs/').include_undiscoverable(True).all() %}
+
+                {% for gen_info_item in gen_info_items | sort(attribute='_id') %}
+
+                <!-- Item -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="heading-{{gen_info_item._id}}">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-{{gen_info_item._id}}" aria-expanded="true" aria-controls="collapse-{{gen_info_item._id}}">
+                            {{ gen_info_item.title }}
+                        </button>
+                    </h3>
+                    <div class="accordion-collapse collapse" id="collapse-{{gen_info_item._id}}" aria-labelledby="heading-{{gen_info_item._id}}" data-bs-parent="#accordionDefault">
+                        <div class="accordion-body">
+                            {{ gen_info_item.body }}
+                        </div>
+                    </div>
+                </div>
+
+                {% endfor %}
+
+            </div>
+        </div>
+        #}
+    </section>
+
+    <!--About ICRAT-->
+    <section class="bg-secondary py-5" id="about">
+        <div class="container py-2 py-md-4 py-lg-5">
+            {% set about_page = site.get('/about/') %}
+            <h2 class="h1 text-center mb-lg-4">{{about_page.title}}</h2>
+
+            {{ about_page.body }}
+
+        </div>
+    </section>
+
+    {#
+    <!-- Schedule -->
+    <section class="container py-5" id="schedule">
+        <div class="row mt-xl-2 mb-xl-3 pb-3 py-md-4 py-lg-5">
+            <div class="col-12">
+                <h2 class="h1 text-center text-sm-start pb-2 pb-lg-0 mb-4 mb-lg-5">Schedule</h2>
+            </div>
+                
+            <div class="col-xl-6 mb-6 mb-xl-0 text-center">
+              <div class="card text-center">
+                <div class="card-body">
+                  <h5 class="card-title">Overview Conference Schedule</h5>
+                  <p class="card-text fs-sm">The overview full conference schedule in PDF file format.</p>
+                  <a class="btn btn-sm btn-primary" href="{{'./upcoming-conference/ICRAT_2022_Schedule_v8.pdf'}}">Schedule (PDF)</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xl-6 mb-6 mb-xl-0 text-center">
+              <div class="card text-center">
+                <div class="card-body">
+                  <h5 class="card-title">Full Conference Schedule</h5>
+                  <p class="card-text fs-sm">The full schedule, condensed schedule, session chair assignments, and paper track information.</p>
+
+                  <a class="btn btn-sm btn-primary" href="{{'./upcoming-conference/ICRAT_2022_Schedule_v8.xlsx'}}">Schedule (XLSX)</a>
+                </div>
+              </div>
+            </div>
+                
+        </div>
+    </section>
+    #}
+
+    <!-- include calendar schedule later see schedule.html in templates -->
+
+    <!-- Testimonials slider -->
+    <section class="bg-secondary py-5" id="committee">
+        <div class="container py-2 py-md-4 py-lg-5">
+            <h2 class="h1 text-center">2022 ICRAT Conference Committee</h2>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 mt-2 mt-lg-4">
+
+                <!-- Item -->
+                <div class="col">
+                    <div class="card border-0 bg-transparent">
+                        <!--img src="{{'/static/assets/img/team/24.jpg' | url}}" class="rounded-3" alt="Eric Neiderman"-->
+                        <div class="card-body text-center p-3">
+                            <h3 class="fs-lg fw-semibold pt-1 mb-1">Eric Neiderman</h3>
+                            <h4 class="fs-6 fw-lighter mb-1">U.S. General Conference Chair</h4>
+                            <p class="fs-sm mb-0">Federal Aviation Administration</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="col">
+                    <div class="card border-0 bg-transparent">
+                        <!--img src="{{'/static/assets/img/team/25.jpg' | url}}" class="rounded-3" alt="Marc Bourgois"-->
+                        <div class="card-body text-center p-3">
+                            <h3 class="fs-lg fw-semibold pt-1 mb-1">Marc Bourgois</h3>
+                            <h4 class="fs-6 fw-lighter mb-1">Europe General Conference Chair</h4>
+                            <p class="fs-sm mb-0">EUROCONTROL</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="col">
+                    <div class="card border-0 bg-transparent">
+                        <!--img src="{{'/static/assets/img/team/26.jpg' | url}}" class="rounded-3" alt="Dave Lovell"-->
+                        <div class="card-body text-center p-3">
+                            <h3 class="fs-lg fw-semibold pt-1 mb-1">Dave Lovell</h3>
+                            <h4 class="fs-6 fw-lighter mb-1">U.S. Program Chair</h4>
+                            <p class="fs-sm mb-0">University of Maryland</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="col">
+                    <div class="card border-0 bg-transparent">
+                        <!--img src="{{'/static/assets/img/team/27.jpg' | url}}" class="rounded-3" alt="Hartmut Fricke"-->
+                        <div class="card-body text-center p-3">
+                            <h3 class="fs-lg fw-semibold pt-1 mb-1">Hartmut Fricke</h3>
+                            <h4 class="fs-6 fw-lighter mb-1">Europe Program Chair</h4>
+                            <p class="fs-sm mb-0">Technische Universität Dresden</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="col">
+                    <div class="card border-0 bg-transparent">
+                        <!--img src="{{'/static/assets/img/team/28.jpg' | url}}" class="rounded-3" alt="Seth Young"-->
+                        <div class="card-body text-center p-3">
+                            <h3 class="fs-lg fw-semibold pt-1 mb-1">Seth Young</h3>
+                            <h4 class="fs-6 fw-lighter mb-1">Doctoral Chair</h4>
+                            <p class="fs-sm mb-0">Ohio State University</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="col">
+                    <div class="card border-0 bg-transparent">
+                        <!--img src="{{'/static/assets/img/team/29.jpg' | url}}" class="rounded-3" alt="Damian Rivas"-->
+                        <div class="card-body text-center p-3">
+                            <h3 class="fs-lg fw-semibold pt-1 mb-1">Michael Schultz</h3>
+                            <h4 class="fs-6 fw-lighter mb-1">Tutorial Chair</h4>
+                            <p class="fs-sm mb-0">Universität der Bundeswehr München</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item -->
+                <div class="col">
+                    <div class="card border-0 bg-transparent">
+                        <!--img src="{{'/static/assets/img/team/30.jpg' | url}}" class="rounded-3" alt="Yu Zhang"-->
+                        <div class="card-body text-center p-3">
+                            <h3 class="fs-lg fw-semibold pt-1 mb-1">Yu Zhang</h3>
+                            <h4 class="fs-6 fw-lighter mb-1">Local Arrangements Chair</h4>
+                            <p class="fs-sm mb-0">University of South Florida</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <h3 class="text-center my-5 ">Program Committee</h3>
+                <div class="col-lg">
+                    <ul class="my-md-0 my-sm-0">
+                        <li>Sameer Alam, Nanyang Technological University, Singapore</li>
+                        <li>Kenneth Allendoerfer, Federal Aviation Administration</li>
+                        <li>Hamsa Balakrishnan, Massachusetts Institute of Technology</li>
+                        <li>Michael Ball, University of Maryland</li>
+                        <li>Lorenzo Castelli, Università degli Studi di Trieste</li>
+                        <li>Andrew Churchill, Mosaic ATM</li>
+                        <li>Daniel Delahaye, Ecole Nationale de l’Aviation Civile</li>
+                        <li>Luis Delgado, University of Westminster</li>
+                        <li>Nicolas Durand, Ecole Nationale de l’Aviation Civile</li>
+                        <li>Joost Ellerbroek, Delft University of Technology</li>
+                        <li>Miquel Angel Piera Eroles, Universitat Autònoma de Barcelona</li>
+                        <li>Carla Hackworth, Federal Aviation Administration</li>
+                        <li>Mark Hansen, University of California, Berkeley</li>
+                        <li>Peter Hecker, Technical University of Braunschweig</li>
+                        <li>Bob Hoffman, Metron Aviation</li>
+                        <li>Gokhan Inhalan, Istanbul Technical University</li>
+                        <li>Kurtulus Izzetoglu, Drexel University</li>
+                        <li>Chris Johnson, University of Glasgow</li>
+                        <li>James Jones, MIT Lincoln Labs</li>
+                        <li>Radosav Jovanovic, University of Belgrade</li>
+                        <li>Yoon Jung, National Aeronautics and Space Administration</li>
+                        <li>Amy Kim, University of Alberta</li>
+                        <li>Xavier Lopez, Boeing</li>
+                        <li>Sandy Lozito, National Aeronautics and Space Administration</li>
+                    </ul>
+                </div>
+                <div class="col-lg">
+                    <ul>
+                        <li>Guglielmo Lulli, Università degli Studi di Milano-Bicocca</li>
+                        <li>Jonas Lundberg, Linköping University</li>
+                        <li>Lothar Meyer, LVF</li>
+                        <li>Max Mulder, Delft University of Technology</li>
+                        <li>Joseph Post, Federal Aviation Administration</li>
+                        <li>Xavier Prats, Universitat Politécnica de Catalunya</li>
+                        <li>Jasenka Rakas, University of California, Berkeley</li>
+                        <li>Jose Ramasco, Institute for Cross-Disciplinary Physics and Complex Systems</li>
+                        <li>Andrea Ranieri, SESAR Joint Undertaking</li>
+                        <li>Megan Ryerson, University of Pennsylvania</li>
+                        <li>Dirk Schaefer, EUROCONTROL</li>
+                        <li>Sherri Shearon, Federal Aviation Administration</li>
+                        <li>Lance Sherry, George Mason University</li>
+                        <li>John Shortle, George Mason University</li>
+                        <li>Senay Solak, University of Massachusetts</li>
+                        <li>Banavar Sridhar, National Aeronautics and Space Administration </li>
+                        <li>Sybert Stroeve, Netherlands Aerospace Centre</li>
+                        <li>Dengfeng Sun, Purdue University</li>
+                        <li>Xiaoqian Sun, Beihang University </li>
+                        <li>Pernilla Ulfvengren, KTH Royal Institute of Technology</li>
+                        <li>Thomas Vossen, University of Colorado</li>
+                        <li>Sebastian Wandelt, Humbolt Universitat zu Berlin</li>
+                        <li>Yanjung Wang, Nanjing University of Aeronautics and Astronautics</li>
+                        <li>Amber Woodburn, The Ohio State University</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Location -->
+    <section class="container py-5" id="venue">
+        <div class="row mt-lg-3 pt-1 pt-md-4 pt-lg-5">
+            <div class="col-xl-3 col-md-4 text-center text-md-start">
+                <h3 class="h4">2024 Venue</h3>
+                <h2 class="h1 mb-4">Singapore</h2>
+                {#
+                <div class="d-block">
+                    <a href="{{'./upcoming-conference/hotel/' | url }}" class="btn btn-primary mb-2">Hotel Information</a>
+                    <a href="{{'./upcoming-conference/local-attractions/' | url }}" class="btn btn-primary mb-2">Tampa Area Information</a>
+                </div>
+                #}
+            </div>
+            <div class="col-xl-9 col-md-8">
+                <img src="{{'./upcoming-conference/Singapore_Panorama_v2.jpg' | url}}" class="rounded-3" width="800" alt="Venue">
+            </div>
+        </div>
+        {#
+        <div class="row mb-lg-3 pb-1 pb-md-4 pb-lg-5 mt-4 mt-sm-n5">
+            <div class="col-lg-4 col-md-5 offset-md-6 offset-lg-7 mt-md-n5">
+                <div class="gallery mt-md-n4 mx-auto" style="max-width: 416px;">
+                    <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3520.7920199369673!2d-82.41036808457079!3d28.061374316450543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2c7c0e7749c9d%3A0x940921d6d9768689!2sUSF%20C.W.%20Bill%20Young%20Hall%20ROTC%20Building!5e0!3m2!1sde!2sde!4v1652968267752!5m2!1sde!2sde" data-iframe="true" class="gallery-item rounded-2" data-sub-html='<h6 class="fs-sm text-light">University of South Florida, FL, USA</h6>'>
+                        <img src="{{'/static/img/usf-map.png' | url}}" class="" alt="Map preview">
+                        <div class="gallery-item-caption fs-sm fw-medium">University of South Florida, FL, USA</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        #}
+    </section>
+
+</main>
+
+{% endblock %}

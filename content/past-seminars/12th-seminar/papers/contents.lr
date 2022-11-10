@@ -1,0 +1,18 @@
+_template: layout.html --- _model: papers_gen
+---
+title: 12th Seminar Papers
+---
+additional_sponsors: <a href="http://www.aiaa.org/"> <img src="/static/images/aiaalogo.jpg" style="margin-left:10px; height: 120px;"  /></a>
+---
+body:
+
+### Keynote Presentations
+
+* [**"Opportunities taken, opportunities missed and opportunities ahead"**](/seminarContent/seminar12/keynotes/Bo Redeborn.pdf) <br/> Bo Redeborn, Former Principal Director ATM and R&D, EUROCONTROL
+
+* [**"Challenges in Aviation Innovation"**](/seminarContent/seminar12/keynotes/Kourosh Hadi-7b.pdf) <br/> Kourosh Hadi, Senior Director of Airplane Product Development, Boeing Commercial Airplanes
+
+* [**"General Aviation Manufacturers Association (GAMA)"**](/seminarContent/seminar12/keynotes/Greg Bowles.pdf) <br/> Gregory J. Bowles, Vice President, Global Innovation and Policy, GAMA 
+
+* [**"SESAR:  Digitalising Europe’s Aviation Infrastructure"**](/seminarContent/seminar12/keynotes/Michael Standar.pdf) <br/> Michael Standar, Chief Strategy & External Affairs, SESAR Joint Undertaking
+

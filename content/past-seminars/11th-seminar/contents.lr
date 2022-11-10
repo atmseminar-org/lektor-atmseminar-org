@@ -1,0 +1,24 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2015-06-26
+---
+start_date: 2015-06-23
+---
+title: 11th Seminar - Libson, Portugal
+---
+body:
+
+The 11th ATM Seminar took place in Lisbon, Portugal 23rd - 26th June 2015.
+<img src="libson.jpg" style="float: right;  margin-left: 10px;" />
+
+## Essential Information
+
+* [Programme Committee](./programme-committee "programme committee") 
+* Awards
+* [Papers and Presentations](./papers/)
+* [Keynote & Panel Presentations](./keynote-and-panel-presentations "Keynote & Panel Presentations") 
+* [Call For Papers](./call-for-papers "Call For Papers") 
+* [Programme](./programmeatm2015.pdf "Programme") 
+* Session Reports

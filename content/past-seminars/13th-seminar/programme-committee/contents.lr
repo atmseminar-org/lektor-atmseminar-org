@@ -1,0 +1,42 @@
+_template: layout.html --- _model: page
+---
+title: Programme Committee
+---
+body:
+
+**13th FAA/Eurocontrol Air Traffic Management Research and Development Seminar, 2019**
+
+
+**Europe**
+* Dirk Schaefer, EUROCONTROL (EU Chair & Organization)
+* David Bowen, SJU
+* Marc Bourgois, EUROCONTROL
+* Nicolas Durand, ENAC
+* Hartmut Fricke, TU Dresden
+* Peter Hecker, TU Braunschweig
+* Jacco Hoekstra, TU Delft
+* Eric Hoffman, EUROCONTROL
+* Billy Josefsson, LFV
+* Dirk K&uuml;egler, DLR
+* Guglielmo Lulli, Lancaster University
+* Jose Miguel de Pablo, CRIDA/Enaire
+* Miquel &Agrave;ngel Piera Eroles, UA Barcelona
+* Anthony Smoker, Lund University /IFATCA
+* Georg Trausmuth, Frequentis
+
+**USA**
+* Eric Neiderman, FAA/ANG (US Seminar Chair & Organization)
+* Kenneth Allendoerfer, FAA
+* Hamsa Balakrishnan, MIT
+* Mike Ball, University of Maryland
+* Mark Hansen, UC Berkeley
+* Jim Hileman, FAA
+* Sandy Lozito, NASA
+* Natesh Manikoth, FAA
+* Karen Marais, Purdue University
+* Joe Post, FAA
+* Tom Reynolds, MIT Lincoln Lab
+* Midori Tanino, FAA
+* Craig Wanke, MITRE CAASD
+* Mark Weber, NOAA
+* Shannon Zelinski, NASA

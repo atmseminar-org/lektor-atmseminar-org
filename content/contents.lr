@@ -1,6 +1,14 @@
-_template: homepage.html
+_model: homepage
 ---
-title: About the USA/Europe ATM R&D Seminar
+breadcrumb_name: ATM Seminar
+---
+_template: layout-home.html
+---
+title: Air Transportation Management Seminar
+---
+subtitle: Established event for the air transportation community
+---
+next_date: 2023 ATM Seminary, 5-9 June
 ---
 body:
 
@@ -13,8 +21,4 @@ ATM is defined in the ICAO ATM Global Concept document as "the dynamic, integrat
 The solutions to today's and future challenges are being addressed right now in research and development labs around the world. It is cutting edge material like this that is presented and discussed at the ATM R&D Seminar.
 
 There have been 14 USA/Europe ATM R&D Seminars resulting in an archive of more than 850 peer-reviewed papers that are available on this website. This represents one of the most valuable and widely-used records of ATM research available.
-
-<strong><em>2023 ATM Seminar, 5-9 June</em></strong>
-
-<a class="btn btn-default btn-lg" href="./upcoming-seminar/"><em>New!</em> Call for Papers now out for the 2023 ATM Seminar!</a><br/>
 

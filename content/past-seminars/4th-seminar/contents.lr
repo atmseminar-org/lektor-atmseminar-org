@@ -1,0 +1,25 @@
+_template: layout.html
+---
+_model:pastseminar
+---
+end_date: 2001-12-07
+---
+start_date: 2001-12-04
+---
+title:  4th Seminar- Santa Fe, New Mexico USA
+---
+body:
+
+The 4th ATM Seminar took place in Santa Fe, NM, USA 04 - 07 December 2001.
+<img src="santafe.jpg" style="float: right;  margin-left: 10px;" />
+
+##Essential Information
+
+* [Programme Committee](./programme-committee/)
+* [Introductory and Closing Speeches](./introductory-and-closing-speeches/)
+* [Programme](./programme.pdf)
+* [Session Reports](./session-reports/)
+* [Papers](./papers/)
+* Presentations Not Available
+
+

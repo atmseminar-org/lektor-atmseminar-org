@@ -1,0 +1,15 @@
+<!-- Breadcrumb -->
+<nav class="container position-relative px-0 pt-5 mt-5 mb-1" aria-label="breadcrumb">
+    <ol class="breadcrumb pt-lg-3 mb-0">
+        <li class="breadcrumb-item"><i class="bx bx-home-alt fs-lg me-1"></i></li>
+        {% for page in filter_breadcrumbs(page_reverse_order(this)) %}
+        <li class="breadcrumb-item {% if page == this%} active {%endif%}">
+        {% if page != this %}
+          <a href="{{page|url}}">{{ page.breadcrumb_name or page.title}}</a>
+        {% else %}
+            {{ page.breadcrumb_name or page.title }}
+        {% endif %}
+        </li>
+        {% endfor %}
+    </ol>
+</nav>

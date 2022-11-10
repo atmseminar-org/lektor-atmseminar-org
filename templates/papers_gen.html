@@ -1,169 +1,72 @@
 {% extends "layout.html" %}
-{% set all_papers_attach=paper_csv(this.attachments) %}
+{% set all_papers_attach=paper_csv(this.attachments, organized=True) %}
 {% block title %}{{ this.title }}{% endblock %}
-{% block addhead %}
-
-<script type="text/javascript" src="/static/js/jquery.js"></script>
-
-<style>
-h2.trigger {
-	padding: 0 0 0 0px;
-	margin: 0 0 5px 0;
-	background: url() no-repeat;
-	height: 46px;
-	line-height: 46px;
-	width: 400px;
-	font-size: 13px;
-	font-weight: bold;
-	float: left;
-}
-h2.trigger a {
-	color: #00F;
-	text-decoration: none;
-}
-h2.trigger a:hover { color: #ccc; }
-h2.active {background-position: left bottom;} /*--When toggle is triggered, it will shift the image to the bottom to show its "opened" state--*/
-.toggle_container {
-	margin: 0 0 5px;
-	padding: 0;
-	border-top: 1px solid #d6d6d6;
-	background: #f0f0f0 url() repeat-y left top;
-	overflow: hidden;
-	font-size: 14px;
-	width: 100%;
-	clear: both;
-}
-.toggle_container .block {
-	padding: 20px; /*--Padding of Container--*/
-	background: url() no-repeat left bottom; /*--Bottom rounded corners--*/
-}
-	.papers {border-collapse: collapse}
-	.papers td{border-bottom:1px solid grey;}
-	.papers td:first-child {border-right:1px solid grey;}
-	.papers th{text-align:center; border-bottom:1px solid black; padding-bottom:10px}
-
-	.papers td { padding:5px;  }
-	.papers td img{margin:0px; padding:5px 0 0 0; }
-</style>
-
-<script>
-$(document).ready(function(){
-
-	//Hide (Collapse) the toggle containers on load
-	$(".toggle_container").hide();
-
-	//Switch the "Open" and "Close" state per click then slide up/down (depending on open/close state)
-	$("h2.trigger").click(function(){
-		$(this).toggleClass("active").next().slideToggle("slow");
-		return false; //Prevent the browser jump to the link anchor
-	});
-
-});
-</script>
-
-
-
-{% endblock %}
 {% block body %}
 
-  <h2>{{ this.title }}</h2>
+{% include 'navigation.html' %}
+
+{% include "breadcrumb.html" %}
+
+  <h1 class="text-center mb-5">{{ this.title }}</h1>
   
   {{this.body}}
 
-<div class="col-sm-12">
-{% for paper_data in all_papers_attach %}
+
+  <section class="container mb-lg-4 py-5">
+  <div><p>
+      <img src="{{'/static/img/google_drive_icon.svg'|url}}" width="40" height="40" class="img-responsive"/>Note: All seminar content is provided on Google Drive. <br/>
+      If you have any issues accessing these files, please ensure you are able to first access Google Drive.
+      </p>
+  </div>
+  </section>
+
+{% for pidx, paper_data in enumerate(all_papers_attach) %}
+{% set primary_alternate = ((pidx % 2) == 0) %}
 {% set papers_attach = paper_data.table_data %}
-{% set has_abstracts_file=has_abstracts_file(papers_attach) %}
-{% set has_papers=has_papers(papers_attach) %}
-{% set has_presentations=has_presentations(papers_attach) %}
-{% set has_videos=has_videos(papers_attach) %}
-{% set has_best_papers=has_best(papers_attach) %}
-<h3>{{paper_data.table_title}}</h3>
-<table class="table">
-  <thead class="thead-inverse">
-    <tr>
-      <th>Paper ID	</th>
-      <th>Title</th>
-      {% if has_papers %}<th>Paper</th> {% endif %}
-      {% if has_videos %}<th>Video</th> {% endif %}
-      {% if has_presentations %}<th>Presentation</th> {% endif %}
-      <th>Theme</th>
-    </tr>
-  </thead>
-  <tbody>
-  {% for idx, row in enumerate(papers_attach) %}
-  {% set paper_link = row['paper'] if row['paper'].startswith('http') else "{}/papers/{}".format(this.content_url_prefix, row['paper']) %}
-  <tr>
-    <td>{{row['id']}}
-        {%if row['best'] and row['best'].strip() == "*" %}
-        <br/><img src="{{ '/static/images/best_track.gif'|url }}"/></td>
-        {%elif row['best'] and row['best'].strip() == "**" %}
-        <br/><img src="{{ '/static/images/best_conference_6.gif'|url }}"/></td>
-        {% endif %}
-    </td>
-    <td>
-    <strong>{{unicode(row['title'])}}</strong><br />
-    Author{% if ',' in row['authors'] %}s{%endif%}: <em>
-        {{row['authors']}} &nbsp;
-         </em><br />
-    
-        {% if 'abstract' in row and row['abstract'] %}
-        <h2 class="trigger"><a href="#">abstract</a></h2>
-        <div class="toggle_container">
-            <div class="block">
-                <!--Content-->
-               {{row['abstract']}}
-            </div>
-        </div>
-        {% endif %}
-    
-    </td>
-    
-    
-    {% if has_papers %}
-    <td align="center">
-        {% if 'paper' in row and row['paper'] %}
-        {% if row['paper'].strip().startswith('http') %}
-            <a href="{{row['paper']}}" target="_blank"><img alt="pdf logo image" src="/static/images/large_pdf.gif" /></a>
-        {% else %}
-        <a href="{{row['paper'] | drive}}" target="_blank"><img alt="pdf logo image" src="/static/images/large_pdf.gif" /></a>
-        {% endif %}
-        {% endif %}
-    </td>
-    {% endif %}
 
-    {% if has_videos %}
-    <td align="center">
-            {%if row['video'] %}
-            <a href="{{row['video']}}" target="_blank"><img src="{{ '/static/images/video_32_32.png'|url }}" /></a>
-            {% else %}
-            &nbsp;
-            {% endif %}        
-    </td>
-    {% endif %}
+{% if paper_data.is_organized %}
 
-    {% if has_presentations %}
-    <td align="center">
-            {%if row['presentation'] %}
-            <a href="{{row['presentation']|drive}}"><img src="/static/images/large_pdf.gif" /></a>
-        {% else %} &nbsp; {% endif %}        
-    </td>
-    {% endif %}
+    <div class="{% if primary_alternate %} bg-secondary {%endif%}">
+    <section class="container mb-lg-4 py-5">
+        <h2 class="text-center">{{paper_data.table_title}}</h2>
 
-    <td>
-     {{row['theme']}}
-    </td>
+          <h3><i class="bx bx-trophy text-primary fw-normal"></i> Best Paper</h3>
 
-  </tr>
-  {% endfor %}
-  </tbody>
-</table>
-{% endfor %}
+        {% set unique_colors = get_unique_colors(len(paper_data.table_data)) %}
+        {% for idx, papers in enumerate(paper_data.table_data.items()) %}
+        {% set paper_category, paper_table_data = papers %}
+        <!-- Category -->
+        <article class="mb-5 pt-5">
 
-<div align="right">
-<h3><img src="{{ '/static/images/best_conference_6.gif'|url }}"/> Best in Conference
-<img src="{{ '/static/images/best_track.gif'|url }}"/> Best in Track</h3>
-</div>
+            <header class="mb-4">
+                <span class="badge bg-info shadow-info fs-base fw-normal" 
+                      style="background-color: {{unique_colors[idx]}} !important; box-shadow: 0 .5rem 1.125rem -0.5rem {{unique_colors[idx]}} !important">
+                    {{paper_category}}
+                </span>
+            </header>
+
+            {% include 'paper_table_data.html' %}
+        </article>
+        {% endfor %}
+
+    </section>
+    </div>
+{% else %}
+
+    <div class="{% if primary_alternate %} bg-secondary {%endif%}">
+        <section class="container mb-lg-4 py-5">
+            <h2 class="text-center">{{paper_data.table_title}}</h2>
+            <article class="mb-5 pt-5">
+                {% set paper_table_data = paper_data.table_data %}
+                {% include 'paper_table_data.html' %}
+
+            </article>
+        </section>
+    </div>
+
+{% endif %}
+
+{% endfor%}
 
 
 {% endblock %}

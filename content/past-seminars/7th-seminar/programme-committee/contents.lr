@@ -1,0 +1,40 @@
+_template: layout.html --- _model: page
+---
+title:
+
+Programme Committee 
+---
+body:
+
+####USA####
+
+* Sabrina Saunders-Hodge, FAA (Seminar Chair & Organization)
+* Steve Bussolari, MIT Lincoln Lab
+* John-Paul Clarke, Georgia Institute of Technology
+* George Donohue, George Mason University
+* Tom Edwards, NASA Ames
+* Mark Hansen, UC Berkeley
+* Paul Krois, FAA/ATO
+* Sandy Lozito, NASA Ames
+* Lourdes Maurice, FAA/AEP
+* Amy Pritchett, Georgia Institute of Technology
+* Will Johnson, FAA
+* Mark Weber, MIT Lincoln Laboratory
+* Gene Wilhelm, MITRE CAASD
+* Dres Zellweger, Joint PlanningÂ Development Office (JPDO)
+
+####EU Members####
+
+* Christian Pusch, EEC (Seminar Chair & Organization)
+* Cesare Bernabei, CEC DG TREN
+* Hartmut Fricke, TU Dresden
+* Kevin Guittet, DSNA/SDER
+* Jacco Hoekstra, NLR
+* Eric Hoffman, EUROCONTROL
+* Billy Josefsson, LFV
+* Christoph Meier, DLR
+* Wim Post, EUROCONTROL
+* Luca Save, Deep Blue
+* Anthony Smoker, NATS
+* Vojin Tosic, University of Belgrade
+* Lluis Vinagre, ISDEFE
