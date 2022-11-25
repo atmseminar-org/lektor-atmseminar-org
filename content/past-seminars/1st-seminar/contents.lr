@@ -1,6 +1,4 @@
-_template: layout.html
----
-_model: pastseminar
+_model:pastseminar
 ---
 end_date: 1997-06-19
 ---
@@ -13,7 +11,7 @@ title:
 body:
 
 The 1st ATM Seminar took place in Saclay, France 17 - 19 June 1997.
-<img src="/1st-seminar/saclay.jpg" style="float: right; margin-left: 10px;">
+<img src="saclay.jpg" style="float: right; margin-left: 10px;">
 
 ## Essential Information
 

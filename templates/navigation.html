@@ -26,7 +26,7 @@
                         <ul class="dropdown-menu">
                             <li><a  class="dropdown-item" href="{{highlight_url|url}}">All {{ highlight_title }} Information</a></li>
                             {% for highlight_child in highlight_conference_children %}
-                            <li><a  class="dropdown-item" href="{{ highlight_child | url }}">{{highlight_child}}</a></li>
+                            <li><a  class="dropdown-item" href="{{ highlight_child | url }}">{{highlight_child.title}}</a></li>
                             {% endfor %}
                         </ul>
                     </li>
@@ -48,10 +48,11 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Past Seminars</a>
 
                         <ul class="dropdown-menu">
-                        {% set previous_conferences = site.get('/past-seminars/') %}
-                        {% for child in previous_conferences.children | sort(attribute='start_date', reverse=True) %}
+                        {% set previous_seminars = site.get('/past-seminars/') %}
+                        {% for child in previous_seminars.children | sort(attribute='start_date', reverse=True) %}
+
                         <li>
-                            <a href="{{ child | url}}" class="dropdown-item">{{child.start_date.year}} - {{child.title[:child.title.find(' ')]}} ATM Seminar</a>
+                        <a href="{{ child | url}}" class="dropdown-item">{{child.start_date.year}} - {{child.title[:child.title.find(' ')]}} ATM Seminar</a>
                          </li>
                         {% endfor %}
                         </ul>

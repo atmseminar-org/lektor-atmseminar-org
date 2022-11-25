@@ -1,6 +1,4 @@
-_template: layout.html
----
-_model:pastseminar
+_model: pastseminar
 ---
 end_date: 2015-06-26
 ---

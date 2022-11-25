@@ -1,8 +1,10 @@
 _model: homepage
 ---
+_template: layout-home.html
+---
 breadcrumb_name: ATM Seminar
 ---
-_template: layout-home.html
+next_location: Savannah, Georgia, USA
 ---
 title: Air Transportation Management Seminar
 ---

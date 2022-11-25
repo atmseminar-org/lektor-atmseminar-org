@@ -1,4 +1,4 @@
-_template: layout.html --- _model: papers_gen
+_model: papers_gen
 ---
 title: 10th Seminar Papers
 ---
