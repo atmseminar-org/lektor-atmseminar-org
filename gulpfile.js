@@ -17,11 +17,11 @@ const gulp = require('gulp'),
 // Define reusable paths
 
 const path = {
-  scss: 'assets/scss',
-  src_js: 'assets/js/src',
-  js: 'assets/js',
-  css: 'assets/css',
-  vendor: 'assets/vendor'
+  scss: 'assets/static/scss',
+  src_js: 'assets/static/js/src',
+  js: 'assets/static/js',
+  css: 'assets/static/css',
+  vendor: 'assets/static/vendor'
 }
 
 
