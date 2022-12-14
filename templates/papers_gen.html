@@ -8,16 +8,16 @@
 {% include "breadcrumb.html" %}
 
   <h1 class="text-center mb-5">{{ this.title }}</h1>
-  
-  {{this.body}}
 
+  <section class="container mb-lg-4 py-2">
+    {{this.body}}
+  </section>
 
-  <section class="container mb-lg-4 py-5">
-  <div><p>
-      <img src="{{'/static/img/google_drive_icon.svg'|url}}" width="40" height="40" class="img-responsive"/>Note: All seminar content is provided on Google Drive. <br/>
-      If you have any issues accessing these files, please ensure you are able to first access Google Drive.
-      </p>
-  </div>
+  <section class="container mb-lg-4 pb-5">
+    <p>
+      <img src="{{'/static/img/google_drive_icon.svg'|url}}" width="40" height="40" class="img-responsive"/> Note: All seminar content is provided on Google Drive. <br/>
+      If you have any issues accessing these files, please first ensure you are able to access Google Drive.
+    </p>
   </section>
 
 {% for pidx, paper_data in enumerate(all_papers_attach) %}
