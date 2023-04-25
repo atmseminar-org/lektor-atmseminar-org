@@ -27,15 +27,12 @@
                         <i class="bx bx-map fs-4 text-primary me-2"></i>
                         <div class="fs-xl">{{this.next_location}}</div>
                     </div>
-                    {#
                     <div class="alert alert-secondary" role="alert">
-                        <a class="alert-link" href="{{'./#schedule' | url}}">ATM Seminar 2023 Schedule now available! &raquo;</a><br/>
-                    <a class="alert-link" href="{{'./upcoming-conference' | url}}">ATM Seminar 2023 Book of Abstracts (PDF) now available! &raquo;</a>
+                        <a class="alert-link" href="{{'./upcoming-seminar/location-hotels/' | url}}">Hotel Information now available! &raquo;</a>
                     </div>
-                    #}
                     <div class="d-flex flex-column justify-content-center justify-content-lg-start py-4 py-lg-5">
                         <a href="{{'/upcoming-seminar/' | url}}" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Upcoming Seminar Information</a>
-                        {# <!--a href="https://easychair.org/conferences/?conf=atmseminar2023" class="btn btn-outline-primary btn-lg me-sm-3 me-xl-4 mb-3">Easychair Page</a--> #}
+                        {# <!--a href="{{'/upcoming-seminar/hotel/' | url}}" class="btn btn-outline-primary btn-lg me-sm-3 me-xl-4 mb-3">Hotel Information Now Available</a--> #}
                     </div>
                 </div>
             </div>
@@ -326,12 +323,10 @@
             <div class="col-xl-3 col-md-4 text-center text-md-start">
                 <h3 class="h4">2023 Venue</h3>
                 <h2 class="h1 mb-4">Savannah, Georgia, USA</h2>
-                {#
                 <div class="d-block">
                     <a href="{{'./upcoming-conference/hotel/' | url }}" class="btn btn-primary mb-2">Hotel Information</a>
-                    <a href="{{'./upcoming-conference/local-attractions/' | url }}" class="btn btn-primary mb-2">Tampa Area Information</a>
+                    {# <!-- a href="{{'./upcoming-conference/local-attractions/' | url }}" class="btn btn-primary mb-2">Tampa Area Information</a--> #}
                 </div>
-                #}
             </div>
             <div class="col-xl-9 col-md-8">
                 <img src="{{'./upcoming-seminar/background.png' | url}}" class="rounded-3" width="800" alt="Venue">
