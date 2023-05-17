@@ -6,11 +6,15 @@ body:
 
 #### The ATM Seminar 2023 will take place June 5 thru June 9, 2023 in Savannah, Georgia, United States of America.
 
+<div class="col-xs-6 alert alert-light" role="alert" width="20%">
+  Thank you for your interest in the upcoming 2023 ATM Seminar!  Below you will find information about the conference.  Please note that the seminar dress will be <em>business casual</em>.
+
+</div>
+
+
 <div class="col-xs-6 pull-right">
 <img class="img-responsive" style="float: right;"  src="background.png">
 </div>
-
-<a class="btn btn-default btn-lg" href="./call-for-papers/"><em>New!</em> Paper templates now available!</a><br/>
 
 * [ATM Seminar Fact Sheet (pdf)](./factsheet_atm_seminar_2023.pdf)
 * [ATM Seminar Schedule AT-A-GLANCE (pdf)](./ATMSeminar_2023_Schedule_AT_A_GLANCE_v3.pdf)
@@ -19,5 +23,4 @@ body:
 * [Theme Information](./theme-information/)
 * [Hotel Information and Seminar Location](./location-hotels/)
 * [Interesting Sites and Attractions in Savannah](http://savannah.uberflip.com/visit-savannah/savannah-insiders-guide-2023)
-
 <br/><br/><br/>
