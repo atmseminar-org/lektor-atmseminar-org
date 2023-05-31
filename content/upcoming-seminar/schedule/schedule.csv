@@ -1,0 +1,21 @@
+Day,Time,Type,Event Title,Event Subtitle,Event Speaker,Center,Session,Track,Room,Chair,Paper ID,Speakers,Paper Title,Paper Authors
+"June 5, 2023",18:00,Info,Early Registration,,,FALSE,,,,,,,,
+"June 6, 2023",07:30,Highlight_Info,Buses depart Montgomery Street Trolley Stop,,,TRUE,,,,,,,,
+"June 6, 2023",07:00,Info,Registration,,,FALSE,,,,,,,,
+"June 6, 2023",,Title,Plenary Opening Session,location,,TRUE,,,,,,,,
+"June 6, 2023",08:30,Keynote,Welcome and Logistics,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL",,,,,,,,,
+"June 6, 2023",08:45,Keynote,"Keynote 1 ""New Developments in Aerospace Transportation Technologies""",,"Melchor J. Antuñano, FAA",,,,,,,,,
+"June 6, 2023",09:30,Keynote,Keynote 2,,"Sabrina Saunders-Hodge, FAA",,,,,,,,,
+"June 6, 2023",10:15,Highlight_Info,Coffee,,,,,,,,,,,
+"June 6, 2023",10:45,Tracks,,,,,Integrated airport/airside operations,1,PARB 114/115,"Marc Bourgois, EUROCONTROL",24, Paolino De Falco,Probabilistic Pre-tactical Arrival and Departure Flight Delay Prediction with Quantile Regression ,"Ramon Dalmau, Paolino De Falco, Miroslav Spak (EUROCONTROL) & Jose Daniel Rodríguez Varela (Geneva Airport)"
+"June 6, 2023",11:30,Tracks,,,,,Integrated airport/airside operations,1,PARB 114/115,"Marc Bourgois, EUROCONTROL",31,Eri Itoh,Designing a Framework of Integrated Aircraft Departure and Surface Traffic Operation via Queuing Network Models,Eri Itoh (University of Tokyo/ENRI) & Michael Schultz (Bundeswehr University Munich)
+"June 6, 2023",12:15,Tracks,,,,,Integrated airport/airside operations,1,PARB 114/115,"Marc Bourgois, EUROCONTROL",55,Marek Travnik,Data-Driven Approach for Runway Braking Condition Assessment with Forecasting Capability,Marek Travnik & R. John Hansman (Massachusetts Institute of Technology)
+"June 6, 2023",10:45,Tracks,,,,," Advanced communication, surveillance and navigation",2,PARB 127,"Dirk Kuegler, DLR",64, David Lovell,Debuffering Timestamped ADS-B Records for Kinematic Applications,"Zhuoxuan Cao, David Lovell (University of Maryland), Aishwarya Bokil & Seth Young (Ohio State University)"
+"June 6, 2023",11:30,Tracks,,,,," Advanced communication, surveillance and navigation",2,PARB 127,"Dirk Kuegler, DLR",59,Phat Thai,Airside Surveillance by Computer Vision in Low-Visibility and Low-Fidelity Environment,"Phat Thai, Sameer Alam & Nimrod Lilith (Nanyang Technological University)"
+"June 6, 2023",12:15,Tracks,,,,," Advanced communication, surveillance and navigation",2,PARB 127,"Dirk Kuegler, DLR",69,Duc-Thinh Pham,Cleared to Land - A Multi-view Vision-based Deep Learning Approach for Distance-to-Touch Down Prediction,"Duc-Thinh Pham, Gabriel James Goenawan, Sameer Alam (Nanyang Technological University) & Rainer Koelle (EUROCONTROL)"
+"June 6, 2023",13:00,Highlight_Info,Lunch,,,,,,,,,,,
+"June 6, 2023",14:00,Tracks,,,,,ATM performance measurement and management I,1,PARB 114/115,"Joseph Post, USF",18,Looking for the best flight efficiency indicators for arrivals,,
+"June 6, 2023",14:45,Tracks,,,,,ATM performance measurement and management I,1,PARB 114/115,"Joseph Post, USF",37,Raphael Christien,Area Navigation Terminal Airspace Complexity Estimation for Arrivals,"Pierrick Pasutto & Karim Zeghal (EUROCONTROL), presented by Raphael Christien (EUROCONTROL)"
+,,,,,,,,2,,,,,,
+,,,,,,,,2,,,,,,
+,,,,,,,,2,,,,,,
