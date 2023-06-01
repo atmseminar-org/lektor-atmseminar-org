@@ -3,6 +3,8 @@ from lektor.context import site_proxy, get_ctx
 import csv
 import os
 from collections import defaultdict
+from datetime import datetime
+from pprint import PrettyPrinter
 
 from werkzeug.urls import url_parse
 from markupsafe import escape
@@ -10,7 +12,6 @@ from markupsafe import escape
 NOFOLLOW_LINK_PREFIX = '!'
 
 import sys
-
 
 if sys.version_info < (3, 0):
     reload(sys)
@@ -84,6 +85,98 @@ class PapersTopicData(PapersTable):
                 organized_data[row[category]].append(row)
         return organized_data
 
+class ScheduleData:
+
+    def __init__(self, schedule_csv_data):
+        self.schedule_data_csv = schedule_csv_data
+        self.events = {}
+        self.days = []
+        self.events_by_day = {}
+        self.process(self.schedule_data_csv)
+
+    def process(self, schedule_data_csv):
+        day_time_events = defaultdict(list)
+
+        for row in schedule_data_csv:
+            day = row['Day']
+            time = row['Time']
+            day_time = "{} {}".format(day, time).strip().replace("\\s{2,99}", " ")
+            day_time = datetime.strptime(day_time, "%B %d, %Y %H:%M")
+            day_time_events[day_time].append(row)
+
+        day_time_events = list(day_time_events.items())
+        day_time_events.sort()
+
+        def paper_structure():
+            return {'Paper ID': 0,
+                    'Paper Title': '',
+                    'Paper Authors': '',
+                    'Presenter': ''}
+        def session_structure():
+            return {'Session': '', 
+                    'Track': 0,
+                    'Chair': '', 
+                    'Room': '', 
+                    'Papers': defaultdict(paper_structure)}
+        def event_structure(): return {
+                    'Day Time': None, 
+                    'Day Number' : 0,
+                    'Event Type': "Info",
+                    'Event Title': "",
+                    'Event Subtitle': "",
+                    'Event Speaker': "",
+                    'Sessions': defaultdict(session_structure)}
+
+        events = defaultdict(event_structure)
+        def remove_dupes(seq):
+            seen = set()
+            seen_add = seen.add
+            return [x for x in seq if not (x in seen or seen_add(x))]
+
+        days = remove_dupes([datetime(month=t.month, day=t.day, year=t.year)
+                             for t, l in day_time_events])
+        self.total_days = len(days)
+        self.days = [(d.strftime("%B %d, %Y"), idx+1) for idx, d in enumerate(days)]
+        days = remove_dupes([t.day for t,_ in day_time_events])
+
+        for t, l in day_time_events:
+            event = events[t]
+            for r in l:
+                event["Day Time"] = t
+                event["Day Time Format"] = t.strftime("%B %d, %Y %H:%M")
+                event["Day Format"] = t.strftime("%B %d")
+                event["Day Year Format"] = t.strftime("%B %d, %Y")
+                event["Time Format"] = t.strftime("%H:%M")
+                event["Day Number"] = days.index(t.day)+1
+                event["Event Type"] = r["Type"]
+                event["Event Title"] = r["Event Title"]
+                event["Event Subtitle"] = r["Event Subtitle"]
+                event["Event Speaker"] = r["Event Speaker"]
+                if r['Session']:
+                    session = event['Sessions'][r['Session']]
+                    session["Session"] = r['Session']
+                    session["Track"] = r["Track"]
+                    session["Chair"] = r["Chair"]
+                    session["Room"] = r["Room"]
+                    paper = session['Papers'][r['Paper ID']]
+                    paper['Paper ID'] = r["Paper ID"]
+                    paper['Paper Title'] = r["Paper Title"]
+                    paper['Paper Authors'] = r['Paper Authors']
+
+        if events:
+            self.events = events
+            self.events_by_day = defaultdict(list)
+            for event in self.events.values():
+                self.events_by_day[event["Day Number"]].append(event)
+    
+    def get_day_string(self, day_number, no_year=True):
+        day_with_year = self.days[day_number-1][0]
+        if no_year:
+            return day_with_year[:day_with_year.find(",")]
+        else:
+            return day_with_year
+
+
 
 class ConferenceTemplatePlugin(Plugin):
     name = 'FAA Human Factors Jinja Template Functions'
@@ -111,6 +204,16 @@ class ConferenceTemplatePlugin(Plugin):
             if attachment_name in attach.attachment_filename:
                 return self._parse_csv(attach.attachment_filename)
         return None
+
+    def schedule_csv(self, attachments):
+        relevant_attachment = [attach for attach in attachments
+                                if 'schedule.csv' in attach.attachment_filename]
+        if len(relevant_attachment) == 0:
+            return {}
+        relevant_attachment = relevant_attachment[0]
+        sched_csv = self._parse_csv(relevant_attachment.attachment_filename)
+        sched_data = ScheduleData(sched_csv)
+        return sched_data
 
     def paper_csv(self, paper_attachments, organized=False):
         relevant_attachments = []
@@ -211,6 +314,7 @@ class ConferenceTemplatePlugin(Plugin):
                                           get_unique_colors=self.get_unique_colors,
                                           page_reverse_order=self.page_reverse_order,
                                           filter_breadcrumbs=self.filter_breadcrumbs,
+                                          schedule_csv=self.schedule_csv,
                                           parse_csv=self.parse_csv,
                                           enumerate=enumerate,
                                           set=set,

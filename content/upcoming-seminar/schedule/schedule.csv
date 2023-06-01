@@ -2,7 +2,7 @@ Day,Time,Type,Event Title,Event Subtitle,Event Speaker,Center,Session,Track,Room
 "June 5, 2023",18:00,Info,Early Registration,,,FALSE,,,,,,,,
 "June 6, 2023",07:30,Highlight_Info,Buses depart Montgomery Street Trolley Stop,,,TRUE,,,,,,,,
 "June 6, 2023",07:00,Info,Registration,,,FALSE,,,,,,,,
-"June 6, 2023",,Title,Plenary Opening Session,location,,TRUE,,,,,,,,
+"June 6, 2023",07:00,Title,Plenary Opening Session,location,,TRUE,,,,,,,,
 "June 6, 2023",08:30,Keynote,Welcome and Logistics,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL",,,,,,,,,
 "June 6, 2023",08:45,Keynote,"Keynote 1 ""New Developments in Aerospace Transportation Technologies""",,"Melchor J. Antuñano, FAA",,,,,,,,,
 "June 6, 2023",09:30,Keynote,Keynote 2,,"Sabrina Saunders-Hodge, FAA",,,,,,,,,
@@ -14,8 +14,17 @@ Day,Time,Type,Event Title,Event Subtitle,Event Speaker,Center,Session,Track,Room
 "June 6, 2023",11:30,Tracks,,,,," Advanced communication, surveillance and navigation",2,PARB 127,"Dirk Kuegler, DLR",59,Phat Thai,Airside Surveillance by Computer Vision in Low-Visibility and Low-Fidelity Environment,"Phat Thai, Sameer Alam & Nimrod Lilith (Nanyang Technological University)"
 "June 6, 2023",12:15,Tracks,,,,," Advanced communication, surveillance and navigation",2,PARB 127,"Dirk Kuegler, DLR",69,Duc-Thinh Pham,Cleared to Land - A Multi-view Vision-based Deep Learning Approach for Distance-to-Touch Down Prediction,"Duc-Thinh Pham, Gabriel James Goenawan, Sameer Alam (Nanyang Technological University) & Rainer Koelle (EUROCONTROL)"
 "June 6, 2023",13:00,Highlight_Info,Lunch,,,,,,,,,,,
-"June 6, 2023",14:00,Tracks,,,,,ATM performance measurement and management I,1,PARB 114/115,"Joseph Post, USF",18,Looking for the best flight efficiency indicators for arrivals,,
-"June 6, 2023",14:45,Tracks,,,,,ATM performance measurement and management I,1,PARB 114/115,"Joseph Post, USF",37,Raphael Christien,Area Navigation Terminal Airspace Complexity Estimation for Arrivals,"Pierrick Pasutto & Karim Zeghal (EUROCONTROL), presented by Raphael Christien (EUROCONTROL)"
-,,,,,,,,2,,,,,,
-,,,,,,,,2,,,,,,
-,,,,,,,,2,,,,,,
+"June 6, 2023",14:00,Tracks,,,,,ATM performance measurement and management I,1,PARB 114/115,"Joseph Post, USF",18,Raphael Christien,Looking for the best flight efficiency indicators for arrivals,"Pierrick Pasutto & Karim Zeghal (EUROCONTROL), presented by Raphael Christien (EUROCONTROL)"
+"June 6, 2023",14:45,Tracks,,,,,ATM performance measurement and management I,1,PARB 114/115,"Joseph Post, USF",37,Chuhao Deng,Area Navigation Terminal Airspace Complexity Estimation for Arrivals,"Chuhao Deng, Hong-Cheol Choi, Hyunsang Park & Inseok Hwang (Purdue University)"
+"June 6, 2023",14:00,Tracks,,,,,Weather in ATM I,2,PARB 127,"Craig Wanke, MITRE",26,James Jones,Risk-Adjusted Traffic Management Strategies for Convective Weather Conditions,James Jones & Zachary Ellenbogen (MIT Lincoln Laboratory)
+"June 6, 2023",14:45,Tracks,,,,,Weather in ATM I,2,PARB 127,"Craig Wanke, MITRE",34,Gabriele Enea,Evaluation of Convective Weather Impacts on US and European Airports,"Gabriele Enea, Tom Reynolds, Margo Pawlak (MIT Lincoln Laboratory), Alexander Lau (DLR),  et al."
+"June 6, 2023",14:00,Tracks,,,,," 4-D Trajectory planning, prediction, and management",3,PARB 128,"Sameer Alam, NTU",13,Hiroko Hirabayash,Airspace Design Proposal for Efficient Flight Operations in North Pacific Oceanic Airspace,"Hiroko Hirabayashi, Mark Brown & Noboru Takeichi (ENRI)"
+"June 6, 2023",14:45,Tracks,,,,," 4-D Trajectory planning, prediction, and management",3,PARB 128,"Sameer Alam, NTU",21,Almudena Buelta,Towards Multi-Aircraft Transfer Learning for Trajectory Tracking,"Almudena Buelta, Alberto Olivares & Ernesto Staffetti (University Rey Juan Carlos)"
+"June 6, 2023",15:30,Highlight_Info,Coffee,,,,,,,,,,,
+"June 6, 2023",16:00,Tracks,,,,,,,,,,,,
+"June 6, 2023",16:45,Tracks,,,,,ATM performance measurement and management II,1,PARB 114/115,"Joseph Post, USF",20,Dan Howell,Estimating the impact of increasing Pilot-Applied Separation on Approach,"Dan Howell, Jennifer King, Lynn Tran (Regulus Group), Alejandro Rodriguez & Doug Arbuckle (FAA)"
+"June 6, 2023",16:00,Tracks,,,,,ATM performance measurement and management II,1,PARB 114/115,"Joseph Post, USF",57,Henrik Hardell,Performance Characterization of Arrival Operations with Point Merge at Oslo Gardermoen Airport,"Tatiana Polishchuk, Henrik Hardell, Anastasia Lemetti & Lucie Smetanová (Linköping University)"
+"June 6, 2023",16:45,Tracks,,,,,,2,PARB 127,"Craig Wanke, MITRE",51,Esther Roosenbrand,Estimating Wind Fields Using Physically Inspired Neural Networks With Aircraft Surveillance Data,"Jari Malfliet, Junzi Sun & Jacco Hoekstra (TU Delft) presented by Esther Roosenbrand (TU Delft)"
+"June 6, 2023",16:00,Tracks,,,,,,2,PARB 127,"Craig Wanke, MITRE",54,Marta Sánchez-Cidoncha,Machine Learning to Predict Convective Weather and its Impact on En-Route Capacity,"Marta Sánchez-Cidoncha, Danlin Zheng, Pablo Gil (CRIDA), Gilles Gawinowski, Ramón Dalmau (EUROCONTROL) et al."
+"June 6, 2023",16:45,Tracks,,,,,,3,PARB 128,"Eric Neiderman, FAA",17,Thomas Standfuss,Determinants of Performance in European ATM - How to Analyze a Diverse Industry,"Thomas Standfuss, Hartmut Fricke, Georg Hirte (TU Dresden) & Frank Fichert (Worms University of Applied Sciences)"
+"June 6, 2023",17:30,Highlight_Info,Buses depart conference center,,,,,3,PARB 128,"Eric Neiderman, FAA",27,Hamsa Balakrishnan,Market Structures for Service Providers in Advanced Air Mobility,"Victor Qin, Geoffrey Ding & Hamsa Balakrishnan (Massachu)setts Institute of Technology)"
