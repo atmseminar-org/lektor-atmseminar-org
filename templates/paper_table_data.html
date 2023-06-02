@@ -5,7 +5,7 @@
               {% for idx, row in enumerate(paper_table_data) %}
                 <!-- Item -->
                 <li class="mb-5">
-                    <h3 class="h4 mb-2">
+                    <h3 class="h4 mb-2" id="paper-{{row['id']}}">
                         {% if row['best'] and row['best'] == '*' %}<i class="bx bx-trophy text-primary fw-normal" {% if row['best'] and row['best'] == '**' %} style="font-size: 3em !important;" {% endif %}></i> {% endif %}
                         {{row['title']}}
                     </h3>

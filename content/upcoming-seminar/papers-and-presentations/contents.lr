@@ -1,0 +1,103 @@
+_model: papers_gen
+---
+title: 15th Seminar Keynotes, Papers and Presentations
+---
+body:
+
+#### <u>Keynotes</u>
+
+<!-- Accordion: Alternative style -->
+<div class="accordion" id="accordionAlt">
+  <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+    <h3 class="accordion-header" id="headingOne">
+      <button class="accordion-button shadow-none rounded-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+      "New Developments in Aerospace Transportation Technologies" by Melchor J. Antuñano, FAA
+      </button>
+    </h3>
+    <div class="accordion-collapse collapse" id="collapseOne" aria-labelledby="headingOne" data-bs-parent="#accordionAlt">
+      <div class="accordion-body pt-0">
+      <p>
+        <a href="./bios/#melchor">Melchor J. Antuñano, FAA (bio)</a>
+      </p>
+      <p>
+      This presentation will provide an update on revolutionary technological developments that are changing and improving aerospace transportation including: 1) New types of airline transports for increased efficiency, greater capacity, enhanced comfort, and more physiologically friendly for occupants, 2) New aircraft designs to reduce noise pollution and decrease the adverse impact of flight operations over populated areas, 3) Future occupant-centered aircraft designs, 4) The emergence of very-light jets for on-demand air taxi service, corporate transportation, and personal use, 5) Hybrid aircraft that combine the functional features of airplanes and helicopters, 6) New designs of flying cars and motorcycles, 7) Electric aircraft to reduce air pollution and decrease reliance on fossil fuels, 8) Next generation of lighter than air (dirigibles/airships) commercial transports, 9) First-of-a-kind designs of innovative personal flying devices, 10) The rapid growth and expansion of unmanned aerial vehicles (drones) for civil aviation applications, 11) The next generation of supersonic and hypersonic aircraft, 12) Suborbital and orbital commercial space flight vehicles, 13) Commercial and private spaceports, and 14) Commercial and private space stations. All of these technological developments will also be discussed in the context of operational safety and regulatory challenges.
+      </p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+    <h3 class="accordion-header" id="headingTwo">
+      <button class="accordion-button shadow-none rounded-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        "FAA’s Landscape for UAS and AAM Integration and Strategic Outlook for Cross-Cutting Research to Integrate Emerging UAS & AAM Operations" by Sabrina Saunders-Hodge, FAA
+      </button>
+    </h3>
+    <div class="accordion-collapse collapse" id="collapseTwo" aria-labelledby="headingTwo" data-bs-parent="#accordionAlt">
+      <div class="accordion-body pt-0">
+      <p>
+        <a href="./bios/#sabrina">Sabrina Saunders-Hodge, FAA (bio)</a>
+      </p>
+      <p>
+      The FAA is conducting applied research on Unmanned Aircraft Systems (UAS) and Advanced Air Mobility (AAM) with responsibility for leading the evolution of the agency’s strategic framework and innovative planning to support the safe and efficient integration of UAS and AAM into the National Airspace System.  This keynote will highlight research needs and strategy, current initiatives, and implementation of results to advance and safely integrate UAS/AAM emerging operations.
+      </p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+    <h3 class="accordion-header" id="headingThree">
+      <button class="accordion-button shadow-none rounded-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+      "Gulfstream Safety Innovations" by Chad Bland, Gulfstream
+      </button>
+    </h3>
+    <div class="accordion-collapse collapse" id="collapseThree" aria-labelledby="headingThree" data-bs-parent="#accordionAlt">
+      <div class="accordion-body pt-0">
+      <p>
+        <a href="./bios/#chad">Chad Bland, Gulfstream (bio)</a>
+      </p>
+      <p>
+        Overview of Gulfstream’s Flight Operations Risk Management Service (FORMS) and how to utilize the Corporate Flight Operations Quality Assurance (C-FOQA) data provided by FORMS to improve safety. New innovations for Autopilot TCAS, Predictive Landing Performance Systema and Combined Vision System will be discussed. Additionally, a new effort called Flight Pulse will be introduced. This new process provides pilots access to their own flight data which is analogous to an NFL quarterback reviewing their game tape on Monday morning.
+      </p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+    <h3 class="accordion-header" id="headingFour">
+      <button class="accordion-button shadow-none rounded-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      "Traffic forecasting in turbulent times" by Denis Huet, EUROCONTROL
+      </button>
+    </h3>
+    <div class="accordion-collapse collapse" id="collapseFour" aria-labelledby="headingFour" data-bs-parent="#accordionAlt">
+      <div class="accordion-body pt-0">
+      <p>
+        <a href="./bios/#denis">Denis Huet, EUROCONTROL (bio)</a>
+      </p>
+      <p>
+      Traffic forecast is an important function serving a large range of stakeholders (airlines, ANSPs, airports, ...) and providing input to key activities such as capacity planning and economic regulation. This function is well in place in Europe. Called STATFOR, it sits within the Aviation Intelligence Unit of EUROCONTROL. This keynote will tell the story of the traffic forecast activity during the last 3 years where it had to cope with the biggest crisis aviation has ever encountered. It will show how COVID-19 has been a catalyst for such activity and how STATFOR had to move away from traditional methods and find new ways to provide the best possible outlook in these turbulent times where industry desperately needed some information about where we were and what we could expect....
+      </p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item border-0 rounded-3 shadow-sm mb-3">
+    <h3 class="accordion-header" id="headingFive">
+      <button class="accordion-button shadow-none rounded-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+      "A geometric challenge – no pressure" by Olivia Nuñez, SESAR JU
+      </button>
+    </h3>
+    <div class="accordion-collapse collapse" id="collapseFive" aria-labelledby="headingFive" data-bs-parent="#accordionAlt">
+      <div class="accordion-body pt-0">
+      <p>
+        <a href="./bios/#olivia">Olivia Nuñez, SESAR JU (bio)</a>
+      </p>
+      <p>
+      Pressure altimetry is a core and immutable part of modern aviation. Or is it? New entrants think differently, and pressure altimetry is complicated enough for conventional aviation. Is it unreasonable to imagine a day when all air vehicles fly safely on a common altitude reference now that we have space-based technologies? And will this be easy to implement? No, it won’t, but the longest journey starts with a single step…
+      </div>
+    </div>
+  </div>
+</div>
+
+
+#### <u>2023 Speaker Bios</u>
+
+Please see [here for all of the 15th ATM Seminar 2023 highlighted speaker bios](./bios/). 
+
+
+#### <u>All Papers and Presentations</u>

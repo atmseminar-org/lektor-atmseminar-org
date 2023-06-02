@@ -1,23 +1,32 @@
 _model: page
 ---
-title: Upcoming Seminar
+title: 15th ATM Seminar 2023
 ---
 body:
 
-#### The ATM Seminar 2023 will take place June 5 thru June 9, 2023 in Savannah, Georgia, United States of America.
+#### The ATM Seminar 2023 is taking place June 5 thru June 9, 2023 in Savannah, Georgia, United States of America.
 
 <div class="col-xs-6 alert alert-light" role="alert" width="20%">
-  Thank you for your interest in the upcoming 2023 ATM Seminar!  Below you will find information about the conference.  Please note that the seminar dress will be <em>business casual</em>.
+  Thank you for your interest in the 15th ATM Seminar 2023!  Below you will find information about the conference.  Please note that the seminar dress will be <em>business casual</em>.
 
 </div>
+
+** Note if you would like to be able to remotely stream the conference, please contact the conference organizers by e-mail eric.neiderman a t [1], dirk.schaefer a t [2], amanda.bohatila a t [1], or japost a t [3].**
+
+[1] faa.gov
+[2] eurocontrol.int
+[3] usf.edu
 
 
 <div class="col-xs-6 pull-right">
 <img class="img-responsive" style="float: right;"  src="background.png">
 </div>
 
+* [Keynotes, Papers and Presentations](./papers-and-presentations/)
+* [Schedule of events](../#schedule)
+* [Speaker Bios](./papers-and-presentations/bios/)
 * [ATM Seminar Fact Sheet (pdf)](./factsheet_atm_seminar_2023.pdf)
-* [ATM Seminar Schedule AT-A-GLANCE (pdf)](./ATMSeminar_2023_Schedule_AT_A_GLANCE_v3.pdf)
+* [ATM Seminar Schedule AT-A-GLANCE (pdf)](./ATMSeminar_2023_Schedule_AT_A_GLANCE_v4.pdf)
 * [Programme Committee](./programme-committee/)
 * [Call for Papers **(now closed)**](./call-for-papers/)
 * [Theme Information](./theme-information/)

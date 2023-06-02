@@ -3,6 +3,10 @@
   {% set schedule_data = schedule_csv(site.get('/upcoming-seminar/schedule/').attachments) %}
 {% endif %}
 
+{% if paper_base_link is not defined %}
+  {% set paper_base_link = '/upcoming-seminar/papers-and-presentations/#paper-' %}
+{% endif %}
+
 {% if schedule_abbreviated is not defined %}
   {% set schedule_abbreviated = True %}
 {% endif %}
@@ -45,7 +49,16 @@
                                 {% if event["Event Type"] != "Tracks"%}
                                     <h5>{{event["Event Title"]}}</h5>
                                     {% if event["Event Subtitle"] %}
-                                    <h6>{{event["Event Subtitle"]}}</h6>
+                                    <h6>
+                                        {% if event["Event Subtitle Link"]%}
+                                        <a href="{{event["Event Subtitle Link"]|safe}}">
+                                        {% endif %}
+                                        {{event["Event Subtitle"]}}
+                                        {% if event["Event Subtitle Link"]%}
+                                        </a>
+                                        {% endif %}
+                                    </h6>
+
                                     {% endif %}
                                     {% if event["Event Speaker"]%}
                                     <p>{{event["Event Speaker"]}}</p>
@@ -58,7 +71,7 @@
                                     <p>Chair {{session_details["Chair"]}} <br/> Room {{session_details["Room"]}}</p>
                                     <ul>
                                         {% for paper in event["Sessions"][session]["Papers"].values() %}
-                                        <li><b>{{paper['Presenter']}}</b> - <i>{{paper['Paper Title']}}</i> <br/>
+                                        <li><b>{{paper['Presenter']}}</b> - <i><a href="{{paper_base_link}}{{paper['Paper ID']}}">{{paper['Paper Title']}}</a></i> <br/>
                                             {{paper['Paper Authors']}}
                                         </li>
                                         {% endfor %}

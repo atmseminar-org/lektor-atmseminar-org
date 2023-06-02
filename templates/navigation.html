@@ -19,12 +19,13 @@
                         <a href="{{'/upcoming-seminar' | url}}" class="nav-link">Upcoming <br/>ATMSeminar 2023</a>
                     </li-->
                     <li class="nav-item dropdown">
-                    {% set highlight_title = 'Upcoming Seminar'  %}
+                    {% set highlight_title = '15th ATM Seminar 2023'  %}
                         {% set highlight_url = '/upcoming-seminar/' %}
                         <a href="#" class="nav-link dropdown-toggle"  data-bs-toggle="dropdown">{{ highlight_title }}</a>
                         {% set highlight_conference_children = site.get(highlight_url).children %}
                         <ul class="dropdown-menu">
                             <li><a  class="dropdown-item" href="{{highlight_url|url}}">All {{ highlight_title }} Information</a></li>
+                            <li><a  class="dropdown-item" href="{{'/#schedule'|url}}">Schedule</a></li>
                             {% for highlight_child in highlight_conference_children %}
                             <li><a  class="dropdown-item" href="{{ highlight_child | url }}">{{highlight_child.title}}</a></li>
                             {% endfor %}

@@ -125,6 +125,7 @@ class ScheduleData:
                     'Event Type': "Info",
                     'Event Title': "",
                     'Event Subtitle': "",
+                    'Event Subtitle Link': "",
                     'Event Speaker': "",
                     'Sessions': defaultdict(session_structure)}
 
@@ -152,6 +153,7 @@ class ScheduleData:
                 event["Event Type"] = r["Type"]
                 event["Event Title"] = r["Event Title"]
                 event["Event Subtitle"] = r["Event Subtitle"]
+                event["Event Subtitle Link"] = r["Event Subtitle Link"]
                 event["Event Speaker"] = r["Event Speaker"]
                 if r['Session']:
                     session = event['Sessions'][r['Session']]
