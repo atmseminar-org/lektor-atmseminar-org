@@ -4,7 +4,7 @@
 {% endif %}
 
 {% if paper_base_link is not defined %}
-  {% set paper_base_link = '/upcoming-seminar/papers-and-presentations/#paper-' %}
+  {% set paper_base_link = './upcoming-seminar/papers-and-presentations/#paper-' %}
 {% endif %}
 
 {% if schedule_abbreviated is not defined %}
@@ -71,7 +71,7 @@
                                     <p>Chair {{session_details["Chair"]}} <br/> Room {{session_details["Room"]}}</p>
                                     <ul>
                                         {% for paper in event["Sessions"][session]["Papers"].values() %}
-                                        <li><b>{{paper['Presenter']}}</b> - <i><a href="{{paper_base_link}}{{paper['Paper ID']}}">{{paper['Paper Title']}}</a></i> <br/>
+                                        <li><b>{{paper['Presenter']}}</b> - <i><a href="{{paper_base_link + paper['Paper ID'] | url }}">{{paper['Paper Title']}}</a></i> <br/>
                                             {{paper['Paper Authors']}}
                                         </li>
                                         {% endfor %}
