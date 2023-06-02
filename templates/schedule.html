@@ -19,7 +19,7 @@
                     {% set day_string = day_value[0] %}
                     {% set day_number = day_value[1] %}
                     <a href="#day-{{day_number}}" class="nav-link d-block w-100 rounded-3 p-3 p-xl-4 mb-lg-3 {% if first_day %}active{% endif %}" id="day-{{day_number}}-tab" data-bs-toggle="tab" role="tab" aria-controls="day-{{day_number}}" aria-selected="{% if first_day %}true{%else%}false{%endif%}">
-                        <div class="fs-4 fw-bold">{{day_string}}</div>
+                        <div class="fs-4 fw-bold"><center>{{day_string}}</center></div>
                     </a>
                 {% endfor %}
             </div>

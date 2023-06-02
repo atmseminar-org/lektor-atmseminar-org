@@ -137,7 +137,7 @@ class ScheduleData:
         days = remove_dupes([datetime(month=t.month, day=t.day, year=t.year)
                              for t, l in day_time_events])
         self.total_days = len(days)
-        self.days = [(d.strftime("%B %d, %Y"), idx+1) for idx, d in enumerate(days)]
+        self.days = [("{} {}".format(d.strftime("%B"), int(d.strftime("%d"))), idx+1) for idx, d in enumerate(days)]
         days = remove_dupes([t.day for t,_ in day_time_events])
 
         for t, l in day_time_events:
