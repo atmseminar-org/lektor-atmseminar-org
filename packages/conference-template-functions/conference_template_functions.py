@@ -5,6 +5,7 @@ import os
 from collections import defaultdict
 from datetime import datetime
 from pprint import PrettyPrinter
+from uuid import uuid4
 
 from werkzeug.urls import url_parse
 from markupsafe import escape
@@ -162,6 +163,7 @@ class ScheduleData:
                     paper['Paper ID'] = r["Paper ID"]
                     paper['Paper Title'] = r["Paper Title"]
                     paper['Paper Authors'] = r['Paper Authors']
+                    paper['Presenter'] = r['Presenter']
 
         if events:
             self.events = events
@@ -316,6 +318,7 @@ class ConferenceTemplatePlugin(Plugin):
                                           filter_breadcrumbs=self.filter_breadcrumbs,
                                           schedule_csv=self.schedule_csv,
                                           parse_csv=self.parse_csv,
+                                          uuid4=uuid4,
                                           enumerate=enumerate,
                                           set=set,
                                           list=list,
