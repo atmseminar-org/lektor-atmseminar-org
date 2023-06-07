@@ -1,7 +1,7 @@
 Day,Time,Type,Event Title,Event Subtitle,Event Subtitle Link,Event Speaker,Session,Track,Room,Chair,Paper ID,Presenter,Paper Title,Paper Authors
 "June 5, 2023",18:00,Info,"Early registration, welcome reception",Bubbly Bar - 38 Whitaker Street,https://goo.gl/maps/g2HYFZokJ1Tpup9h6?coh=178572&entry=tthttps://goo.gl/maps/g2HYFZokJ1Tpup9h6?coh=178572&entry=tt,,,,,,,,,
 "June 6, 2023",07:30,Highlight_Info,Buses depart Montgomery Street Trolley Stop,,,,,,,,,,,
-"June 6, 2023",07:00,Info,Registration,,,,,,,,,,,
+"June 6, 2023",08:00,Info,Registration,,,,,,,,,,,
 "June 6, 2023",08:25,Title,Plenary Opening Session,Room PARB 114/115,,,,,,,,,,
 "June 6, 2023",08:30,Keynote,Welcome and Logistics,,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL",,,,,,,,
 "June 6, 2023",08:45,Keynote,Keynote 1,New Developments in Aerospace Transportation Technologies,./upcoming-seminar/papers-and-presentations/,"Melchor J. Antuñano, FAA",,,,,,,,
@@ -47,8 +47,8 @@ Day,Time,Type,Event Title,Event Subtitle,Event Subtitle Link,Event Speaker,Sessi
 "June 8, 2023",09:15,Tracks,,,,,"Autonomous, unmanned and remotely piloted aircraft systems I",2,PARB 127,"Billy Josefsson, LFV",38,Richard Alligier ,The Curse of the Time Horizon in Detect & Avoid Algorithms,"David Gianazza, Richard Alligier & Nicolas Durand (ENAC)"
 "June 8, 2023",10:00,Tracks,,,,,"Autonomous, unmanned and remotely piloted aircraft systems I",2,PARB 127,"Billy Josefsson, LFV",10,Jordan Sakakeeny & Tim Felix Sievers,Potential of United States and European Regional Air Cargo Operations for Uncrewed Aircraft Systems,"Jordan Sakakeeny, Husni Idris (NASA) & Tim Felix Sievers (DLR)"
 "June 8, 2023",10:45,Info,Coffee,,,,,,,,,,,
-"June 8, 2023",11:15,Tracks,,,,,Air traffic flow management and optimization I,1,PARB 114/115,"José Miguel De Pablo, CRIDA",33,Gabriele Enea & Tom Reynolds,Implementation of Long-Range Air Traffic Flow Management at Large Hub Airports: An International Perspective,"Gabriele Enea, Tom Reynolds (MIT LL), Adriana Andreeva-Mori, Masahide Onji  (JAXA), Jesper Bronsvoort (Airservices Australia) & Joachim Hochwarth (GE)"
-"June 8, 2023",12:00,Tracks,,,,,Air traffic flow management and optimization I,1,PARB 114/115,"José Miguel De Pablo, CRIDA",29,Ziming Wang,STL Combining LSTM for Long-term Predicting Airport Traffic Flow,"Ziming Wang, Yanjun Wang (Nanjing University), Yaoshuai Zhao (TravelSky), Mark Hansen (UC Berkely) & Daniel Delahaye (ENAC)"
+"June 8, 2023",11:15,Tracks,,,,,Air traffic flow management and optimization I,1,PARB 114/115,"Max Li, University of Michigan",33,Gabriele Enea & Tom Reynolds,Implementation of Long-Range Air Traffic Flow Management at Large Hub Airports: An International Perspective,"Gabriele Enea, Tom Reynolds (MIT LL), Adriana Andreeva-Mori, Masahide Onji  (JAXA), Jesper Bronsvoort (Airservices Australia) & Joachim Hochwarth (GE)"
+"June 8, 2023",12:00,Tracks,,,,,Air traffic flow management and optimization I,1,PARB 114/115,"Max Li, University of Michigan",29,Ziming Wang,STL Combining LSTM for Long-term Predicting Airport Traffic Flow,"Ziming Wang, Yanjun Wang (Nanjing University), Yaoshuai Zhao (TravelSky), Mark Hansen (UC Berkely) & Daniel Delahaye (ENAC)"
 "June 8, 2023",11:15,Tracks,,,,,"Autonomous, unmanned and remotely piloted aircraft systems II",2,PARB 127,"Billy Josefsson, LFV",19,Patrick Le Blaye,Quantitative air risk assessment for a drone inspection mission along fast-train lines,"Xavier Olive, Patrick Le Blaye (ONERA), Leonid Senov (Linköping University) & Timothé Krauth (Zurich University of Applied Sciences)"
 "June 8, 2023",12:00,Tracks,,,,,"Autonomous, unmanned and remotely piloted aircraft systems II",2,PARB 127,"Billy Josefsson, LFV",68,Christopher Chin,Strategic Planning of Aerial Assets for Disaster Response: Enabling Efficient and Equitable Access to Drone-Based Search Resources,"Christopher Chin, Akila Saravanan, Hamsa Balakrishnan (Massachusetts Institute of Technology) & Adriana Andreeva-Mori (JAXA)"
 "June 8, 2023",12:45,Info,Lunch,,,,,,,,,,,
@@ -70,4 +70,4 @@ Day,Time,Type,Event Title,Event Subtitle,Event Subtitle Link,Event Speaker,Sessi
 "June 9, 2023",12:45,Highlight_Info,Closing Session,"Best Paper Awards & Closing – Announcement ICRAT 2024, ATM Seminar 2025",,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL ",,,,,,,,
 "June 9, 2023",13:30,Info,Lunch,,,,,,,,,,,
 "June 9, 2023",14:15,Info,Buses depart conference center,,,,,,,,,,,
-"June 9, 2023",15:15,Info,Commitee Meeting ,(time tentative),,,,,,,,,,
+"June 9, 2023",13:30,Info,Committee Meeting ,(working lunch),,,,,,,,,,
