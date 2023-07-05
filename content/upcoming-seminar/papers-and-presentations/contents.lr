@@ -29,12 +29,13 @@ body:
     <h3 class="accordion-header" id="headingTwo">
       <button class="accordion-button shadow-none rounded-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
         "FAA’s Landscape for UAS and AAM Integration and Strategic Outlook for Cross-Cutting Research to Integrate Emerging UAS & AAM Operations" by Sabrina Saunders-Hodge, FAA
-      </button>
+      </button> 
     </h3>
     <div class="accordion-collapse collapse" id="collapseTwo" aria-labelledby="headingTwo" data-bs-parent="#accordionAlt">
       <div class="accordion-body pt-0">
       <p>
-        <a href="./bios/#sabrina">Sabrina Saunders-Hodge, FAA (bio)</a>
+        <a href="./bios/#sabrina">Sabrina Saunders-Hodge, FAA (bio)</a><br/>
+        <a href="https://drive.google.com/file/d/12zai1AVkrxLAN9dQwBqmmV4uNO6XSQTL/view?usp=drive_link">[Presentation PDF]</a>
       </p>
       <p>
       The FAA is conducting applied research on Unmanned Aircraft Systems (UAS) and Advanced Air Mobility (AAM) with responsibility for leading the evolution of the agency’s strategic framework and innovative planning to support the safe and efficient integration of UAS and AAM into the National Airspace System.  This keynote will highlight research needs and strategy, current initiatives, and implementation of results to advance and safely integrate UAS/AAM emerging operations.
@@ -68,7 +69,8 @@ body:
     <div class="accordion-collapse collapse" id="collapseFour" aria-labelledby="headingFour" data-bs-parent="#accordionAlt">
       <div class="accordion-body pt-0">
       <p>
-        <a href="./bios/#denis">Denis Huet, EUROCONTROL (bio)</a>
+        <a href="./bios/#denis">Denis Huet, EUROCONTROL (bio)</a><br/>
+        <a href="https://drive.google.com/file/d/1WufdBK9MFuyXVh9Yvx5S4vBTJB4rUDra/view?usp=drive_link">[Presentation PDF]</a>
       </p>
       <p>
       Traffic forecast is an important function serving a large range of stakeholders (airlines, ANSPs, airports, ...) and providing input to key activities such as capacity planning and economic regulation. This function is well in place in Europe. Called STATFOR, it sits within the Aviation Intelligence Unit of EUROCONTROL. This keynote will tell the story of the traffic forecast activity during the last 3 years where it had to cope with the biggest crisis aviation has ever encountered. It will show how COVID-19 has been a catalyst for such activity and how STATFOR had to move away from traditional methods and find new ways to provide the best possible outlook in these turbulent times where industry desperately needed some information about where we were and what we could expect....
@@ -85,7 +87,8 @@ body:
     <div class="accordion-collapse collapse" id="collapseFive" aria-labelledby="headingFive" data-bs-parent="#accordionAlt">
       <div class="accordion-body pt-0">
       <p>
-        <a href="./bios/#olivia">Olivia Nuñez, SESAR JU (bio)</a>
+        <a href="./bios/#olivia">Olivia Nuñez, SESAR JU (bio)</a><br/>
+        <a href="https://drive.google.com/file/d/1j4vv3OvYtNRN8Xwin49H4982OlBQ48EH/view?usp=drive_link">[Presentation PDF]</a>
       </p>
       <p>
       Pressure altimetry is a core and immutable part of modern aviation. Or is it? New entrants think differently, and pressure altimetry is complicated enough for conventional aviation. Is it unreasonable to imagine a day when all air vehicles fly safely on a common altitude reference now that we have space-based technologies? And will this be easy to implement? No, it won’t, but the longest journey starts with a single step…
