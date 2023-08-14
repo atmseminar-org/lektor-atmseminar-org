@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+
+{% include 'navigation.html' %}
+
+<main class="page-wrapper">
+
+{% include "breadcrumb.html" %}
+
+<section class="container">
+    <h1 class="text-center">{{this.title}}</h1>
+
+  {{ this.body }}
+
+  <!-- Gallery grid no gutters -->
+  <div class="gallery row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4" data-video="true">
+
+    {% for image in this.attachments.images %}
+    <!-- Item -->
+    <div class="col border border-light">
+        <a href="{{image | url}}" class="gallery-item rounded-3" data-sub-html='<h6 class="fs-sm text-light">Gallery image caption</h6>'>
+            <img src="{{image | url}}" alt="Gallery thumbnail">
+        <!--div class="gallery-item-caption fs-sm fw-medium">Gallery image caption</div-->
+      </a>
+    </div>
+
+    {% endfor %}
+
+
+    <!-- Add as many items as you need -->
+  </div>
+  
+</section>
+
+</main>
+
+{% endblock %}
