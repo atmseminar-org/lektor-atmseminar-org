@@ -1,1 +1,28 @@
+{% extends "layout.html" %}
+
+{% if schedule_data is not defined %}
+  {% set schedule_data = schedule_csv(this.attachments) %}
+{% endif %}
+
+{% if paper_base_link is not defined %}
+  {% set paper_base_link = '../papers-and-presentations/#paper-' %}
+{% endif %}
+
+{% if schedule_abbreviated is not defined %}
+  {% set schedule_abbreviated = True %}
+{% endif %}
+
+
+{% include 'navigation.html' %}
+{% include 'breadcrumb.html' %}
+{% block title %}{{this.title}}{% endblock %}
+{% block body %}
+<section class="container">
+
+{% include "schedule.html" %}
+
+</section>
+
+{% endblock %}
+
 

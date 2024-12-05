@@ -1,6 +1,5 @@
-
 {% if schedule_data is not defined %}
-  {% set schedule_data = schedule_csv(site.get('/upcoming-seminar/schedule/').attachments) %}
+  {% set schedule_data = schedule_csv(this.attachments) %}
 {% endif %}
 
 {% if paper_base_link is not defined %}
@@ -11,6 +10,7 @@
   {% set schedule_abbreviated = True %}
 {% endif %}
 
+{% block schedulebody %}
 <!-- Schedule -->
     <div class="row mt-xl-2 mb-xl-3 pb-3 py-md-4 py-lg-5">
 
@@ -90,3 +90,4 @@
             </div>
         </div>
     </div>
+{% endblock %}

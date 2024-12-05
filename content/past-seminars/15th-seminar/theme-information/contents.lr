@@ -1,0 +1,116 @@
+_model: page
+---
+title: Theme Information
+---
+body:
+
+<h4>ATM 2023 Theme Descriptions</h4>
+
+More information can be found in the [Call for Papers](../call-for-papers/).
+
+These descriptions outline the scope of each theme as envisaged by the Programme Committee. They are not exhaustive, so related subject matter not explicitly mentioned below may be submitted. The committee reserves the right to shift submitted papers to a different theme than that specified by the submitting author.
+
+
+**Air traffic flow management and optimization**
+
+NextGen and SESAR promote efficient use of airport and airspace resources through strategic flow management and opti-
+mization from the perspectives of both carrier and service provider. This theme includes concepts of collaborative decision
+making (CDM) for enhancing efficiency and solving congestion problems.
+
+**4-D Trajectory planning, prediction, and management**
+
+A key paradigm of NextGen and SESAR is the shift of control from tactical clearance to management by reference to
+a trajectory. Topics in this theme include all aspects of trajectory planning, prediction, optimization, and coordination
+including real time updates and traffic synchronization. Also included are tools and procedures for queue management
+such as arrival, departure and surface manager.
+
+
+**Separation assurance and safety nets**
+
+This theme encompasses concepts, algorithms, analysis and systems that address tactical separation in the air and on the
+airport surface. Topics include methods and models for assessing separation requirements; ground-based, airborne, and
+combined approaches for safety alerting and conflict resolution; and wake turbulence management.
+
+
+**Advanced communication, surveillance and navigation**
+
+This theme includes concepts for advanced communication, surveillance, navigation and associated procedures to increase
+throughput in en route and terminal airspace. Topics may include use of ADS-B surveillance information, controller-pilot
+data-link, cockpit display of traffic information and performance-based navigation procedures.
+
+
+**Integrated airport/airside operations**
+
+This theme includes models and analysis of airport surface operations and the coordination of local airport manage-
+ment decisions (for e.g., gate allocation) with the surrounding airspace constraints. Goals can include mitigating delays on
+scheduled airport operations; optimization of runways/taxiways; managing airspace delays and congestion; and reducing
+environmental impact. Topics include airport performance assessment and dynamic scheduling of airport and airspace
+resources including the use of Airport CDM (A-CDM).
+
+
+**Economics, finance and policy**
+
+This theme includes air transport policy and strategy analysis; economic incentives to change the behaviour of air trans-
+port actors; the finance of air traffic services and modernization initiatives; and investment analysis of ATM improvements.
+Also relevant are airport access control policy, equipage issues and adaptation to climate change. The appropriate roles
+of government, air navigation service providers (ANSPs), and industry can be discussed as well as trade-offs between
+competing policy goals. Case studies in air transportation with policy implications, including regulation are also welcomed.
+
+
+**ATM performance measurement and management**
+
+Topics of interest include prediction, measurement, control, and optimization of one or more dimensions of air transpor-
+tation system performance including safety, capacity and delays, cost and flight efficiency, punctuality, predictability and
+environmental impact. Empirical, analytical, and model-based studies for individual programs and the system as a whole,
+both within and across ANSPs, are welcome. Note that research on human performance should be submitted under the
+human factors theme.
+
+
+**Safety, resilience and security**
+
+Safety and resilience topics of interest include current and future approaches for risk mitigation; contributions from future
+technology and automation to safety management; and the assessment of system and human response to unexpected
+operating conditions. This theme also includes contributions that specifically address the assessment and mitigation of
+events that take place on a local or global scale and pose a threat to the aviation ecosystem such as pandemics, geo-political
+conflicts and climate-related disruptions such as floods and extreme weather. Security topics of interest include cybersecu-
+rity, the protection of airports and other critical ATM infrastructure with physical vulnerabilities, and unwanted UAS activity.
+
+
+**Environment and energy efficiency**
+
+This theme addresses the assessment and measurement of aviation’s environmental impacts and energy efficiency as well
+as interdependencies among these and other parameters. Topics include approaches to improve ATM and operational
+procedures from an environmental and energy efficiency perspective; analyses of impacts of new aircraft and other new tech-
+nologies on the environmental performance of ATM; and programs to encourage or accommodate sustainable aviation fuel.
+
+
+
+**Weather in ATM**
+
+This theme includes the integration of weather information into ATM decision making to understand and mitigate its impact
+on operations. Topics include quantifying the impact of weather on air traffic operations, decision making in the face of forecast
+uncertainty, and general considerations of the role of weather and weather forecasting in the practice of ATM.
+
+
+**Human factors**
+
+Human factors issues include human-system integration, AI assistant tools and human-AI teaming, decision making,
+training, controller selection and performance monitoring, organizational dynamics, change management, individual and
+team performance and adaptive automation. Topics also include tools, techniques and metrics to enhance the performance
+of humans in ATM. Research related to human factor analysis of remote tower operations are welcome.
+
+**Autonomous, unmanned and remotely piloted aircraft systems**
+
+This theme focuses on the safe and efficient integration of UAS/RPAS and autonomous systems into ATM operations. Topics
+of interest include separation requirements; trajectory-based operations; dynamic network analysis of the decision loop
+changes from separation through traffic synchronization; design and analysis for increased autonomy to ensure safety, resil-
+ience and trust in the system; and human/automation interaction with UAS.
+
+**Complexity science, analytics and big data for ATM**
+
+Papers should address the application of complexity science, and related disciplines, to air transportation when seen as
+a complex socio-technical system. Analysis of large volumes of structured or unstructured ATM data that can bring fresh
+insight is also included in this theme. Topics may include the understanding of air transport system complexity and behav-
+iour; emergent behaviour with appropriate modelling and simulation techniques; forensic investigation/data mining and
+analysis; and complexity metrics. The theme also includes applications of machine learning in ATM.
+
