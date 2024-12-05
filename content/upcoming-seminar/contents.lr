@@ -1,27 +1,16 @@
-_model: pastseminar
+_model: page
 ---
-end_date: 2023-06-09
----
-start_date: 2023-06-05
----
-title: 15th ATM Seminar 2023
+title: ATM Seminar 2025
 ---
 body:
 
-#### The ATM Seminar 2023 was held June 5 thru June 9, 2023 in Savannah, Georgia, United States of America.
+#### The ATM Seminar 2025 will be held held June 5 thru June 9, 2025 in Prague, Czech Republic.
 
 <div class="col-xs-6 pull-right">
-<img class="img-responsive" style="float: right;"  src="background.png">
+<img class="img-responsive" style="float: right;" src="prague_web.png">
 </div>
 
-* [Keynotes, Papers and Presentations](./papers-and-presentations/)
-* [Gallery](./gallery/)
-* [Schedule of events](../#schedule)
-* [Speaker Bios](./papers-and-presentations/bios/)
-* [ATM Seminar Schedule AT-A-GLANCE (pdf)](./ATMSeminar_2023_Schedule_AT_A_GLANCE_v5.pdf)
-* [Programme Committee](./programme-committee/)
-* [Call for Papers **(now closed)**](./call-for-papers/)
-* [Theme Information](./theme-information/)
-* [Hotel Information and Seminar Location](./location-hotels/)
-* [Interesting Sites and Attractions in Savannah](http://savannah.uberflip.com/visit-savannah/savannah-insiders-guide-2023)
-<br/><br/><br/>
+* [Call for Papers](./call-for-papers/)
+* [Programme Commitee](./programme-committee)
+* [Theme Information](./theme-information)
+
