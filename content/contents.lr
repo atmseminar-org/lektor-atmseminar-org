@@ -2,19 +2,38 @@ _model: homepage
 ---
 _template: layout-home.html
 ---
-breadcrumb_name: ATM Seminar
+breadcrumb_name: IATR&D Symposium
 ---
 next_location: Prague, Czech Republic
 ---
-title: Air Traffic Management Research and Development Seminar
+title: International Air Transporation Research & Development Symposium
 ---
 subtitle: Established event for the air transportation community
 ---
-next_date: 2025 ATM Seminary, 5-9 June
+next_date: 2025 ATM Seminar (IATRD Symposium), 24-27 June
 ---
 body:
 
-The Federal Aviation Administration and EUROCONTROL have jointly organized an international seminar for Air Traffic Management Research and Development (ATM R&D) since 1997. These seminars are held every two years, alternating between the USA and Europe, and have become the top event for ATM researchers.
+
+### ATM R&D Seminar to become IATRD Symposium!
+
+**Starting in 2025, the ATM R&D Seminar and the International Conference on Research in Air Transportation are being combined into an annual event called the International Air Transportation Research & Development Symposium.**
+
+The Symposium will include all the features of the previous conferences, including:
+
+* Technical sessions with peer-reviewed technical papers
+* Plenary talks by government and industry leaders
+* Doctoral student  symposium
+* Tutorials on topical subjects
+* And more!
+
+The first Symposium will be held in Prague, Czech Republic, from June 24-27 2025.
+
+[The Call for Papers may be found here.](./upcoming-symposium/call-for-papers)
+
+### History of the ATM Seminar
+
+The Federal Aviation Administration and EUROCONTROL have jointly organized an international seminar for Air Traffic Management Research and Development (ATM R&D) since 1997. These seminars were held every two years, alternating between the USA and Europe, and have become the top event for ATM researchers.
 
 The ATM R&D Seminars are particularly important in view of the need to agree and develop solutions that are globally relevant, encompassing SESAR, NextGen and other international programs.  The seminars promote international collaboration, create and reinforce relationships between leading ATM experts and researchers world-wide, and encourage discussion and consensus on major issues. 
 
@@ -22,5 +41,4 @@ ATM is defined in the ICAO ATM Global Concept document as "the dynamic, integrat
 
 The solutions to today's and future challenges are being addressed right now in research and development labs around the world. It is cutting edge material like this that is presented and discussed at the ATM R&D Seminar.
 
-There have been 14 USA/Europe ATM R&D Seminars resulting in an archive of more than 850 peer-reviewed papers that are available on this website. This represents one of the most valuable and widely-used records of ATM research available.
-
+There have been 15 USA/Europe ATM R&D Seminars resulting in an archive of more than 850 peer-reviewed papers that are available on this website. This represents one of the most valuable and widely-used records of ATM research available.

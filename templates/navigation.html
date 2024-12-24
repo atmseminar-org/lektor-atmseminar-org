@@ -5,8 +5,8 @@
 <header class="header navbar navbar-expand-lg navbar-light bg-light shadow-sm fixed-top">
     <div class="container px-3">
         <a href="{{'/' | url }}" class="navbar-brand pe-3">
-            <img src="{{'/static/img/ATM_Globe_100X100_RIGHT-TO-LEFT.png' | url}}" width="47" alt="ATM Seminar">
-            ATM Seminar
+            <img src="{{'/static/img/ATM_Globe_100X100_RIGHT-TO-LEFT.png' | url}}" width="47" alt="IATR&D Symposium">
+            IATR&D Symposium
         </a>
         <div id="navbarNav" class="offcanvas offcanvas-end">
             <div class="offcanvas-header border-bottom">
@@ -15,10 +15,11 @@
             </div>
             <div class="offcanvas-body">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <!--li class="nav-item">
-                        <a href="{{'/upcoming-seminar' | url}}" class="nav-link">Upcoming <br/>ATMSeminar 2023</a>
-                    </li-->
-                    <li class="nav-item dropdown">
+                    <li class="nav-item">
+                        <a href="{{'/upcoming-symposium' | url}}" class="nav-link">Upcoming <br/>Symposium 2025</a>
+                    </li>
+                    {#
+                    <!-- li class="nav-item dropdown">
                     {% set highlight_title = '15th ATM Seminar 2023'  %}
                         {% set highlight_url = '/upcoming-seminar/' %}
                         <a href="#" class="nav-link dropdown-toggle"  data-bs-toggle="dropdown">{{ highlight_title }}</a>
@@ -34,8 +35,7 @@
                     <li class="nav-item">
                         <a href="{{'/#themes'|url}}" class="nav-link" data-scroll>Themes</a>
                     </li>
-                    {#
-                    <!--li class="nav-item">
+                    <li class="nav-item">
                         <a href="{{'/#schedule'|url}}" class="nav-link" data-scroll>Schedule</a>
                     </li-->
                     #}

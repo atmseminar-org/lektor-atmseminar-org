@@ -4,45 +4,77 @@ title: Call For Papers
 ---
 body:
 
+** Downloadable Formats **
 
+* [Call for Papers (pdf)](./Symposium_2025_Call_for_Papers_v1.5_pub_v1.pdf)
+* [Call for Papers (doc)](./Symposium_2025_Call_for_Papers_v1.5_pub_v1.docx)
 
-<div class="alert alert-danger" role="alert">
-  The call for papers is now closed!  Thank you for your submissions.
-</div>
+## Conference Overview
 
-**[Please download the 2023 fact sheet PDF here.](../factsheet_atm_seminar_2023.pdf)**
+Since 1997, the Federal Aviation Administration (FAA) and EUROCONTROL have jointly organized two prominent series of scientific conferences in air transportation: the Air Traffic Management (ATM) Research and Development (R&D) Seminar and the International Conference on Research in Air Transportation (ICRAT). These events have been hosted in various US and European locations, and most recently in Asia, fostering the exchange of research results and building consensus on key issues in air transportation and ATM. The conferences have been instrumental in creating and reinforcing professional relationships among leading experts and researchers. Papers presented are publicly available on our websites, forming a valuable repository of air transportation research.
 
+## New Conference Format
 
+While the ATM R&D Seminar took place in odd years and reached out to senior scientists, ICRAT predominantly addressed young researchers and took place in even years. To streamline and enhance the impact of these conferences, the FAA and EUROCONTROL are merging the ATM R&D Seminar and ICRAT into a new annual event: the International Air Transportation Research and Development Symposium. The Symposium will integrate the best elements of both previous conferences. Still based on an open Call for Papers, the Symposium will also feature tutorials on selected topics and a doctoral research review component. Industry members are encouraged to attend to facilitate the transfer of research from academia to practice.
 
+## Call for Papers
 
-The United States Federal Aviation Administration and EUROCONTROL are jointly organising the Fourteenth USA/Europe ATM R&D Seminar. This continues a series started in 1997 hosted alternately in Europe and the USA. The ATM R&D seminars allow the ATM community to share and discuss R&D results and to build consensus on major issues; they have a strong record of creating and reinforcing working and personal relationships amongst leading experts and researchers in the industry.
+The Programme Committee (PC) invites research papers that present new concepts, analyses, and methodologies in one of the themes set out below. Papers may address any part of the lifecycle from early concept to implementation. The Committee also considers papers that demonstrate the infeasibility of certain concepts (negative results), deployment experiences with valuable lessons as well as papers that describe and analyse relevant innovative concepts and emerging technologies. Papers describing research and concepts that apply globally will be looked upon favourably, as will contributions arising from collaboration between different organizations, especially joint international efforts.
+The Symposium invites contributions in two categories with the criteria listed below:
 
-The 2023 edition of the seminar will take place in Savannah, Georgia, United States of America, between 5th and 9th June 2023; it will provide a platform for researchers to share results that can contribute to current European and US ATM initiatives.  All technical sessions of the seminar will be video-recorded and the recordings will subsequently be made available to the community.  The seminar itself, however, will be in-person and attendance throughout the event is strongly encouraged.
+ 1. Full Papers (up to 10 pages) - Submissions must provide a clear explanation of their objectives, approach, methodology, and results, and draw conclusions that underscore the scientific value of the work. Papers lacking clear results will be rejected. Authors are required to reference previous work, such as from the ATM Seminar and ICRAT, which collectively contain a huge repository of scientific publications (see www.atmseminar.org and www.icrat.org). Papers that duplicate content presented at other conferences or similar forums will not be accepted. 
+ 2. Doctoral Research Papers (up to 4 pages) – Young researchers are encouraged to submit papers presenting ongoing or recently completed PhD research. The symposium provides a supportive environment where doctoral students can receive constructive feedback from experienced researchers. Submissions should be in English and detail the research, approach, and preliminary results as well as relevant references.
 
-The Programme Committee invites research papers that present new concepts, analyses and methodologies in one of the themes set out below. The Committee also considers papers that demonstrate the infeasibility of certain concepts (negative results), deployment experiences with valuable lessons as well as papers that describe and analyse relevant innovative concepts and emerging technologies. Papers describing research and concepts that apply globally rather than in one part of the world alone will be looked upon favourably, as will contributions arising from collaboration between different organisations, especially joint international efforts.
+## Submission Guidelines
+
+Submissions should be made through EasyChair in either of the two categories mentioned above. Instructions and templates are available on www.atmseminar.org and www.icrat.org.
+
+## Important Dates
+
+* ** Submission Deadline** : February 4th, 2025
+* ** Notification of Acceptance / Rejection** : April 15, 2025
+
+Submissions will be peer-reviewed by at least three committee members according to the criteria indicated above. Submissions should be considered final versions, although the PC may request minor revisions to improve readability. Authors of accepted papers are required to attend the entire symposium. Best paper awards will be presented, and accepted papers will be indexed in SCOPUS and assigned a DOI. Top papers may also be featured in a special journal issue.
+
+## Templates
 
 All papers must be original and not simultaneously submitted to another journal or conference.
 
 Full papers are to be submitted through EasyChair – templates are provided below.
 
-* [**Template (.doc) **](./ATM2023_template.doc)
-* [**Template (.pdf) **](./ATM2023_template.pdf)
-* [**Template (LaTeX .zip) **](./ATM2023_LaTeX.zip)
+* [**Template (.doc) **](./ATM2025_template_pub_v1.doc)
+* [**Template (.pdf) **](./ATM2025_template_pub_v1.pdf)
+* [**Template (LaTeX .zip) **](./ATM2025_LaTeX_pub_v1.zip)
 * [**Seminar themes are listed here.**](../theme-information/) 
 
-**Closing date** for submission: **Sunday 5 February 2023**
 
-Papers will be peer-reviewed by at least three committee members according to criteria indicated above and further detailed on the web site.
+### Conference Leadership
 
-**Notification of acceptance** or rejection: **Friday 31 March 2023.**
+### Conference Co-chairs
 
-Authors presenting their papers are expected to attend the entire seminar. This is critical to achieving the key goal of creating and reinforcing professional and personal relationships for the benefit of the ATM industry. Best paper awards will be presented during the final plenary sessions.
+* Eric Neiderman, FAA[ eric.neiderman@faa.gov](mailto:eric.neiderman@faa.gov)
+* Dirk Schaefer, EUROCONTROL[ dirk.schaefer@eurocontrol.int](mailto:dirk.schaefer@eurocontrol.int)
 
-The ATM Seminar series is included in international research publication indexes. Accepted papers will thus be indexed in SCOPUS and assigned a DOI reference. Best conference papers may be included in a special issue in a recognized scientific journal.
+### Doctoral Symposium Chairs
 
-All seminar attendees will pay a registration fee to cover the costs of conference facilities and meals. No special financial support is available.
+Dave Lovell, University of Maryland, and Hartmut Fricke, TU Dresden
 
-Conference co-chairs: 
-* **Eric Neiderman,** FAA[ eric.neiderman@faa.gov](mailto:eric.neiderman@faa.gov)
-* **Dirk Schaefer,** EUROCONTROL[ dirk.schaefer@eurocontrol.int](mailto:dirk.schaefer@eurocontrol.int)
+### Tutorial Chairs
 
+Michael Schultz, University of the German Armed Forces, and Yu Zhang, University of South Florida
+
+### Industry Chairs
+
+Akbar Sultan, NASA, and Miguel Vilaplana, Airbus
+
+### Communication Chairs
+
+Sameer Alam, Nanyang Technological University Singapore, and Max Li, University of Michigan.
+
+## Student Funding
+
+Limited funding will be available for student presenters who require financial assistance to attend the symposium. Such assistance can be requested under specific conditions by the first authors of a doctoral paper. Details will be published with the notification of acceptance of doctoral papers.
+
+## Conference Themes
+
+[Conference Themes are avaiable here.](../theme-information/)

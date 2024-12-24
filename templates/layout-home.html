@@ -28,11 +28,11 @@
                         <div class="fs-xl">{{this.next_location}}</div>
                     </div>
                     <div class="alert alert-secondary" role="alert">
-                        <a class="alert-link" href="{{'./upcoming-seminar/' | url}}">Call for papers now posted! &raquo;</a> <br/>
+                        <a class="alert-link" href="{{'./upcoming-symposium/' | url}}">Call for papers now posted! &raquo;</a> <br/>
                     </div>
                     <div class="d-flex flex-column justify-content-center justify-content-lg-start py-4 py-lg-5">
-                        {# <!--a href="{{'/upcoming-seminar/' | url}}" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Latest Seminar Information</a--> #}
-                        <a href="{{'/upcoming-seminar/' | url}}" class="btn btn-outline-primary btn-lg me-sm-3 me-xl-4 mb-3">Upcoming Seminar</a>
+                        {# <!--a href="{{'/upcoming-symposium/' | url}}" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Latest Seminar Information</a--> #}
+                        <a href="{{'/upcoming-symposium/' | url}}" class="btn btn-outline-primary btn-lg me-sm-3 me-xl-4 mb-3">Upcoming Seminar</a>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
                 <h3 class="text-center h4">Further read</h3>
                 <div class="btn-group-vertical d-flex shadow-primary">
                     <a class="btn btn-lg btn-outline-primary" href="#venue"><i class="bx bx-chevron-right"></i> Venue</a>
-                    {% set upcoming_seminar_children = site.get('/upcoming-seminar/').children %}
+                    {% set upcoming_seminar_children = site.get('/upcoming-symposium/').children %}
                     {% for upcoming_child in upcoming_seminar_children %}
                     <a class="btn btn-lg btn-outline-primary" href="{{ upcoming_child| url }}"><i class="bx bx-chevron-right"></i>{{upcoming_child.title}}</a>
                     {% endfor %}
@@ -76,7 +76,7 @@
 
         <div class="row justify-content-center mt-4" id="themes">
             <div class="col col-lg-9">
-                <h3 class="text-center">ATM Seminar Themes</h3>
+                <h3 class="text-center">IATR&D Symposium Themes</h3>
                 <div class="border rounded-3 border-primary mb-4 mb-lg-5 mx-3 shadow-primary">
                     <div class="row row-cols-1 row-cols-md-2 g-0">
                         <div class="col d-flex align-items-center border-end-sm border-bottom p-2 border-primary">
@@ -204,7 +204,6 @@
 
         </div>
     </section>
-    #}
 
     <!-- Schedule -->
     <!--section class="container py-5" id="schedule">
@@ -218,7 +217,7 @@
                 <div class="card-body">
                   <h5 class="card-title">ATM Seminar Schedule AT-A-GLANCE</h5>
                   <p class="card-text fs-sm">The ATM Seminar 2023 Schedule AT-A-GLANCE in PDF format.</p>
-                  <a class="btn btn-sm btn-primary" href="{{'./upcoming-seminar/ATMSeminar_2023_Schedule_AT_A_GLANCE_v5.pdf'}}">Schedule AT-A-GLANCE (PDF)</a>
+                  <a class="btn btn-sm btn-primary" href="{{'./upcoming-symposium/ATMSeminar_2023_Schedule_AT_A_GLANCE_v5.pdf'}}">Schedule AT-A-GLANCE (PDF)</a>
                 </div>
               </div>
             </div-->
@@ -236,9 +235,10 @@
                 
         </div>
 
-        {# include "schedule.html" #}
+        <!-- include "schedule.html" -->
 
     </section-->
+    #}
 
 
     <!-- Testimonials slider -->
@@ -324,12 +324,12 @@
                 <h3 class="h4">2025 Venue</h3>
                 <h2 class="h1 mb-4">Prague, Czech Republic</h2>
                 <!--div class="d-block">
-                    {# <a href="{{'./upcoming-seminar/location-hotels/' | url }}" class="btn btn-primary mb-2">Location and Hotel Information</a> #}
+                    {# <a href="{{'./upcoming-symposium/location-hotels/' | url }}" class="btn btn-primary mb-2">Location and Hotel Information</a> #}
                     {# <!-- a href="{{'./upcoming-conference/local-attractions/' | url }}" class="btn btn-primary mb-2">Tampa Area Information</a--> #}
                 </div-->
             </div>
             <div class="col-xl-9 col-md-8">
-                <img src="{{'./upcoming-seminar/prague_web.png' | url}}" class="rounded-3" width="800" alt="Venue">
+                <img src="{{'./upcoming-symposium/prague_web.png' | url}}" class="rounded-3" width="800" alt="Venue">
             </div>
         </div>
         {#

@@ -1,10 +1,24 @@
 _model: page
 ---
-title: ATM Seminar 2025
+title: Internation Air Traffic Rsearch & Development Symposium 2025
+---
+breadcrumb_name: IATR&D 2025
 ---
 body:
 
-#### The ATM Seminar 2025 will be held held June 5 thru June 9, 2025 in Prague, Czech Republic.
+#### The IATR&D 2025 Symposium will be held held June 24 thru June 27, 2025 in Prague, Czech Republic.
+
+**Starting in 2025, the ATM R&D Seminar and the International Conference on Research in Air Transportation are being combined into an annual event called the International Air Transportation Research & Development Symposium.**
+
+The Symposium will include all the features of the previous conferences, including:
+
+* Technical sessions with peer-reviewed technical papers
+* Plenary talks by government and industry leaders
+* Doctoral student  symposium
+* Tutorials on topical subjects
+* And more!
+
+The first Symposium will be held in Prague, Czech Republic, from June 24-27 2025.
 
 <div class="col-xs-6 pull-right">
 <img class="img-responsive" style="float: right;" src="prague_web.png">
@@ -13,4 +27,3 @@ body:
 * [Call for Papers](./call-for-papers/)
 * [Programme Commitee](./programme-committee)
 * [Theme Information](./theme-information)
-
