@@ -1,4 +1,4 @@
-rope_model: homepage
+_model: homepage
 ---
 _template: layout-home.html
 ---
