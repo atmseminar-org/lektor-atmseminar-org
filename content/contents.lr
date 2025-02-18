@@ -2,7 +2,7 @@ _model: homepage
 ---
 _template: layout-home.html
 ---
-breadcrumb_name: IATR&D Symposium
+breadcrumb_name: ATRD Symposium
 ---
 next_location: Prague, Czech Republic
 ---
@@ -10,7 +10,7 @@ title: US-Europe Air Transportation Research & Development Symposium
 ---
 subtitle: Established event for the air transportation community
 ---
-next_date: 2025 ATM Seminar (IATRD Symposium), 24-27 June
+next_date: 2025 ATM Seminar (ATRD Symposium), 24-27 June
 ---
 body:
 
