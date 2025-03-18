@@ -24,7 +24,7 @@ jobs:
     
     - name : Install Lektor Plugins
       run: |
-          lektor plugins install
+          lektor plugins reinstall
     
     - name: Build site
       run: |
