@@ -1,0 +1,42 @@
+name: Deploy Lektor site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - production
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Install Lektor
+      run: |
+        pip install lektor
+    
+    - name : Install Lektor Plugins
+      run: |
+          lektor plugins install
+    
+    - name: Build site
+      run: |
+        lektor build
+
+    - name: Setup SSH Key
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.PRODUCTION_SSH_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+    
+    - name: Deploy to GitHub Pages
+      run: |
+        lektor deploy ghpages --key-file ~/.ssh/id_rsa
