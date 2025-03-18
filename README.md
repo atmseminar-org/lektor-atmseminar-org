@@ -33,3 +33,7 @@ Site updates can come either as pull requests to this repository, or if you have
 `lektor deploy ghpages --key-file [YOUR_PUBLIC_SSH_KEY_FILE]`
 
 Where `[YOUR_PUBLIC_SSH_KEY_FILE]` is the ssh key file associated with your github account.
+
+## Using automated github actions
+
+If a merge request is performed into the `production` branch, a github action will perform deployments automatically.
