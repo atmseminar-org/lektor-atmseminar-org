@@ -102,7 +102,10 @@ class ScheduleData:
             day = row['Day']
             time = row['Time']
             day_time = "{} {}".format(day, time).strip().replace("\\s{2,99}", " ")
-            day_time = datetime.strptime(day_time, "%B %d, %Y %H:%M")
+            try:
+                day_time = datetime.strptime(day_time, "%B %d, %Y %H:%M")
+            except ValueError:
+                day_time = datetime.strptime(day_time, "%d-%b-%y %H:%M")
             day_time_events[day_time].append(row)
 
         day_time_events = list(day_time_events.items())
@@ -241,7 +244,7 @@ class ConferenceTemplatePlugin(Plugin):
         
 
     def _parse_csv(self, csv_filename):
-        with open(csv_filename, "r", encoding="utf8") as f:
+        with open(csv_filename, "r", encoding="utf-8-sig") as f:
             reader = csv.DictReader(f)
             all_items = [row for row in reader]
         if sys.version_info < (3, 0):
