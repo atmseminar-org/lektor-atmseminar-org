@@ -5,8 +5,8 @@ setup(
     description='Minor functions added to templates for jinja2.',
     author='Nelson Brown',
     author_email='nelson.brown@faa.gov',
-    url='http://atmseminar.org/',
-    version='0.1.5',
+    url='https://atrdsymposium.org/',
+    version='0.1.6',
     license='public domain',
     py_modules=['conference_template_functions'],
     entry_points={

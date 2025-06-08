@@ -28,10 +28,10 @@
                         <div class="fs-xl">{{this.next_location}}</div>
                     </div>
                     <div class="alert alert-secondary" role="alert">
-                        <a>Paper submission is now closed!</a> <br/>
+                        <a class="alert-link" href="{{'./upcoming-symposium/schedule/' | url}}">Schedule</a> now posted! <br/>
                     </div>
                     <div class="alert alert-secondary" role="alert">
-                        <a class="alert-link" href="{{'./upcoming-symposium/call-for-papers/Air Transportation Research Development Symposium_2025 v1.1.pdf' | url}}">Call for papers (pdf)</a> <br/>
+                        <a class="alert-link" href="{{'./upcoming-symposium/papers-and-presentations/' | url}}">Papers and Presentations</a> now posted! <br/>
                     </div>
                     <div class="d-flex flex-column justify-content-center justify-content-lg-start py-4 py-lg-5">
                         {# <!--a href="{{'/upcoming-symposium/' | url}}" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Latest Seminar Information</a--> #}
@@ -207,9 +207,10 @@
 
         </div>
     </section>
+    #}
 
     <!-- Schedule -->
-    <!--section class="container py-5" id="schedule">
+    <section class="container py-5" id="schedule">
         <div class="row mt-xl-2 mb-xl-3 pb-3 py-md-4 py-lg-5">
             <div class="col-12">
                 <h2 class="h1 text-center text-sm-start pb-2 pb-lg-0 mb-4 mb-lg-5">Schedule</h2>
@@ -218,30 +219,17 @@
             <div class="col-xl-12 mb-6 mb-xl-0 text-center">
               <div class="card text-center">
                 <div class="card-body">
-                  <h5 class="card-title">ATM Seminar Schedule AT-A-GLANCE</h5>
-                  <p class="card-text fs-sm">The ATM Seminar 2023 Schedule AT-A-GLANCE in PDF format.</p>
-                  <a class="btn btn-sm btn-primary" href="{{'./upcoming-symposium/ATMSeminar_2023_Schedule_AT_A_GLANCE_v5.pdf'}}">Schedule AT-A-GLANCE (PDF)</a>
-                </div>
-              </div>
-            </div-->
-
-            <!--div class="col-xl-6 mb-6 mb-xl-0 text-center">
-              <div class="card text-center">
-                <div class="card-body">
-                  <h5 class="card-title">Full ATM Seminar Schedule</h5>
-                  <p class="card-text fs-sm">The full schedule, condensed schedule, session chair assignments, and paper track information.</p>
-
-                  <a class="btn btn-sm btn-primary" href="{{'./upcoming-conference/ICRAT_2022_Schedule_v8.xlsx'}}">Schedule (XLSX)</a>
+                  <h5 class="card-title">ATRD Symposium Schedule AT-A-GLANCE</h5>
+                  <p class="card-text fs-sm">The ATRD Symposium 2025 Schedule AT-A-GLANCE in PDF format.</p>
+                  <a class="btn btn-sm btn-primary" href="{{'./upcoming-symposium/schedule/ATRDS2025_Program_at_a_Glance v0.41.pdf'}}">Schedule AT-A-GLANCE (PDF)</a>
                 </div>
               </div>
             </div>
-                
-        </div>
 
-        <!-- include "schedule.html" -->
+        {% set schedule_data = schedule_csv(site.get('/upcoming-symposium/schedule/').attachments) %}
+        {% include "schedule.html" %}
 
-    </section-->
-    #}
+    </section>
 
 
     <!-- Testimonials slider -->
