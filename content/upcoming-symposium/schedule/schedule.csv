@@ -4,7 +4,7 @@
 24-Jun-25,8:30,Info,Welcome and Registration,,,,,,,,,,,
 24-Jun-25,9:00,Title,Welcome by Conference Chairs,,,"Dirk Schaefer, EUROCONTROL and Eric Neiderman, FAA",,,,,,,,
 24-Jun-25,9:20,Info,Welcome Speeches,,,"Martin Kučera, Prague Airport and Tânia Cardoso Simões, EUROCONTROL",,,,,,,,
-24-Jun-25,9:45,Keynote,Keynote 1,Digitalization and automation in Prague airport operations,,"Tomas Vlacil, Prague Airport",,,,,,,,
+24-Jun-25,9:45,Keynote,Keynote 1,Digitalization and automatization in Prague Airport Operations,,"Vladimir Kuran & Petr Had, Prague Airport",,,,,,,,
 24-Jun-25,10:15,Highlight_Info,Coffee,,,,,,,,,,,
 24-Jun-25,10:45,Tracks,,,,,Integrated airport/airside operations I,1,A,Joseph Post (USF),81,Mark Hansen,Robust Management of Airport Security Queues Considering Passenger Non-compliance with Chance-Constrained Optimization,"Shangqing Cao, Aparimit Kasliwal, Huangyi Zheng, Masoud Reihanifar, Mark Hansen (UC Berkeley), and Francesc Robuste (Universitat Politèchnica De Catalunya)"
 24-Jun-25,11:25,Tracks,,,,,Integrated airport/airside operations I,1,A,Joseph Post (USF),43,Phat Thai,Speech-to-Route: Leveraging Large Language Models for Taxi Route Visualization,"Phat Thai, Hasnain Ali, Xuan Tao Hoo, Chea Mean Chan, Duc-Thinh Pham and Sameer Alam (NTU)"
@@ -42,16 +42,17 @@
 25-Jun-25,10:40,Tracks,,,,,Air traffic flow management and optimization I,2,B,Daniel Delahaye (ENAC),41,Yutong Chen,Tactical Demand and Capacity Balancing with Uncertainty Using Incremental Path-Search based on Spatio-Temporal Graph,"Yutong Chen, Zhi Jun Lim and Sameer Alam (NTU)"
 25-Jun-25,11:20,Tracks,,,,,Air traffic flow management and optimization I,2,B,Daniel Delahaye (ENAC),65,Andreas Guitart,Flight allocation in flight-centric air traffic control: A MILP model approach,Andréas Guitart and Daniel Delahaye (ENAC)
 25-Jun-25,10:00,Tracks,,,,,"Weather, climate and energy efficiency I",3,C,Tom Reynolds (MIT Lincoln Laboratory),6,Katsuhiro Sekine,Assessing Climate Impact of Contrails: Insights from Japan’s High-Density Airspace and Meteorological Conditions,"Katsuhiro Sekine, Tomoki Hasegawa, Eri Itoh (University of Tokyo), and Junzi Sun (TU Delft)"
-25-Jun-25,10:40,Tracks,,,,,"Weather, climate and energy efficiency I",3,C,Tom Reynolds (MIT Lincoln Laboratory),16,Benjamin Tolley,Quantifying Uncertainty Distributions for Airport Capacity Predictions,"Benjamin Tolley, Jeremiah Budiman and James Jones (MIT Lincoln Laboratory)"
+25-Jun-25,10:40,Tracks,,,,,"Weather, climate and energy efficiency I",3,C,Tom Reynolds (MIT Lincoln Laboratory),16,Benjamin Tolley,Recurrent Neural Network Based Quantile Predictions of Airport Capacity,"Benjamin Tolley, Jeremiah Budiman and James Jones (MIT Lincoln Laboratory)"
 25-Jun-25,11:20,Tracks,,,,,"Weather, climate and energy efficiency I",3,C,Tom Reynolds (MIT Lincoln Laboratory),46,James Jones,Recommending Traffic Management Initiatives in Non-Convective Weather,"James Jones, Jeremiah Budiman and Benjamin Tolley (MIT Lincoln Laboratory)"
 25-Jun-25,12:00,Info,Light Lunch,,,,,,,,,,,
-25-Jun-25,12:30,Tracks,Tutorial session 1,,,,Tutorial session 1,,B,Jan Groot (TU Delft),,,Reinforcement Learning for Air Traffic Control Applications with BlueSky-Gym,
-25-Jun-25,12:30,Tracks,Tutorial session 2,,,,Tutorial session 2,,C,Manuel Soler & Abolfazi Simorgh (UC3M),,,Contrail-Modeling and Trajectory-Optimization for Climate-Smart Flight Operations using Python-based Open-Source Libraries,
-25-Jun-25,14:00,Highlight_Info,Refreshments,,,,,,,,,,,
-25-Jun-25,14:45,Info,Visit Prague Airport,Bus return to hotel forseen 17:00,,,,,,,,,,
-25-Jun-25,15:00,Info,Buses depart conference center,Bus return for those not on airport visit,,,,,,,,,,
+25-Jun-25,13:00,Tracks,Tutorial session 1,,,,Tutorial session 1,,B,Jan Groot (TU Delft),,,Reinforcement Learning for Air Traffic Control Applications with BlueSky-Gym,
+25-Jun-25,13:00,Tracks,Tutorial session 2,,,,Tutorial session 2,,C,Manuel Soler & Abolfazi Simorgh (UC3M),,,Contrail-Modeling and Trajectory-Optimization for Climate-Smart Flight Operations using Python-based Open-Source Libraries,
+25-Jun-25,14:30,Highlight_Info,Refreshments,,,,,,,,,,,
+25-Jun-25,14:45,Info,Buses depart conference center,Bus return for those not on airport visit,,,,,,,,,,
+25-Jun-25,15:00,Info,Visit Prague Airport,Bus return to hotel forseen 17:15,,,,,,,,,,
 26-Jun-25,8:00,Info,Buses depart Grand Hotel International,,,,,,,,,,,
-26-Jun-25,9:00,Panel,Panel 1,"Hey Siri, Which way should I vector this aircraft?",,"Joseph Post (USF), Moderator",,,,,,,,
+26-Jun-25,8:30,Info,Coffee,,,,,,,,,,,
+26-Jun-25,9:00,Panel,Panel 1,"Hey Siri, Which way should I vector this aircraft?",,"Tom Reynolds (MIT Lincoln Laboratory), Moderator",,,,,,,,
 26-Jun-25,10:30,Info,Coffee,,,,,,,,,,,
 26-Jun-25,11:00,Tracks,,,,,"Automation, human factors, and decision support systems I",1,A,Jacco Hoekstra (TU Delft),63,Manuel Arias Chao,Ensuring UAS Airworthiness: Deep Learning-Based Acoustic Health Monitoring of Motor Health,"Prissha Chawla (University of Cincinnati), Chetan Kulkarni (KBR), and Manuel Arias Chao (Zurich University of Applied Sciences)"
 26-Jun-25,11:40,Tracks,,,,,"Automation, human factors, and decision support systems I",1,A,Jacco Hoekstra (TU Delft),29,Katherine Fennedy,"Do ATCOs Need Explanations, and Why? Towards ATCO-Centered Explainable AI for Conflict Resolution Advisories","Katherine Fennedy, Thaivalappil Noushad Mohammed Nadirsha, Sameer Alam, Hua Li (NTU), Brian Hilburn (Center for Human Performance Research), and Khanh-Duy Le (VNUHCM University of Science) "
@@ -72,20 +73,21 @@
 26-Jun-25,16:00,Tracks,,,,,Doctoral paper session 5,3,C,James Jones (MIR Lincoln Lab),,Di Lv (Tsinghua University),Spatiotemporal Trajectory Planning for Multi-Aircraft Terminal Operations in UAM Considering Wake Effects and Dynamics,
 26-Jun-25,16:30,Tracks,,,,,Doctoral paper session 5,3,C,James Jones (MIR Lincoln Lab),,Sinan Abdulhak (UMich),Generative Stress-Testing for Air Traffic Management Resilience,
 26-Jun-25,17:30,Info,Buses depart conference center,,,,,,,,,,,
-26-Jun-25,19:00,Info,Gala Dinner,,,,,,,,,,,
-27-Jun-25,7:30,Info,Buses depart Grand Hotel International,,,,,,,,,,,
-27-Jun-25,8:30,Tracks,,,,,"Automation, human factors, and decision support systems II",1,A,Cheryl Quinn (NASA),67,Yash Guleria,Leveraging Retrieval-Augmented In-context Learning for Complex Air Traffic Scenario Generation,"Yash Guleria, Duc-Thinh Pham, Ashton Low Kin Yun, Nadirshah Thaivalappil N.M., Katherine Fennedy, Chunyao Ma and Sameer Alam (NTU)"
-27-Jun-25,9:10,Tracks,,,,,"Automation, human factors, and decision support systems II",1,A,Cheryl Quinn (NASA),88,Lim Zhi Jun,"Automating Terminal Airspace Vectoring: A Machine-Assisted Approach for Sequencing, Spacing and Merging of Arrival Flights","Imen Dhief, Zhi Jun Lim, Hao Jiang, Duc-Thinh Pham and Sameer Alam (NTU)"
-27-Jun-25,9:50,Tracks,,,,,"Automation, human factors, and decision support systems II",1,A,Cheryl Quinn (NASA),61,Anahita Jain,Adaptive Traffic-Following Scheme for Orderly Distributed Control of Multi-Vehicle Systems,"Anahita Jain, John-Paul Clarke (UT Austin), Husni Idris (NASA Ames Research Center),  and Daniel Delahaye (ENAC)"
-27-Jun-25,8:30,Tracks,,,,,Air traffic flow management and optimization III,2,B,Hartmut Fricke (TU Dresden),82,Daniel Lubig,From En-Route to Touchdown: Uncertainty Analysis of Inbound Traffic Flows to Singapore Changi Airport,"Daniel Lubig, Judith Rosenow, Norman Peter and Hartmut Fricke (TU Dresden)"
-27-Jun-25,9:10,Tracks,,,,,Air traffic flow management and optimization III,2,B,Hartmut Fricke (TU Dresden),85,Go Nam Lui,A robust optimization approach for dynamic airspace configuration,"Go Nam Lui, Guglielmo Lulli (Lancaster University), Luigi De Giovanni, Martina Galeazzo (Università di Padova), Iciar Garcia-Ovies Carro and Rebeca Llorente Martinez (CRIDA)"
-27-Jun-25,9:50,Tracks,,,,,Air traffic flow management and optimization III,2,B,Hartmut Fricke (TU Dresden),86,Constanca Veiga,Predicting Reactionary Delays in a Hub-Spoke Network using Graph Attention Neural Networks,"Constanca Veiga, Marta Ribeiro (TU Delft), and Marie Carre (Swiss International Air Lines)"
-27-Jun-25,8:30,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),8,Yoshinori Matsuno,Stochastic Cruise Speed Control for Time-Based Metering Under Uncertainty,"Yoshinori Matsuno, Haruki Matsuda (JAXA), and Noboru Takeichi (Tokyo Metropolitan University)"
-27-Jun-25,9:10,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),9,Marta Ribeiro,Forecasting of Airline En Route Delay for Individual Flights with Supervised Learning,"Casper Dolman, Marta Ribeiro, Junzi Sun, Phillipe Lothaller (TU Delft), Jasper De Wilde, Alexander Piva and Frans Vossen (KLM)"
-27-Jun-25,9:50,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),69,Hao Jiang,Optimized Sequencing and Conflict-Free Path Planning for Arrival Flights during Runway Direction Changes,"Hao Jiang, Zhi Jun Lim, Debosmit Mookherjee, Imen Dhief, Yutong Chen, Duc-Thinh Pham and Sameer Alam (NTU)"
-27-Jun-25,10:30,Info,Coffee,,,,,,,,,,,
-27-Jun-25,11:00,Panel,Panel 2,What really sucks about operations?,,"Dirk Schaefer (EUROCONTROL), Moderator",,,,,,,,
-27-Jun-25,12:30,Info,Lunch,,,,,,,,,,,
-27-Jun-25,13:30,Highlight_Info,Closing Session,Best Paper Awards & Closing Announcement ATRDS 2026,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL ",,,,,,,,
-27-Jun-25,14:30,Info,Buses depart conference center,,,,,,,,,,,
-27-Jun-25,14:30,Info,Committee Meeting ,,,,,,,,,,,
+26-Jun-25,19:00,Info,Gala Dinner,,,Boat Anna Carolina,,,,,,,,
+27-Jun-25,8:00,Info,Buses depart Grand Hotel International,,,,,,,,,,,
+27-Jun-25,8:30,Info,Coffee,,,,,,,,,,,
+27-Jun-25,9:00,Tracks,,,,,"Automation, human factors, and decision support systems II",1,A,Cheryl Quinn (NASA),67,Yash Guleria,Leveraging Retrieval-Augmented In-context Learning for Complex Air Traffic Scenario Generation,"Yash Guleria, Duc-Thinh Pham, Ashton Low Kin Yun, Nadirshah Thaivalappil N.M., Katherine Fennedy, Chunyao Ma and Sameer Alam (NTU)"
+27-Jun-25,9:40,Tracks,,,,,"Automation, human factors, and decision support systems II",1,A,Cheryl Quinn (NASA),88,Lim Zhi Jun,"Automating Terminal Airspace Vectoring: A Machine-Assisted Approach for Sequencing, Spacing and Merging of Arrival Flights","Imen Dhief, Zhi Jun Lim, Hao Jiang, Duc-Thinh Pham and Sameer Alam (NTU)"
+27-Jun-25,10:20,Tracks,,,,,"Automation, human factors, and decision support systems II",1,A,Cheryl Quinn (NASA),61,Anahita Jain,Adaptive Traffic-Following Scheme for Orderly Distributed Control of Multi-Vehicle Systems,"Anahita Jain, John-Paul Clarke (UT Austin), Husni Idris (NASA Ames Research Center),  and Daniel Delahaye (ENAC)"
+27-Jun-25,9:00,Tracks,,,,,Air traffic flow management and optimization III,2,B,Hartmut Fricke (TU Dresden),82,Daniel Lubig,From En-Route to Touchdown: Uncertainty Analysis of Inbound Traffic Flows to Singapore Changi Airport,"Daniel Lubig, Judith Rosenow, Norman Peter and Hartmut Fricke (TU Dresden)"
+27-Jun-25,9:40,Tracks,,,,,Air traffic flow management and optimization III,2,B,Hartmut Fricke (TU Dresden),85,Go Nam Lui,A robust optimization approach for dynamic airspace configuration,"Go Nam Lui, Guglielmo Lulli (Lancaster University), Luigi De Giovanni, Martina Galeazzo (Università di Padova), Iciar Garcia-Ovies Carro and Rebeca Llorente Martinez (CRIDA)"
+27-Jun-25,10:20,Tracks,,,,,Air traffic flow management and optimization III,2,B,Hartmut Fricke (TU Dresden),86,Constanca Veiga,Predicting Reactionary Delays in a Hub-Spoke Network using Graph Attention Neural Networks,"Constanca Veiga, Marta Ribeiro (TU Delft), and Marie Carre (Swiss International Air Lines)"
+27-Jun-25,9:00,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),8,Yoshinori Matsuno,Stochastic Cruise Speed Control for Time-Based Metering Under Uncertainty,"Yoshinori Matsuno, Haruki Matsuda (JAXA), and Noboru Takeichi (Tokyo Metropolitan University)"
+27-Jun-25,9:40,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),9,Marta Ribeiro,Forecasting of Airline En Route Delay for Individual Flights with Supervised Learning,"Casper Dolman, Marta Ribeiro, Junzi Sun, Phillipe Lothaller (TU Delft), Jasper De Wilde, Alexander Piva and Frans Vossen (KLM)"
+27-Jun-25,10:20,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),69,Hao Jiang,Optimized Sequencing and Conflict-Free Path Planning for Arrival Flights during Runway Direction Changes,"Hao Jiang, Zhi Jun Lim, Debosmit Mookherjee, Imen Dhief, Yutong Chen, Duc-Thinh Pham and Sameer Alam (NTU)"
+27-Jun-25,11:00,Info,Coffee,,,,,,,,,,,
+27-Jun-25,11:30,Panel,Panel 2,What really sucks about operations?,,"Dirk Schaefer (EUROCONTROL), Moderator",,,,,,,,
+27-Jun-25,13:00,Info,Lunch,,,,,,,,,,,
+27-Jun-25,14:00,Highlight_Info,Closing Session,Best Paper Awards & Closing Announcement ATRDS 2026,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL ",,,,,,,,
+27-Jun-25,15:15,Info,Buses depart conference center,,,,,,,,,,,
+27-Jun-25,15:15,Info,Committee Meeting ,,,,,,,,,,,
