@@ -1,6 +1,6 @@
 ﻿Day,Time,Type,Event Title,Event Subtitle,Event Subtitle Link,Event Speaker,Session,Track,Room,Chair,Paper ID,Presenter,Paper Title,Paper Authors
 23-Jun-25,19:00,Info,"Early registration, welcome reception",Grand Hotel International,"https://www.google.com/maps/place/Hotel+International+Prague/@50.1094682,14.3921438,17z/data=!4m9!3m8!1s0x470b95310b7a1b47:0xe0a0dd81047a07e4!5m2!4m1!1i2!8m2!3d50.1093753!4d14.3936566!16s%2Fm%2F02qyl21?authuser=0&entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D",,,,,,,,,
-24-Jun-25,7:30,Highlight_Info,Buses depart Grand Hotel International,,,,,,,,,,,
+24-Jun-25,7:45,Highlight_Info,Buses depart Grand Hotel International,,,,,,,,,,,
 24-Jun-25,8:30,Info,Welcome and Registration,,,,,,,,,,,
 24-Jun-25,9:00,Title,Welcome by Conference Chairs,,,"Dirk Schaefer, EUROCONTROL and Eric Neiderman, FAA",,,,,,,,
 24-Jun-25,9:20,Info,Welcome Speeches,,,"Martin Kučera, Prague Airport and Tânia Cardoso Simões, EUROCONTROL",,,,,,,,
@@ -24,14 +24,14 @@
 24-Jun-25,14:15,Tracks,,,,,Doctoral paper session 3,3,C,Yu Yu Zhang (USF),,Elia Ghisellini (ENAC),Modified Dijkstra’s Algorithm for Search and Rescue Operations in Dynamic Wildfire Environments,
 24-Jun-25,14:45,Highlight_Info,Coffee,,,,,,,,,,,
 24-Jun-25,15:15,Tracks,,,,,Integrated airport/airside operations II,1,A,Dirk Kugler (DLR),56,Hartmut Fricke,"Chances and Pitfalls of the Point Merge Concept –  A design Optimization Framework with a Case Study for Leipzig/Halle Airport on Noise, Capacity and Flight Efficiency","Hartmut Fricke, Martin Lindner (TU Dresden), Christoph Thiel, and Markus Vogel (GfL) "
-24-Jun-25,15:55,Tracks,,,,,Integrated airport/airside operations II,1,A,Dirk Kugler (DLR),28,Ruixin Wang,A new method to compute more appropriate off-block times and taxiing paths for airport surface management,"Ruixin Wang,  Jean-Baptiste Gotteland (ENAC), Bosheng Ba, Tian Huang, Yifei Zhao (Civil Aviation University of China), and Yunqi Gao (Beihang University)"
+24-Jun-25,15:55,Tracks,,,,,Integrated airport/airside operations II,1,A,Dirk Kugler (DLR),28,Bosheng Ba,A new method to compute more appropriate off-block times and taxiing paths for airport surface management,"Ruixin Wang,  Jean-Baptiste Gotteland (ENAC), Bosheng Ba, Tian Huang, Yifei Zhao (Civil Aviation University of China), and Yunqi Gao (Beihang University)"
 24-Jun-25,15:15,Tracks,,,,,ATM performance measurement and management II,2,B,Jose Miguel De Pablo (CRIDA),31,Ying Zhou,Exploring Airlines Scheduled Buffer Time Adjustment Strategies: An Analytical Approach,"Ying Zhou, Sameer Alam (NTU), and Mark Hansen (UC Berkeley) "
 24-Jun-25,15:55,Tracks,,,,,ATM performance measurement and management II,2,B,Jose Miguel De Pablo (CRIDA),87,Mark Hansen,Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS),"Jing Xu, Mark Hansen (UC Berkeley), and Megan Ryerson (University of Pennsylvania))"
 24-Jun-25,16:35,Tracks,,,,,ATM performance measurement and management II,2,B,Jose Miguel De Pablo (CRIDA),7,Dan Howell,Impacts of ADS-B In Approach Applications during Revenue Operations,"Dan Howell, Lynn Tran, Jen King (Regulus Group), and Alejandro Rodriguez (FAA)"
 24-Jun-25,15:15,Tracks,,,,,"Autonomous, unmanned and remotely piloted aircraft systems and emerging operations II",3,C,Nicolas Durand (ENAC),32,Sybert Stroeve,Including intent in detect-and-avoid systems for remotely piloted aircraft systems,Sybert Stroeve and Mirco Kroon (NLR)
 24-Jun-25,15:55,Tracks,,,,,"Autonomous, unmanned and remotely piloted aircraft systems and emerging operations II",3,C,Nicolas Durand (ENAC),45,Paul Lee,Development of Cooperative Operating Practices for Upper-Class E Traffic Management (ETM),"Paul Lee, Conrad Dang-Gabriel, Jeffrey Homola (NASA Ames Research Center), Connie Brasil, Deborah Bakowski, Kevin-Christian Garzon Galindo (San Jose State University), and Mark Evans (ASRC Federal Data Solutions)"
 24-Jun-25,16:35,Tracks,,,,,"Autonomous, unmanned and remotely piloted aircraft systems and emerging operations II",3,C,Nicolas Durand (ENAC),70,Yashovardhan S. Chati,Vertiport Placement for Urban Air Mobility to Reduce Time for Multimodal Travel,"Yashovardhan S. Chati, Yamini Sharma, Kirti Nikam, Prasad Devkar and Arunchandar Vasan (Tata Consultancy Services)"
-24-Jun-25,17:45,Highlight_Info,Buses depart conference center,,,,,,,,,,,
+24-Jun-25,17:30,Highlight_Info,Buses depart conference center,,,,,,,,,,,
 25-Jun-25,6:00,Info,5K fun run/walk,,,,,,,,,,,
 25-Jun-25,9:00,Info,Buses depart Grand Hotel International,,,,,,,,,,,
 25-Jun-25,9:30,Highlight_Info,Coffee,,,,,,,,,,,
@@ -70,10 +70,10 @@
 26-Jun-25,15:30,Info,Coffee,,,,,,,,,,,
 26-Jun-25,16:00,Tracks,,,,,Doctoral paper session 4,2,B,Dirk Schaefer (EUROCONTROL),,Nils Ahrenhold (DLR),Optimisation of the North Atlantic Air Traffic Managementto mitigate environmental impact,
 26-Jun-25,16:30,Tracks,,,,,Doctoral paper session 4,2,B,Dirk Schaefer (EUROCONTROL),,Md Ashraful Islam (TU Dresden),Dynamic modeling of UAV trajectory prediction in an urban environment,
-26-Jun-25,16:00,Tracks,,,,,Doctoral paper session 5,3,C,James Jones (MIR Lincoln Lab),,Di Lv (Tsinghua University),Spatiotemporal Trajectory Planning for Multi-Aircraft Terminal Operations in UAM Considering Wake Effects and Dynamics,
-26-Jun-25,16:30,Tracks,,,,,Doctoral paper session 5,3,C,James Jones (MIR Lincoln Lab),,Sinan Abdulhak (UMich),Generative Stress-Testing for Air Traffic Management Resilience,
-26-Jun-25,17:30,Info,Buses depart conference center,,,,,,,,,,,
-26-Jun-25,19:00,Info,Gala Dinner,,,Boat Anna Carolina,,,,,,,,
+26-Jun-25,16:00,Tracks,,,,,Doctoral paper session 5,3,C,James Jones (MIT Lincoln Lab),,Di Lv (Tsinghua University),Spatiotemporal Trajectory Planning for Multi-Aircraft Terminal Operations in UAM Considering Wake Effects and Dynamics,
+26-Jun-25,16:30,Tracks,,,,,Doctoral paper session 5,3,C,James Jones (MIT Lincoln Lab),,Sinan Abdulhak (UMich),Generative Stress-Testing for Air Traffic Management Resilience,
+26-Jun-25,17:15,Info,Buses depart conference center,,,,,,,,,,,
+26-Jun-25,18:45,Info,Gala Dinner,,,"Boat Anna Carolina, Pier 6 (under the Fairmont Hotel)",,,,,,,,
 27-Jun-25,8:00,Info,Buses depart Grand Hotel International,,,,,,,,,,,
 27-Jun-25,8:30,Info,Coffee,,,,,,,,,,,
 27-Jun-25,9:00,Tracks,,,,,"Automation, human factors, and decision support systems II",1,A,Cheryl Quinn (NASA),67,Yash Guleria,Leveraging Retrieval-Augmented In-context Learning for Complex Air Traffic Scenario Generation,"Yash Guleria, Duc-Thinh Pham, Ashton Low Kin Yun, Nadirshah Thaivalappil N.M., Katherine Fennedy, Chunyao Ma and Sameer Alam (NTU)"
@@ -86,7 +86,7 @@
 27-Jun-25,9:40,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),9,Marta Ribeiro,Forecasting of Airline En Route Delay for Individual Flights with Supervised Learning,"Casper Dolman, Marta Ribeiro, Junzi Sun, Phillipe Lothaller (TU Delft), Jasper De Wilde, Alexander Piva and Frans Vossen (KLM)"
 27-Jun-25,10:20,Tracks,,,,,"Trajectory planning, prediction, and management",3,C,Max Li (U Mich),69,Hao Jiang,Optimized Sequencing and Conflict-Free Path Planning for Arrival Flights during Runway Direction Changes,"Hao Jiang, Zhi Jun Lim, Debosmit Mookherjee, Imen Dhief, Yutong Chen, Duc-Thinh Pham and Sameer Alam (NTU)"
 27-Jun-25,11:00,Info,Coffee,,,,,,,,,,,
-27-Jun-25,11:30,Panel,Panel 2,What really sucks about operations?,,"Dirk Schaefer (EUROCONTROL), Moderator",,,,,,,,
+27-Jun-25,11:30,Panel,Panel 2,What really sucks about operations?,,"Joseph Post (USF), Moderator",,,,,,,,
 27-Jun-25,13:00,Info,Lunch,,,,,,,,,,,
 27-Jun-25,14:00,Highlight_Info,Closing Session,Best Paper Awards & Closing Announcement ATRDS 2026,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL ",,,,,,,,
 27-Jun-25,15:15,Info,Buses depart conference center,,,,,,,,,,,
