@@ -18,20 +18,30 @@ The Symposium includes all the features of the previous conferences, including:
 * Tutorials on topical subjects
 * And more!
 
-<div class="col-xs-6 pull-right">
-<img class="img-responsive" style="float: right;" src="prague_web.png">
-</div>
-
 The first Symposium was held in Prague, Czech Republic, from June 24-27 2025. The second Symposium will be held at the Delft University of Technology.
+
+<!-- <div class="col-xs-6 pull-right"> -->
+<!-- <img class="img-responsive" style="float: right;" src="prague_web.png"> -->
+<!-- </div> -->
+
+<div class="col-xl-9 col-md-8">
+	<a href="https://www.123rf.com/profile_valentinivantsov">
+		<img src="Delft.png" class="rounded-3" width="400" style="float: right;" alt="Delft">
+	</a>
+<!--	<br> -->
+<!--	&copy; www.123rf.com and Valentin Ivantsov -->
+</div>
 
 <!-- * [Papers and Presentations](./papers-and-presentations/) -->
 <!-- * [Gallery](./gallery/) -->
 <!-- * [Schedule](./schedule/) -->
 <!-- * [Schedule AT-A-GLANCE](./schedule/ATRDS2025_Program_at_a_Glance v0.53.pdf) -->
+
 * [Call for Papers](./call-for-papers/)
 <!-- * [Call for Papers (pdf)](./call-for-papers/Air Transportation Research Development Symposium_2025 v1.1.pdf) -->
 <!-- * [Programme Commitee](./programme-committee) -->
 * [Theme Information](./theme-information)
+
 <!-- * [Venue - Prague Vaclav Havel Airport Congress Hall](http://prg.aero/en/congress-hall) -->
 <!-- * [Symposium Hotel - Grand Hotel International Prague](http://hotelint.cz/en) -->
 <!-- -->
@@ -43,3 +53,9 @@ The first Symposium was held in Prague, Czech Republic, from June 24-27 2025. Th
 
 For information about attending or registering, please contact Dirk Schaefer at Eurocontrol or Eric Neiderman at FAA.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
