@@ -71,10 +71,18 @@
                 <h3 class="text-center h4">Further read</h3>
                 <div class="btn-group-vertical d-flex shadow-primary">
                     <a class="btn btn-lg btn-outline-primary" href="#venue"><i class="bx bx-chevron-right"></i> Venue</a>
+                    <a class="btn btn-lg btn-outline-primary" href='/upcoming-symposium/programme-committee/'><i class="bx bx-chevron-right"></i> Programme Committee</a>
+                    <a class="btn btn-lg btn-outline-primary" href='/upcoming-symposium/theme-information/'><i class="bx bx-chevron-right"></i> Theme Information</a>
+                    <a class="btn btn-lg btn-outline-primary" href='/upcoming-symposium/call-for-papers/'><i class="bx bx-chevron-right"></i> Call for Papers</a>
+<!--   			 <a class="btn btn-lg btn-outline-primary" href='/upcoming-symposium/gallery/'><i class="bx bx-chevron-right"></i> Gallery</a> -->
+<!--			 <a class="btn btn-lg btn-outline-primary" href='/upcoming-symposium/papers-and-presentations/'><i class="bx bx-chevron-right"></i> Papers and Presentations</a> -->
+<!--			 <a class="btn btn-lg btn-outline-primary" href='/upcoming-symposium/schedule/'><i class="bx bx-chevron-right"></i> Schedule</a> -->
+{#
                     {% set upcoming_seminar_children = site.get('/upcoming-symposium/').children %}
                     {% for upcoming_child in upcoming_seminar_children %}
                     <a class="btn btn-lg btn-outline-primary" href="{{ upcoming_child| url }}"><i class="bx bx-chevron-right"></i>{{upcoming_child.title}}</a>
                     {% endfor %}
+#}
                 </div>
             </div>
         </div>
