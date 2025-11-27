@@ -33,7 +33,11 @@
                         {% for child in previous_seminars.children | sort(attribute='start_date', reverse=True) %}
 
                         <li>
+                        {% if child.short_menu_name %}
+                        <a href="{{ child | url}}" class="dropdown-item">{{child.short_menu_name}}</a>
+                        {% else %}
                         <a href="{{ child | url}}" class="dropdown-item">{{child.start_date.year}} - {{child.title[:child.title.find(' ')]}} ATM Seminar</a>
+                        {% endif %}
                          </li>
                         {% endfor %}
                         </ul>
