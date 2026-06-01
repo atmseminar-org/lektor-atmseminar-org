@@ -16,6 +16,9 @@
                             {% if 'journal' in row and row['journal'] %}
                             <em><strong>As published in <a href="{{paper_link}}">{{row['journal']}}</a></strong></em><br />
                             {% endif %}
+                            {% if 'doi' in row and row['doi'] %}
+                            DOI: <a href="https://doi.org/{{row['doi']}}" target="_blank">{{row['doi']}}</a><br/>
+                            {% endif %}
                         </div>
                     <div class="d-flex align-items-center pt-1">
                         {% if 'abstracts_file' in row and row['abstracts_file'] %}
