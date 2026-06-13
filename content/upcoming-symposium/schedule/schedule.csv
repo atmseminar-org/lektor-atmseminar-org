@@ -82,19 +82,19 @@
 18-Jun-26,16:10,Tracks,,,,,"Safety, resilience, and security II",3,C,Xiaoqian Sun (Beihang University),128,Yuheng Wang (The Hong Kong Polytechnic University),Learning-Based Pre-tactical Conflict Management Strategy for Urban Air Mobility,"Tinghe Zhang, Ang Li (The Hong Kong Polytechnic University) and Peng Wei (GWU)"
 18-Jun-26,16:50,Tracks,,,,,"Safety, resilience, and security II",3,C,Xiaoqian Sun (Beihang University),77,Xiaoqian Sun (Beihang University),Airport resilience and climate change: A global study on airports,Sebastian Wandelt (Beihang University) and Massimiliano Zanin (Institute for Cross-Disciplinary Physics and Complex Systems)
 18-Jun-26,19:00,Info,Gala Dinner,,,Nieuwe Kerk (the church opens at 18:30),,,,,,,,
-18-Jun-26,8:00,Info,Coffee,,,,,,,,,,,
-18-Jun-26,8:30,Tracks,,,,,Weather in air transportation II,1,A,James Jones (MIT Lincoln Laboratory),125,Soufiane Momtaz (Hassan II University of Casablanca),METAR-Based Probabilistic Nowcasting of Low Visibility Procedure Phases at Casablanca Airport,Otmane Idrissi (Hassan II University of Casablanca) and Hamza Taheri (AIAC Mohammed VI)
-18-Jun-26,9:10,Tracks,,,,,Weather in air transportation II,1,A,James Jones (MIT Lincoln Laboratory),25,Wei Zhou (UPC),Chance Constrained Aircraft Trajectory Planning under Uncertain Convective Environment,Xavier Prats (UPC)
-18-Jun-26,9:50,Tracks,,,,,Weather in air transportation II,1,A,James Jones (MIT Lincoln Laboratory),126,Soufiane Momtaz (Hassan II University of Casablanca),Enhanced Weather-Driven Time-Based Separation Procedure Triggering at London Gatwick Airport,Otmane Idrissi (Hassan II University of Casablanca)
-18-Jun-26,8:30,Tracks,,,,,"4-D Trajectory planning, prediction and management",2,B,Daniel Delahaye (ENAC),87,Ramon Dalmau (EUROCONTROL),"A Unified, Vectorized and Differentiable Framework for Aircraft Performance Modelling",Gabriel Jarry and Philippe Very (EUROCONTROL)
-18-Jun-26,9:10,Tracks,,,,,"4-D Trajectory planning, prediction and management",2,B,Daniel Delahaye (ENAC),98,Mohammed El Dor (TU Delft),Improving Interpretability in Trajectory Generation: A Case Study on Efficient Latent Space Utilization,"Marta Ribeiro, Junzi Sun and Jacco Hoekstra (TU Delft)"
-18-Jun-26,9:50,Tracks,,,,,"4-D Trajectory planning, prediction and management",2,B,Daniel Delahaye (ENAC),122,Angelika Swatowska (EUROCONTROL),Data-Driven Aircraft Speed Profile Prediction for Enhanced Trajectory Realism,"Vincent Mouillet, Henrich Glaser-Opitz and Angela Nuic (EUROCONTROL)"
-18-Jun-26,8:30,Tracks,,,,,"AAM economics, finance, and policy",3,C,Yu Zhang (USF),6,Xuhao Gui (ENAC),Regional-Scale Multimodal Service Optimization for Innovative Air Mobility Using MILP,Jean-Claude Lebègue and Daniel Delahaye (ENAC)
-18-Jun-26,9:10,Tracks,,,,,"AAM economics, finance, and policy",3,C,Yu Zhang (USF),41,Dayeong Park (Korea Aerospace University),Third-Party Acceptance Factors for Urban Air Mobility,Sang Hyun Kim (Korea Aerospace University)
-18-Jun-26,9:50,Tracks,,,,,"AAM economics, finance, and policy",3,C,Yu Zhang (USF),134,Mark Hansen (UC Berkeley),Like Uber or Like Buses? Economic Feasibility Analysis of UAM for Airport Access,"Shangqing Cao, Rishi Srinivasan and Raja Sengupta (UC Berkeley)"
-18-Jun-26,10:30,Info,Coffee,,,,,,,,,,,
-18-Jun-26,11:00,Tracks,Tutorial session 3,,,,Tutorial session 3,,B,Joost Ellerbroek (TU Delft),,,Reinforcement Learning for Air Traffic Control applications with BlueSky-Gym,
-18-Jun-26,12:30,Highlight_Info,Closing Session,Best Paper Awards & Closing Announcement ATRDS 2027,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL ",,,,,,,,
-18-Jun-26,13:30,Info,Lunch,,,,,,,,,,,
-18-Jun-26,14:00,Info,End of Day 4,,,,,,,,,,,
-18-Jun-26,14:15,Info,ATR&D Symposium Committee Meeting ,,,End 15:30,,,,,,,,
+19-Jun-26,8:00,Info,Coffee,,,,,,,,,,,
+19-Jun-26,8:30,Tracks,,,,,Weather in air transportation II,1,A,James Jones (MIT Lincoln Laboratory),125,Soufiane Momtaz (Hassan II University of Casablanca),METAR-Based Probabilistic Nowcasting of Low Visibility Procedure Phases at Casablanca Airport,Otmane Idrissi (Hassan II University of Casablanca) and Hamza Taheri (AIAC Mohammed VI)
+19-Jun-26,9:10,Tracks,,,,,Weather in air transportation II,1,A,James Jones (MIT Lincoln Laboratory),25,Wei Zhou (UPC),Chance Constrained Aircraft Trajectory Planning under Uncertain Convective Environment,Xavier Prats (UPC)
+19-Jun-26,9:50,Tracks,,,,,Weather in air transportation II,1,A,James Jones (MIT Lincoln Laboratory),126,Soufiane Momtaz (Hassan II University of Casablanca),Enhanced Weather-Driven Time-Based Separation Procedure Triggering at London Gatwick Airport,Otmane Idrissi (Hassan II University of Casablanca)
+19-Jun-26,8:30,Tracks,,,,,"4-D Trajectory planning, prediction and management",2,B,Daniel Delahaye (ENAC),87,Ramon Dalmau (EUROCONTROL),"A Unified, Vectorized and Differentiable Framework for Aircraft Performance Modelling",Gabriel Jarry and Philippe Very (EUROCONTROL)
+19-Jun-26,9:10,Tracks,,,,,"4-D Trajectory planning, prediction and management",2,B,Daniel Delahaye (ENAC),98,Mohammed El Dor (TU Delft),Improving Interpretability in Trajectory Generation: A Case Study on Efficient Latent Space Utilization,"Marta Ribeiro, Junzi Sun and Jacco Hoekstra (TU Delft)"
+19-Jun-26,9:50,Tracks,,,,,"4-D Trajectory planning, prediction and management",2,B,Daniel Delahaye (ENAC),122,Angelika Swatowska (EUROCONTROL),Data-Driven Aircraft Speed Profile Prediction for Enhanced Trajectory Realism,"Vincent Mouillet, Henrich Glaser-Opitz and Angela Nuic (EUROCONTROL)"
+19-Jun-26,8:30,Tracks,,,,,"AAM economics, finance, and policy",3,C,Yu Zhang (USF),6,Xuhao Gui (ENAC),Regional-Scale Multimodal Service Optimization for Innovative Air Mobility Using MILP,Jean-Claude Lebègue and Daniel Delahaye (ENAC)
+19-Jun-26,9:10,Tracks,,,,,"AAM economics, finance, and policy",3,C,Yu Zhang (USF),41,Dayeong Park (Korea Aerospace University),Third-Party Acceptance Factors for Urban Air Mobility,Sang Hyun Kim (Korea Aerospace University)
+19-Jun-26,9:50,Tracks,,,,,"AAM economics, finance, and policy",3,C,Yu Zhang (USF),134,Mark Hansen (UC Berkeley),Like Uber or Like Buses? Economic Feasibility Analysis of UAM for Airport Access,"Shangqing Cao, Rishi Srinivasan and Raja Sengupta (UC Berkeley)"
+19-Jun-26,10:30,Info,Coffee,,,,,,,,,,,
+19-Jun-26,11:00,Tracks,Tutorial session 3,,,,Tutorial session 3,,B,Joost Ellerbroek (TU Delft),,,Reinforcement Learning for Air Traffic Control applications with BlueSky-Gym,
+19-Jun-26,12:30,Highlight_Info,Closing Session,Best Paper Awards & Closing Announcement ATRDS 2027,,"Eric Neiderman, FAA and Dirk Schaefer, EUROCONTROL ",,,,,,,,
+19-Jun-26,13:30,Info,Lunch,,,,,,,,,,,
+19-Jun-26,14:00,Info,End of Day 4,,,,,,,,,,,
+19-Jun-26,14:15,Info,ATR&D Symposium Committee Meeting ,,,End 15:30,,,,,,,,
