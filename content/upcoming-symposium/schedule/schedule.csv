@@ -1,9 +1,9 @@
 ﻿Day,Time,Type,Event Title,Event Subtitle,Event Subtitle Link,Event Speaker,Session,Track,Room,Chair,Paper ID,Presenter,Paper Title,Paper Authors
 15-Jun-26,19:00,Info,"Early registration, welcome reception",De Waag,https://www.dewaagdelft.com,,,,,,,,,
 16-Jun-26,8:00,Info,Welcome and Registration,,,,,,,,,,,
-16-Jun-26,8:30,Title,Welcome by Conference Chairs,,,"Dirk Schaefer, EUROCONTROL and Eric Neiderman, FAA",,,,,,,,
-16-Jun-26,8:45,Info,Welcome Speeches,,,"Henri Werij, TU Delft, Jacco Hoekstra, TU Delft, and Tânia Cardoso Simoës, EUROCONTROL ",,,,,,,,
-16-Jun-26,9:15,Keynote,Keynote 1,The potential of large electric aircraft for future commercial air transport,,"Reynard de Vries, Elysian Aircraft",,,,,,,,
+16-Jun-26,8:30,Title,Welcome by Conference Chairs,,,Dirk Schaefer (EUROCONTROL) and Eric Neiderman (FAA),,,,,,,,
+16-Jun-26,8:45,Info,Welcome Speeches,,,"Henri Werij (TU Delft), Jacco Hoekstra (TU Delft), and Tânia Cardoso Simões (EUROCONTROL) ",,,,,,,,
+16-Jun-26,9:15,Keynote,Keynote 1,The potential of large electric aircraft for future commercial air transport,,Reynard de Vries (Elysian Aircraft),,,,,,,,
 16-Jun-26,10:00,Highlight_Info,Coffee,,,,,,,,,,,
 16-Jun-26,10:30,Tracks,,,,,ATM performance measurement and management I,1,A,Xavier Prats (UPC),82,Mahmoud Makhlouf,Data-Driven Assessment of DME Operational Usage in Relation to Service Volume Definitions,"Mahmoud Makhlouf (ESEO Angers), Tereza Topkova and Valeriu Vitan (EUROCONTROL)"
 16-Jun-26,11:10,Tracks,,,,,ATM performance measurement and management I,1,A,Xavier Prats (UPC),78,Phillipe Lothaller,Probabilistic Forecasting of Aircraft Transit Time within a Flight Information Region: A Case Study of Schiphol Airport,"Egemen Süülker, Phillipe Lothaller, Marta Ribeiro, Junzi Sun (TU Delft), Jasper De Wilde and Alexander Piva (KLM)"
@@ -53,12 +53,12 @@
 17-Jun-26,11:30,Tracks,,,,,Doctoral paper session 3,,C,Jacco Hoekstra (TU Delft),,Pau Esteve (IFISC),Exploring delay propagation in air transport using temporal networks,
 17-Jun-26,12:00,Tracks,,,,,Doctoral paper session 3,,C,Jacco Hoekstra (TU Delft),,Abhishek Rajaram (TU Dresden),Statistical Causality and Decomposition Analysis of Airline Reactionary Delay,
 17-Jun-26,12:30,Info,Light Lunch,,,,,,,,,,,
-17-Jun-26,13:30,Panel,Panel 1,Will the UAM bubble burst?,,"Dirk Schaeffer, EUROCONTROL, Moderator",,,,,,,,
+17-Jun-26,13:30,Panel,Panel 1,Will the UAM bubble burst?,,"Dirk Schaefer (EUROCONTROL), Moderator",,,,,,,,
 17-Jun-26,15:00,Highlight_Info,Refreshments,,,,,,,,,,,
 17-Jun-26,15:30,Info,Tour of aerospace faculty,Student activity at Outdoor Delft,,,,,,,,,,
 18-Jun-26,8:00,Info,Coffee,,,,,,,,,,,
-18-Jun-26,8:30,Keynote,Keynote 2,Robin Radar: from birds and drones detection towards supporting advanced unmanned traffic management,,"Vivien Croes, Robin Radar",,,,,,,,
-18-Jun-26,9:15,Keynote,Keynote 3,From unexpected discovery to worldwide deployment,,"Shane Kenny, AirNav Ireland and  Karim Zeghal , EUROCONTROL",,,,,,,,
+18-Jun-26,8:30,Keynote,Keynote 2,Robin Radar: from birds and drones detection towards supporting advanced unmanned traffic management,,Vivien Croes (Robin Radar),,,,,,,,
+18-Jun-26,9:15,Keynote,Keynote 3,From unexpected discovery to worldwide deployment,,Shane Kenny (AirNav Ireland) and  Karim Zeghal  (EUROCONTROL),,,,,,,,
 18-Jun-26,10:00,Info,Coffee,,,,,,,,,,,
 18-Jun-26,10:30,Tracks,,,,,Air traffic flow management and optimization II,1,A,Sameer Alam (NTU),52,Zhengyi Wang (EUROCONTROL),A Flow-Centric Approach for Network-Level ATFM Delay Optimization and Hotspot Resolution Using Hierarchical Monte Carlo Tree Search,"Thinh Hoang, Daniel Delahaye (ENAC) and Leïla Zerrouki (EUROCONTROL)"
 18-Jun-26,11:10,Tracks,,,,,Air traffic flow management and optimization II,1,A,Sameer Alam (NTU),105,Sara Ruano Ferrer (CRIDA),A Transition-Aware Methodology for Configuration Pathways in Dynamic Airspace Management,"Pedro Muiño Martínez, Manuel Ángel Amaro Carmona, M. Florencia Lema Esposto and Nicolas Suárez (CRIDA)"
