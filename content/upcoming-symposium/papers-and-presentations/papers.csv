@@ -1,158 +1,158 @@
 ﻿,id,title,authors,paper,presentation,best,theme,abstract
 0,3,"Formal Verification of Quantum-Resilient Authentication and
-Handover Protocols for LDACS","Suleman Khan, Gurjot Singh Gaba and Andrei Gurtov",/seminarContent/symposium2/papers/ATRDS_2026_paper_3-final.pdf,,,"Safety, resilience, and security",
+Handover Protocols for LDACS","Suleman Khan, Gurjot Singh Gaba and Andrei Gurtov",/seminarContent/symposium2/papers/ATRDS_2026_paper_3-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_3.pdf,,"Safety, resilience, and security",
 1,5,"Monte Carlo Analysis of Runway Status Lights During a
-Runway Incursion","Edward Londner, Lawrence Capuder, Jesse Engle and Ian Jessen",/seminarContent/symposium2/papers/ATRDS_2026_paper_5-final.pdf,,,Integrated airport/airside operations,
+Runway Incursion","Edward Londner, Lawrence Capuder, Jesse Engle and Ian Jessen",/seminarContent/symposium2/papers/ATRDS_2026_paper_5-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_5.pdf,,Integrated airport/airside operations,
 2,6,"Regional-Scale Multimodal Service Optimization for
-Innovative Air Mobility Using MILP","Xuhao Gui, Jean-Claude Lebègue and Daniel Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_6-final.pdf,,,"Autonomous, unmanned and remotely piloted aircraft systems
+Innovative Air Mobility Using MILP","Xuhao Gui, Jean-Claude Lebègue and Daniel Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_6-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_6.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 3,10,Too Busy to Depeak: Quantifying the Persistence of Peaked Schedules at European Airports,"Josu Blanco, Jose J. Ramasco and Massimiliano Zanin",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_10.pdf,,,Doctoral paper,
 4,11,ATCO Perceptions of AI Decision Support in Air Traffic Control: Advisory and Execution Modes,"Celina Vetter, Kristina Samardžić, Ruth Häusler Hermann and Maarten Uijt de Haag",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_11.pdf,,,Doctoral paper,
 5,12,"""Direct to City"" or ""Direct to SIDDI""? – LLM-based
 Auto-Correction of Unknown Waypoints for Aviation Speech
 Models","Niclas Feier, Oliver Ohneiser, Matthias Kleinert and
-Hartmut Helmke",/seminarContent/symposium2/papers/ATRDS_2026_paper_12-final.pdf,,,"Automation, Human factors, and decision support systems",
+Hartmut Helmke",/seminarContent/symposium2/papers/ATRDS_2026_paper_12-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_12.pdf,,"Automation, Human factors, and decision support systems",
 6,15,"Alternative Non-homotopic Routes and Stochastic Density
 Estimation for UAS in Urban Airspace","Téo Chauvin, David Gianazza, Nicolas Durand and Richard
-Alligier",/seminarContent/symposium2/papers/ATRDS_2026_paper_15-final.pdf,,*,"Autonomous, unmanned and remotely piloted aircraft systems
+Alligier",/seminarContent/symposium2/papers/ATRDS_2026_paper_15-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_15.pdf,*,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 7,18,"A Characterization of Air Traffic Controller Eye Movements
 in Response to Conflict Alerts","Alexander Konkel, Elena St. Amour, Nelson Brown and Mark
-Olsen",/seminarContent/symposium2/papers/ATRDS_2026_paper_18-final.pdf,,,"Automation, Human factors, and decision support systems",
+Olsen",/seminarContent/symposium2/papers/ATRDS_2026_paper_18-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_18.pdf,,"Automation, Human factors, and decision support systems",
 8,19,"Human-in-the-Loop Simulation Study of the Conflict Alert
 Parameter: An Attempt to Reduce Nuisance Alerts","Alexander Konkel, Elena St. Amour, Nelson Brown and Mark
-Olsen",/seminarContent/symposium2/papers/ATRDS_2026_paper_19-final.pdf,,,"Automation, Human factors, and decision support systems",
+Olsen",/seminarContent/symposium2/papers/ATRDS_2026_paper_19-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_19.pdf,,"Automation, Human factors, and decision support systems",
 9,21,Towards a retrospective evaluation of sector complexity metrics,Raúl López-Martín and Massimiliano Zanin,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_21.pdf,,,Doctoral paper,
 10,22,"En-Route Sector Demand Prediction with a Long- and 
 Short-Term Transformer-Based Spatiotemporal Network","Junqiang Wan, Yifei Zhao, Hongyong Wang, Xavier Prats and
-Max Z. Li",/seminarContent/symposium2/papers/ATRDS_2026_paper_22-final.pdf,,,Air traffic flow management and optimization,
+Max Z. Li",/seminarContent/symposium2/papers/ATRDS_2026_paper_22-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_22.pdf,,Air traffic flow management and optimization,
 11,25,"Chance Constrained Aircraft Trajectory Planning under
-Uncertain Convective Environment",Wei Zhou and Xavier Prats,/seminarContent/symposium2/papers/ATRDS_2026_paper_25-final.pdf,,,Weather in Air Transportation,
+Uncertain Convective Environment",Wei Zhou and Xavier Prats,/seminarContent/symposium2/papers/ATRDS_2026_paper_25-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_25.pdf,,Weather in Air Transportation,
 12,26,"Correlating Physical Contrail Models with Ground-Based
-Observations","Ramon Dalmau, Gabriel Jarry and Philippe Very",/seminarContent/symposium2/papers/ATRDS_2026_paper_26-final.pdf,,,Environment and energy efficiency,
+Observations","Ramon Dalmau, Gabriel Jarry and Philippe Very",/seminarContent/symposium2/papers/ATRDS_2026_paper_26-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_26.pdf,,Environment and energy efficiency,
 13,27,Exploring delay propagation in air transport using temporal networks,Pau Esteve and Massimiliano Zanin,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_27.pdf,,,Doctoral paper,
 14,29,"Operational Evaluation of Machine Learning–Based
 Miles-to-Touchdown Prediction in Terminal Airspace","Faustino Tello Caballo, Marta Sánchez Cidoncha, Diego Piva
-Álvarez, José Recio Sánchez and María del Prado Plaza García",/seminarContent/symposium2/papers/ATRDS_2026_paper_29-final.pdf,,,"Automation, Human factors, and decision support systems",
+Álvarez, José Recio Sánchez and María del Prado Plaza García",/seminarContent/symposium2/papers/ATRDS_2026_paper_29-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_29.pdf,,"Automation, Human factors, and decision support systems",
 15,31,"Uncrewed Aircraft System Lost Command and Control Link
 Arrival Procedures with Simulated Air Traffic Control
 Resolution Maneuvers","Jordan Sakakeeny, David P. Thipphavong, Todd A. Lauderdale,
-Nadezhda Dimitrova, Vishwanath Bulusu and James D. Phillips",,,,"Autonomous, unmanned and remotely piloted aircraft systems
+Nadezhda Dimitrova, Vishwanath Bulusu and James D. Phillips",,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_31.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 16,32,"Weather Considerations for Terminal Airspace Capacity
-Decision Support Development","Joe Venuti, Safa Saber, Mark Worris and Tom Reynolds",/seminarContent/symposium2/papers/ATRDS_2026_paper_32-final.pdf,,,Weather in Air Transportation,
+Decision Support Development","Joe Venuti, Safa Saber, Mark Worris and Tom Reynolds",/seminarContent/symposium2/papers/ATRDS_2026_paper_32-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_32.pdf,,Weather in Air Transportation,
 17,34,"A Flight-Centric Decision Support Framework for Tactical
 Airspace Congestion Mitigation under Multi-Scale Traffic
-Volume Constraints","Huijuan Yang, Daniel Delahaye, Chunyao Ma and Sameer Alam",/seminarContent/symposium2/papers/ATRDS_2026_paper_34-final.pdf,,*,Air traffic flow management and optimization,
+Volume Constraints","Huijuan Yang, Daniel Delahaye, Chunyao Ma and Sameer Alam",/seminarContent/symposium2/papers/ATRDS_2026_paper_34-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_34.pdf,*,Air traffic flow management and optimization,
 18,35,"Trajectory Options Planning under Uncertainty with
-Risk-Sensitive Airline Preferences","Ying Zhou, Sameer Alam, Mark Hansen and Daniel Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_35-final.pdf,,,Air traffic flow management and optimization,
-19,41,Third-Party Acceptance Factors for Urban Air Mobility,Dayeong Park and Sang Hyun Kim,/seminarContent/symposium2/papers/ATRDS_2026_paper_41-final.pdf,,,"Economics, finance, and policy",
+Risk-Sensitive Airline Preferences","Ying Zhou, Sameer Alam, Mark Hansen and Daniel Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_35-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_35.pdf,,Air traffic flow management and optimization,
+19,41,Third-Party Acceptance Factors for Urban Air Mobility,Dayeong Park and Sang Hyun Kim,/seminarContent/symposium2/papers/ATRDS_2026_paper_41-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_41.pdf,,"Economics, finance, and policy",
 20,43,"Feudal Hierarchical Multi-Agent Reinforcement Learning for
 Cooperative Conflict Management in Sectorized Airspace","Dexiang Wang, Yanjun Wang, Lei Yang, Zhixin Miao and Daniel
-Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_43-final.pdf,,,"4-D Trajectory planning, prediction, and management",
+Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_43-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_43.pdf,,"4-D Trajectory planning, prediction, and management",
 21,44,Statistical Causality and Decomposition Analysis of Airline Reactionary Delay,Abhishek Rajaram and Hartmut Fricke,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_44.pdf,,,Doctoral paper,
 22,48,"Wind Field Nowcasting and Forecasting using Denoising
-Diffusion Probabilistic Models with Aircraft-Derived Data",Matthijs Slobbe and Junzi Sun,/seminarContent/symposium2/papers/ATRDS_2026_paper_48-final.pdf,,*,Weather in Air Transportation,
+Diffusion Probabilistic Models with Aircraft-Derived Data",Matthijs Slobbe and Junzi Sun,/seminarContent/symposium2/papers/ATRDS_2026_paper_48-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_48.pdf,*,Weather in Air Transportation,
 23,49,Towards Human-centered Flight-Deck Guidance for Surface Trajectory-Based Operations,"Minghua Zhang, Kaiquan Cai, Yang Yang, Yuhang Wang and Jun Chen",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_49.pdf,,,Doctoral paper,
 24,52,"A Flow-Centric Approach for Network-Level ATFM Delay
 Optimization and Hotspot Resolution Using Hierarchical
 Monte Carlo Tree Search","Thinh Hoang, Zhengyi Wang, Daniel Delahaye and Leïla
-Zerrouki",/seminarContent/symposium2/papers/ATRDS_2026_paper_52-final.pdf,,,Air traffic flow management and optimization,
+Zerrouki",/seminarContent/symposium2/papers/ATRDS_2026_paper_52-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_52.pdf,,Air traffic flow management and optimization,
 25,54,"Retrospective Validation of a Data-Driven TMA Complexity
-Model with Air Traffic Controllers","Zhi Jun Lim, Ziqing Xia, Duc-Thinh Pham and Sameer Alam",/seminarContent/symposium2/papers/ATRDS_2026_paper_54-final.pdf,,,"Automation, Human factors, and decision support systems",
+Model with Air Traffic Controllers","Zhi Jun Lim, Ziqing Xia, Duc-Thinh Pham and Sameer Alam",/seminarContent/symposium2/papers/ATRDS_2026_paper_54-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_54.pdf,,"Automation, Human factors, and decision support systems",
 26,56,A Three-Stage Probabilistic Pipeline for Departure-to-Cruise Prediction,Mitsuki Tanoue and Adriana Andreeva-Mori,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_56.pdf,,,Doctoral paper,
 27,59,"Uncertainty Quantification in Flight Time Prediction for
-Airline Flight Planning","Ruijia Gu, Chi Li and Lishuai Li",/seminarContent/symposium2/papers/ATRDS_2026_paper_59-final.pdf,,*,Environment and energy efficiency,
+Airline Flight Planning","Ruijia Gu, Chi Li and Lishuai Li",/seminarContent/symposium2/papers/ATRDS_2026_paper_59-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_59.pdf,*,Environment and energy efficiency,
 28,60,A Predict-Then-Optimize Framework for Commercial-Humanitarian Airlift Operations under Operational Uncertainty,"Micah Borrero, Bharadwaj Eswaran, Shraddha Rana and Max Li",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_60.pdf,,,Doctoral paper,
 29,68,"Interactive Dynamic Airspace Sectorization through
-Human-in-the-Loop Optimization",Clark Borst,/seminarContent/symposium2/papers/ATRDS_2026_paper_68-final.pdf,,,"Automation, Human factors, and decision support systems",
+Human-in-the-Loop Optimization",Clark Borst,/seminarContent/symposium2/papers/ATRDS_2026_paper_68-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_68.pdf,,"Automation, Human factors, and decision support systems",
 30,72,"Impact of Formation Size, Geometry, and Role Assignment on
 Collision-Avoidance Performance of Commercial Aircraft
-Formations","Songqiying Yang, Ania Adil and Eric Feron",/seminarContent/symposium2/papers/ATRDS_2026_paper_72-final.pdf,,,"4-D Trajectory planning, prediction, and management",
+Formations","Songqiying Yang, Ania Adil and Eric Feron",/seminarContent/symposium2/papers/ATRDS_2026_paper_72-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_72.pdf,,"4-D Trajectory planning, prediction, and management",
 31,73,Developing an Industry-Ready Methodology for Instrument Approach Procedures Optimization,Velibor Andric and Fedja Netjasov,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_73.pdf,,,Doctoral paper,
 32,74,"Stand Compatibility of Future Sustainable Aircraft. Case
-Study: The Elysian E9X","Job de Vries, Niek van Amstel and Pieter van den Berg",/seminarContent/symposium2/papers/ATRDS_2026_paper_74-final.pdf,,,Integrated airport/airside operations,
+Study: The Elysian E9X","Job de Vries, Niek van Amstel and Pieter van den Berg",/seminarContent/symposium2/papers/ATRDS_2026_paper_74-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_74.pdf,,Integrated airport/airside operations,
 33,77,"Airport resilience and climate change: A global study on
-airports","Xiaoqian Sun, Sebastian Wandelt and Massimiliano Zanin",/seminarContent/symposium2/papers/ATRDS_2026_paper_77-final.pdf,,,"Safety, resilience, and security",
+airports","Xiaoqian Sun, Sebastian Wandelt and Massimiliano Zanin",/seminarContent/symposium2/papers/ATRDS_2026_paper_77-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_77.pdf,,"Safety, resilience, and security",
 34,78,"Probabilistic Forecasting of Aircraft Transit Time within a
 Flight Information Region: A Case Study of Schiphol Airport","Egemen Süülker, Phillipe Lothaller, Marta Ribeiro, Junzi
-Sun, Jasper De Wilde and Alexander Piva",/seminarContent/symposium2/papers/ATRDS_2026_paper_78-final.pdf,,,ATM performance measurement and management,
+Sun, Jasper De Wilde and Alexander Piva",/seminarContent/symposium2/papers/ATRDS_2026_paper_78-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_78.pdf,,ATM performance measurement and management,
 35,79,"Cooperative UAS Identification for UTM - UAS Position
 Accuracy Analysis of FLARM and Remote ID Technologies","Martin Lindner, Hannes Braßel, Thomas Zeh, Mingchuan Luo
-and Hartmut Fricke",/seminarContent/symposium2/papers/ATRDS_2026_paper_79-final.pdf,,,"Autonomous, unmanned and remotely piloted aircraft systems
+and Hartmut Fricke",/seminarContent/symposium2/papers/ATRDS_2026_paper_79-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_79.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 36,80,Routing and Scheduling Optimisation for Airport Ground Operations: An Incremental Constraints Study,"Feezan Akhtar, Jun Chen, Xinwei Wang, John Korna and Richard Cannon",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_80.pdf,,,Doctoral paper,
 37,82,"Data-Driven Assessment of DME Operational Usage in Relation
-to Service Volume Definitions","Mahmoud Makhlouf, Tereza Topkova and Valeriu Vitan",/seminarContent/symposium2/papers/ATRDS_2026_paper_82-final.pdf,,*,ATM performance measurement and management,
+to Service Volume Definitions","Mahmoud Makhlouf, Tereza Topkova and Valeriu Vitan",/seminarContent/symposium2/papers/ATRDS_2026_paper_82-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_82.pdf,*,ATM performance measurement and management,
 38,85,Overcoming limitations of analytical aircraft noise emission estimation using machine-learning,"Norman Peter, Thomas Zeh and Hartmut Fricke",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_85.pdf,,,Doctoral paper,
 39,87,"A Unified, Vectorized and Differentiable Framework for
-Aircraft Performance Modelling","Ramon Dalmau, Gabriel Jarry and Philippe Very",/seminarContent/symposium2/papers/ATRDS_2026_paper_87-final.pdf,,,"4-D Trajectory planning, prediction, and management",
-40,89,Airspace Capacity Planning for Convective Weather Events,James Jones and Benjamin Tolley,/seminarContent/symposium2/papers/ATRDS_2026_paper_89-final.pdf,,,Weather in Air Transportation,
+Aircraft Performance Modelling","Ramon Dalmau, Gabriel Jarry and Philippe Very",/seminarContent/symposium2/papers/ATRDS_2026_paper_87-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_87.pdf,,"4-D Trajectory planning, prediction, and management",
+40,89,Airspace Capacity Planning for Convective Weather Events,James Jones and Benjamin Tolley,/seminarContent/symposium2/papers/ATRDS_2026_paper_89-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_89.pdf,,Weather in Air Transportation,
 41,91,Data-Driven Quantification and Classification of Service Disruptions at Airports,Felix Constantin Hoch and Hartmut Fricke,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_91.pdf,,,Doctoral paper,
 42,94,"A new modulation charging concept to reduce CO2 and non-CO2
-emissions",Gérald Gurtner and Tatjana Bolic,/seminarContent/symposium2/papers/ATRDS_2026_paper_94-final.pdf,,,Environment and energy efficiency,
+emissions",Gérald Gurtner and Tatjana Bolic,/seminarContent/symposium2/papers/ATRDS_2026_paper_94-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_94.pdf,,Environment and energy efficiency,
 43,95,"Exercise, Exercise! The impact of hydrogen in aviation on
 airport emergency response","Twan Keijzer, Lisette Hartog, Jan-Daan Maasland, Jelle
 Moerkerken, Timo Nijman, Gijs Kaandorp, Vincent van
 Hasselt, Luc Korzilius, Lea Taillandier, Andrea Carrieri,
-Vasileios Kekkis and Persi Santamouri",/seminarContent/symposium2/papers/ATRDS_2026_paper_95-final.pdf,,*,"Safety, resilience, and security",
+Vasileios Kekkis and Persi Santamouri",/seminarContent/symposium2/papers/ATRDS_2026_paper_95-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_95.pdf,*,"Safety, resilience, and security",
 44,96,"Stakeholder Perspective Analysis for Airspace Resilience:
 Informing Countermeasure Design through Multi-Entity
 Coordination Assessment","Neil G. Jacobson, Patty Clark, Megan Ryerson, Max Z. Li,
-David Lovell, Curt Rademaker and Mark Hansen",/seminarContent/symposium2/papers/ATRDS_2026_paper_96-final.pdf,,,"Safety, resilience, and security",
+David Lovell, Curt Rademaker and Mark Hansen",/seminarContent/symposium2/papers/ATRDS_2026_paper_96-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_96.pdf,,"Safety, resilience, and security",
 45,97,Noncooperative Coordination for Decentralized Air Traffic Management,Jaehan Im,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_97.pdf,,,Doctoral paper,
 46,98,"Improving Interpretability in Trajectory Generation: A Case
-Study on Efficient Latent Space Utilization","Mohammed El Dor, Marta Ribeiro, Junzi Sun and Jacco Hoekstra",/seminarContent/symposium2/papers/ATRDS_2026_paper_98-final.pdf,,,"4-D Trajectory planning, prediction, and management",
+Study on Efficient Latent Space Utilization","Mohammed El Dor, Marta Ribeiro, Junzi Sun and Jacco Hoekstra",/seminarContent/symposium2/papers/ATRDS_2026_paper_98-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_98.pdf,,"4-D Trajectory planning, prediction, and management",
 47,99,"Worldwide Assessment of Vertical Airspace Flexibility in
-Enroute Airspace","Mina Cezairli, Marek Homola, Marek Travnik and John Hansman",/seminarContent/symposium2/papers/ATRDS_2026_paper_99-final.pdf,,,ATM performance measurement and management,
+Enroute Airspace","Mina Cezairli, Marek Homola, Marek Travnik and John Hansman",/seminarContent/symposium2/papers/ATRDS_2026_paper_99-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_99.pdf,,ATM performance measurement and management,
 48,103,"Graph-based Complexity Forecasts in UK En Route Airspace
-Using Relevant Aircraft Interactions","Edward Henderson, George De Ath and Nick Pepper",/seminarContent/symposium2/papers/ATRDS_2026_paper_103-final.pdf,,,"Automation, Human factors, and decision support systems",
+Using Relevant Aircraft Interactions","Edward Henderson, George De Ath and Nick Pepper",/seminarContent/symposium2/papers/ATRDS_2026_paper_103-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_103.pdf,,"Automation, Human factors, and decision support systems",
 49,104,"Validation of the Flight Centric ATC Concept in the
-Ukrainian Airspace: A Real-Time Simulation","Verdiana Bottino, Mara Weber and Ana Paz Goncalves Martins",/seminarContent/symposium2/papers/ATRDS_2026_paper_104-final.pdf,,,ATM performance measurement and management,
+Ukrainian Airspace: A Real-Time Simulation","Verdiana Bottino, Mara Weber and Ana Paz Goncalves Martins",/seminarContent/symposium2/papers/ATRDS_2026_paper_104-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_104.pdf,,ATM performance measurement and management,
 50,105,"A Transition-Aware Methodology for Configuration Pathways
 in Dynamic Airspace Management","Sara Ruano Ferrer, Pedro Muiño Martínez, Manuel Ángel Amaro
 Carmona, M. Florencia Lema Esposto and Nicolas Suárez
-Tetzlaff",/seminarContent/symposium2/papers/ATRDS_2026_paper_105-final.pdf,,,Air traffic flow management and optimization,
+Tetzlaff",/seminarContent/symposium2/papers/ATRDS_2026_paper_105-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_105.pdf,,Air traffic flow management and optimization,
 51,108,"Enabling Scalable Vertiport Network Design via
 Terrain-Aware Spatial Filtering and sPCA-Based Candidate
-Reduction","Elif Erkek, Martin Lindner and Hartmut Fricke",/seminarContent/symposium2/papers/ATRDS_2026_paper_108-final.pdf,,,"Autonomous, unmanned and remotely piloted aircraft systems
+Reduction","Elif Erkek, Martin Lindner and Hartmut Fricke",/seminarContent/symposium2/papers/ATRDS_2026_paper_108-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_108.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 52,110,Fuel Leak Hazard Management for Hydrogen and Methane Aircraft,Julia Tao and R. John Hansman,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_110.pdf,,,Doctoral paper,
 53,112,"Departure Manager improvement through Vision-based
-Predicted End of Ground handling Time","Jens Bremer, Joost Ellerbroek and Ferdinand Dijkstra",/seminarContent/symposium2/papers/ATRDS_2026_paper_112-final.pdf,,*,Integrated airport/airside operations,
+Predicted End of Ground handling Time","Jens Bremer, Joost Ellerbroek and Ferdinand Dijkstra",/seminarContent/symposium2/papers/ATRDS_2026_paper_112-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_112.pdf,*,Integrated airport/airside operations,
 54,113,The Aviation External Cost Integrated Framework - Introducing a Comprehensive Aviation Emission Inventory Model,Marco Berger and Hartmut Fricke,/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_113.pdf,,,Doctoral paper,
 55,114,"Real-Time Direct Route Recommendation using Rule-Based
 Algorithms: Conflict-Free Advisories for Environmental
 Impact Reduction","Víctor-Manuel Martínez-García, Àlex Padrós and Álvaro
-Quintanar",/seminarContent/symposium2/papers/ATRDS_2026_paper_114-final.pdf,,,"Automation, Human factors, and decision support systems",
-56,115,Benefits Limits of Self-Organization in Autonomous Air Traffic Operations,"Anahita Jain, Husni Idris and John-Paul Clarke",/seminarContent/symposium2/papers/ATRDS_2026_paper_115-final.pdf,,*,"Autonomous, unmanned and remotely piloted aircraft systems
+Quintanar",/seminarContent/symposium2/papers/ATRDS_2026_paper_114-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_114.pdf,,"Automation, Human factors, and decision support systems",
+56,115,Benefits Limits of Self-Organization in Autonomous Air Traffic Operations,"Anahita Jain, Husni Idris and John-Paul Clarke",/seminarContent/symposium2/papers/ATRDS_2026_paper_115-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_115.pdf,*,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 57,117,"Computer Vision-Based Safety Alerts for Airport
 Surveillance: A Multi-Camera System for Incursions, FOD and
-Wildlife","Juan Ramos, Guillermo del Valle-Reboul and Álvaro Quintanar",/seminarContent/symposium2/papers/ATRDS_2026_paper_117-final.pdf,,,Integrated airport/airside operations,
+Wildlife","Juan Ramos, Guillermo del Valle-Reboul and Álvaro Quintanar",/seminarContent/symposium2/papers/ATRDS_2026_paper_117-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_117.pdf,,Integrated airport/airside operations,
 58,120,"Probabilistic Collision Modeling for UAS under Wind-Induced
 Uncertainty","Md Ashraful Islam, Stanley Förster, Hartmut Fricke and John
-Shortle",/seminarContent/symposium2/papers/ATRDS_2026_paper_120-final.pdf,,,"Autonomous, unmanned and remotely piloted aircraft systems
+Shortle",/seminarContent/symposium2/papers/ATRDS_2026_paper_120-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_120.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 59,121,"Mitigating Uncertainty in an Extended-Arrival Manager
-Environment","Jorn van Beek, Joost Ellerbroek and Ferdinand Dijkstra",/seminarContent/symposium2/papers/ATRDS_2026_paper_121-final.pdf,,,Air traffic flow management and optimization,
+Environment","Jorn van Beek, Joost Ellerbroek and Ferdinand Dijkstra",/seminarContent/symposium2/papers/ATRDS_2026_paper_121-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_121.pdf,,Air traffic flow management and optimization,
 60,122,"Data-Driven Aircraft Speed Profile Prediction for Enhanced
 Trajectory Realism","Angelika Swatowska, Vincent Mouillet, Henrich Glaser-Opitz
-and Angela Nuic",/seminarContent/symposium2/papers/ATRDS_2026_paper_122-final.pdf,,*,"4-D Trajectory planning, prediction, and management",
+and Angela Nuic",/seminarContent/symposium2/papers/ATRDS_2026_paper_122-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_122.pdf,*,"4-D Trajectory planning, prediction, and management",
 61,125,"METAR-Based Probabilistic Nowcasting of Low Visibility
-Procedure Phases at Casablanca Airport","Otmane Idrissi, Soufiane Momtaz and Hamza Taheri",/seminarContent/symposium2/papers/ATRDS_2026_paper_125-final.pdf,,,Weather in Air Transportation,
+Procedure Phases at Casablanca Airport","Otmane Idrissi, Soufiane Momtaz and Hamza Taheri",/seminarContent/symposium2/papers/ATRDS_2026_paper_125-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_125.pdf,,Weather in Air Transportation,
 62,126,"Enhanced Weather-Driven Time-Based Separation Procedure
-Triggering at London Gatwick Airport",Soufiane Momtaz and Otmane Idrissi,/seminarContent/symposium2/papers/ATRDS_2026_paper_126-final.pdf,,,Weather in Air Transportation,
+Triggering at London Gatwick Airport",Soufiane Momtaz and Otmane Idrissi,/seminarContent/symposium2/papers/ATRDS_2026_paper_126-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_126.pdf,,Weather in Air Transportation,
 63,128,"Learning-Based Pre-tactical Conflict Management Strategy
-for Urban Air Mobility","Yuheng Wang, Tinghe Zhang, Peng Wei and Ang Li",/seminarContent/symposium2/papers/ATRDS_2026_paper_128-final.pdf,,,"Safety, resilience, and security",
+for Urban Air Mobility","Yuheng Wang, Tinghe Zhang, Peng Wei and Ang Li",/seminarContent/symposium2/papers/ATRDS_2026_paper_128-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_128.pdf,,"Safety, resilience, and security",
 64,131,"From Disruption Mitigation to Policy Compliance: Airline
 Cancellation Strategies Under the November 2025 FAA
-Emergency Order",Jing Xu and Mark Hansen,/seminarContent/symposium2/papers/ATRDS_2026_paper_131-final.pdf,,,ATM performance measurement and management,
+Emergency Order",Jing Xu and Mark Hansen,/seminarContent/symposium2/papers/ATRDS_2026_paper_131-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_131.pdf,,ATM performance measurement and management,
 65,132,"Decentralized Autonomous Traffic Management through
-Corridor Networks","Jasmine Jerry Aloor, Aadarsh Govada and Hamsa Balakrishnan",/seminarContent/symposium2/papers/ATRDS_2026_paper_132-final.pdf,,,"Autonomous, unmanned and remotely piloted aircraft systems
+Corridor Networks","Jasmine Jerry Aloor, Aadarsh Govada and Hamsa Balakrishnan",/seminarContent/symposium2/papers/ATRDS_2026_paper_132-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_132.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems
 and emerging operations",
 66,133,"Temporal Residual Learning for Real-Time Air Traffic
-Complexity Forecasting","Go Nam Lui, Guglielmo Lulli and Maria Florencia Lema Esposto",/seminarContent/symposium2/papers/ATRDS_2026_paper_133-final.pdf,,,ATM performance measurement and management,
+Complexity Forecasting","Go Nam Lui, Guglielmo Lulli and Maria Florencia Lema Esposto",/seminarContent/symposium2/papers/ATRDS_2026_paper_133-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_133.pdf,,ATM performance measurement and management,
 67,134,"Like Uber or Like Buses? Economic Feasibility Analysis of
 UAM for Airport Access","Shangqing Cao, Rishi Srinivasan, Raja Sengupta and Mark
-Hansen",/seminarContent/symposium2/papers/ATRDS_2026_paper_134-final.pdf,,*,"Economics, finance, and policy",
+Hansen",/seminarContent/symposium2/papers/ATRDS_2026_paper_134-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_134.pdf,*,"Economics, finance, and policy",
