@@ -1,11 +1,7 @@
-﻿,id,title,authors,paper,presentation,best,theme,abstract
-0,3,"Formal Verification of Quantum-Resilient Authentication and
-Handover Protocols for LDACS","Suleman Khan, Gurjot Singh Gaba and Andrei Gurtov",/seminarContent/symposium2/papers/ATRDS_2026_paper_3-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_3.pdf,,"Safety, resilience, and security",
-1,5,"Monte Carlo Analysis of Runway Status Lights During a
-Runway Incursion","Edward Londner, Lawrence Capuder, Jesse Engle and Ian Jessen",/seminarContent/symposium2/papers/ATRDS_2026_paper_5-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_5.pdf,,Integrated airport/airside operations,
-2,6,"Regional-Scale Multimodal Service Optimization for
-Innovative Air Mobility Using MILP","Xuhao Gui, Jean-Claude Lebègue and Daniel Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_6-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_6.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems
-and emerging operations",
+﻿,id,title,authors,paper,presentation,best,theme,abstract,doi
+0,3,"Formal Verification of Quantum-Resilient Authentication and Handover Protocols for LDACS","Suleman Khan, Gurjot Singh Gaba and Andrei Gurtov",/seminarContent/symposium2/papers/ATRDS_2026_paper_3-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_3.pdf,,"Safety, resilience, and security",,10.5281/zenodo.21461833
+1,5,"Monte Carlo Analysis of Runway Status Lights During a Runway Incursion","Edward Londner, Lawrence Capuder, Jesse Engle and Ian Jessen",/seminarContent/symposium2/papers/ATRDS_2026_paper_5-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_5.pdf,,Integrated airport/airside operations,,10.5281/zenodo.21462187
+2,6,"Regional-Scale Multimodal Service Optimization for Innovative Air Mobility Using MILP","Xuhao Gui, Jean-Claude Lebègue and Daniel Delahaye",/seminarContent/symposium2/papers/ATRDS_2026_paper_6-final.pdf,/seminarContent/symposium2/presentations/ATRDS_2026_Presentation_6.pdf,,"Autonomous, unmanned and remotely piloted aircraft systems and emerging operations",,10.5281/zenodo.21462291
 3,10,Too Busy to Depeak: Quantifying the Persistence of Peaked Schedules at European Airports,"Josu Blanco, Jose J. Ramasco and Massimiliano Zanin",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_10.pdf,,,Doctoral paper,
 4,11,ATCO Perceptions of AI Decision Support in Air Traffic Control: Advisory and Execution Modes,"Celina Vetter, Kristina Samardžić, Ruth Häusler Hermann and Maarten Uijt de Haag",/seminarContent/symposium2/papers/ATRDS_2026_Doctoral_paper_11.pdf,,,Doctoral paper,
 5,12,"""Direct to City"" or ""Direct to SIDDI""? – LLM-based
