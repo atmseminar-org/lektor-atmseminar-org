@@ -4,13 +4,13 @@ _template: layout-home.html
 ---
 breadcrumb_name: ATRD Symposium
 ---
-next_location: Bucharest, Romania
+next_location: Bucharest, Romania, 22-26 June 2027
 ---
 title: International Air Transportation Research & Development Symposium
 ---
 subtitle: Established event for the air transportation community
 ---
-next_date: 2027 ATRD Symposium, xxx June
+next_date: 2027 ATRD Symposium, 21 June
 ---
 body:
 
