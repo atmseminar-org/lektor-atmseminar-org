@@ -8,34 +8,30 @@ body:
 
 <!-- * [Call for Papers (pdf)](./ATRDS Call for Papers 2026.pdf) -->
 
-* [Call for Papers (doc)](./Symposium 2026 Call for Papers v0.2.docx)
+* [Call for Papers (doc)](./Symposium 2027 Call for Papers v1.0.docx)
 
 ## Conference Overview
 
-Since 1997, the Federal Aviation Administration (FAA) and EUROCONTROL have jointly organized two prominent series of scientific conferences in air transportation: the Air Traffic Management (ATM) Research and Development (R&D) Seminar and the International Conference on Research in Air Transportation (ICRAT). These events have been hosted in various US and European locations, and most recently in Asia, fostering the exchange of research results and building consensus on key issues in air transportation and ATM. The conferences have been instrumental in creating and reinforcing professional relationships among leading experts and researchers. Papers presented are publicly available on our websites, forming a valuable repository of air transportation research.
-
-## New Conference Format
-
-While the ATM R&D Seminar took place in odd years and reached out to senior scientists, ICRAT predominantly addressed young researchers and took place in even years. To streamline and enhance the impact of these conferences, the FAA and EUROCONTROL have merged the ATM R&D Seminar and ICRAT into a new annual event: the International Air Transportation Research and Development Symposium. The Symposium integrates the best elements of both previous conferences. Still based on an open Call for Papers, the Symposium also features tutorials on selected topics and a doctoral research review component. Industry members are encouraged to attend to facilitate the transfer of research from academia to practice.
+Since 1997, the Federal Aviation Administration (FAA) and EUROCONTROL have jointly organized two prominent series of scientific conferences in air transportation: the Air Traffic Management (ATM) Research and Development (R&D) Seminar and the International Conference on Research in Air Transportation (ICRAT). These events have been hosted in various US and European locations, fostering the exchange of research results and building consensus on key issues in air transportation and ATM. The conferences have been instrumental in creating and reinforcing professional relationships among leading experts and researchers. Papers presented are publicly available on the conference websites, forming a valuable repository of air transportation research. Starting in 2025, the ATM R&D Seminar and ICRAT have been merged into a new annual event, the International Air Transportation Research and Development Symposium (ATRDS), thus integrating the best elements of both previous conferences. Two symposia have taken place so far: 2025 in Prague, Czech Republic, and 2026 in Delft, Netherlands. Still based on an open Call for Papers, the Symposium also features tutorials on selected topics and a dedicated student research paper track. Industry members are encouraged to attend to facilitate the transfer of research from academia to practice.
 
 ## Call for Papers
 
-The Programme Committee (PC) invites research papers that present new concepts, analyses, and methodologies in one of the themes set out below. Papers may address any part of the lifecycle from early concept to implementation. The Committee also considers papers that demonstrate the infeasibility of certain concepts (negative results), deployment experiences with valuable lessons as well as papers that describe and analyse relevant innovative concepts and emerging technologies. Papers describing research and concepts that apply globally will be looked upon favourably, as will contributions arising from collaboration between different organizations, especially joint international efforts.
+The Programme Committee (PC) invites research papers that present new concepts, analyses, and methodologies in one of the themes set out below. Papers may address any part of the lifecycle from early concept to implementation. The concepts and technologies described should be relevant to existing or anticipated operational challenges, with discussion of potential implementation if applicable. The Committee also considers papers that demonstrate the infeasibility of certain concepts (negative results), deployment experiences with valuable lessons as well as papers that describe and analyse relevant innovative concepts and emerging technologies. Papers describing research and concepts that apply globally will be looked upon favourably, as will contributions arising from collaboration between different organizations, especially joint international efforts.
 The Symposium invites contributions in two categories with the criteria listed below:
 
- 1. Full Papers (up to 10 pages) - Submissions must provide a clear explanation of their objectives, approach, methodology, and results, and draw conclusions that underscore the scientific value of the work. Papers lacking clear results will be rejected. Authors are required to reference previous work, such as from the ATM Seminar and ICRAT, which collectively contain a huge repository of scientific publications (see www.atmseminar.org and www.icrat.org). Papers that duplicate content presented at other conferences or similar forums will not be accepted. 
- 2. Doctoral Research Papers (up to 4 pages) – Young researchers are encouraged to submit papers presenting ongoing or recently completed PhD research. The symposium provides a supportive environment where doctoral students can receive constructive feedback from experienced researchers. Submissions should be in English and detail the research, approach, and preliminary results as well as relevant references.
+ 1. Full Papers (up to 10 pages) - Submissions must provide a clear explanation of their objectives, approach, methodology, and results, and draw conclusions that underscore the scientific value of the work. Papers lacking clear results will be rejected. Authors are required to reference previous work, such as from the ATM Seminar and ICRAT, which collectively comprise a large repository of scientific publications (see www.atrdsymposium.org and www.icrat.org). Papers that duplicate content presented at other conferences or similar forums will not be accepted. Students may submit full papers as first authors if their research is mature. All full paper submissions will be reviewed using the same criteria.
+ 2. Student Research Papers (up to 4 pages) – Student researchers are encouraged to submit papers presenting proposed or ongoing research. The symposium provides a supportive environment where students can receive constructive feedback from experienced researchers in academia, industry, and government. Submissions should be in English and detail the problem being addressed, research approach, and preliminary results (if available), as well as relevant references. Student papers should describe the maturity of the research from the author’s perspective (see template).
 
 ## Submission Guidelines
 
-Submissions should be made through EasyChair in either of the two categories mentioned above. Instructions and templates are available on www.atmseminar.org and www.icrat.org.
+Submissions should be made through EasyChair in either of the two categories mentioned above.
 
-** [All submissions are expected through EasyChair at this link.](https://easychair.org/conferences/?conf=atrds2026) **
+<!-- ** [All submissions are expected through EasyChair at this link.](https://easychair.org/conferences/?conf=atrds2027) ** -->
 
 ## Important Dates
 
-* ** Submission Deadline** : February 16th, 2026
-* ** Notification of Acceptance / Rejection** : March 25, 2026
+* ** Submission Deadline** : February 15, 2027
+* ** Notification of Acceptance / Rejection** : March 24, 2027
 
 Submissions will be peer-reviewed by at least three committee members according to the criteria indicated above. Submissions should be considered final versions, although the PC may request minor revisions to improve readability. Authors of accepted papers are required to attend the entire symposium. Best paper awards will be presented, and accepted papers will be indexed in SCOPUS and assigned a DOI. Top papers may also be featured in a special journal issue.
 
@@ -45,11 +41,9 @@ All papers must be original and not simultaneously submitted to another journal 
 
 Full papers are to be submitted through EasyChair – templates are provided below.
 
-<!-- ***Updated January 14th, 2025*** -->
-
-* [**Template (.doc) **](./ATRDS2026_template_pub_v1.doc)
-* [**Template (.pdf) **](./ATRDS2026_template_pub_v2.pdf)
-* [**Template (LaTeX .zip) **](./ATRDS2026_LaTeX.zip)
+* [**Template (.doc) **](./ATRDS2027_template_pub_v1.doc)
+<!-- * [**Template (.pdf) **](./ATRDS2026_template_pub_v2.pdf) -->
+<!-- * [**Template (LaTeX .zip) **](./ATRDS2026_LaTeX.zip) -->
 * [**Seminar themes are listed here.**](../theme-information/) 
 
 
